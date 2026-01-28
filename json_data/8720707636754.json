@@ -1,0 +1,52 @@
+{
+  "ean": "8720707636754",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000182004552",
+      "name": "Raved Placemats Alma - Set van 4 Stuks - Grijs - Leatherlook - Kunststof - Ovaal - Eettafel - Onderlegger - Waterafstotend",
+      "productID": "9300000182004552",
+      "description": "<p><strong>Raved Alma Placemats zijn dé stijlvolle onderleggers die je eettafel beschermen én verfraaien.</strong><br />Met een luxe leatherlook en waterafstotend materiaal voeg je elegantie en gemak toe aan elke maaltijd.</p> <h3>Luxe uitstraling met leatherlook</h3> <p>Het stijlvolle design in leatherlook geeft jouw tafel direct een chique uitstraling. Deze placemats passen perfect bij moderne én klassieke interieurs.</p> <h3>Waterafstotend en makkelijk schoon te maken</h3> <p>Morsen geen probleem: dankzij het waterafstotende kunststof reinig je de placemats eenvoudig met een vochtige doek. Snel schoon en weer klaar voor gebruik.</p> <h3>Antislip voor extra gemak</h3> <p>Dankzij de antislip laag blijven de placemats stevig liggen. Geen verschuivende borden of glazen tijdens het eten – wel zo prettig.</p> <h3>Ovale vorm voor moderne look</h3> <p>De ovale vorm (45 x 30 cm) geeft jouw tafelsetting een unieke touch. Combineer stijlvol met ronde of rechthoekige tafels voor een speels effect.</p> <h3>Set van 6: ideaal voor het hele gezin</h3> <p>Met zes stuks in één set heb je genoeg voor het hele gezin of een diner met gasten. Praktisch én voordelig.</p> <p><strong>Wat zit er in de doos?</strong></p> <ul> <li> <p>6x Raved Alma placemats (grijs, 45 x 30 cm, ovaal)</p> </li> </ul> <h3>Productspecificaties:</h3> <ul> <li> <p><strong>Merk:</strong> Raved</p> </li> <li> <p><strong>Serie:</strong> Alma</p> </li> <li> <p><strong>Materiaal:</strong> Kunststof met leatherlook</p> </li> <li> <p><strong>Afmetingen:</strong> 45 x 30 cm</p> </li> <li> <p><strong>Kleur:</strong> Grijs</p> </li> <li> <p><strong>Vorm:</strong> Ovaal</p> </li> <li> <p><strong>Gewicht:</strong> ca. 100 g per stuk</p> </li> <li> <p><strong>Eigenschappen:</strong> Waterafstotend, antislip, makkelijk schoon te maken</p> </li> </ul> <h3>Producttips:</h3> <ul> <li> <p>Reinig met een zachte, vochtige doek – geen agressieve schoonmaakmiddelen</p> </li> <li> <p>Perfect als onderlegger voor dagelijks gebruik én diners</p> </li> <li> <p>Combineer met bijpassende servetten voor een complete look</p> </li> <li> <p>Bewaar plat om vervorming te voorkomen</p> </li> </ul>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/g981MjPjKRKk/qx2GB1D/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Kunstleer"
+      ],
+      "size": "30 cm x 40 cm",
+      "color": "Grijs",
+      "gtin13": "8720707636754",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "40",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "30",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/g981MjPjKRKk/qx2GB1D/550x550.jpg"
+  ]
+}

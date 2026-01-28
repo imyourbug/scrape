@@ -1,0 +1,99 @@
+{
+  "ean": "9507261448738",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000173001659",
+      "name": "Raved Rond Tafelzeil - 160 cm ø - Boerenruit Rood - PVC - Afwasbaar",
+      "productID": "9300000173001659",
+      "description": "<p>Bescherm uw tafel stijlvol met dit <strong>ronde PVC-tafelzeil Ø 160 cm</strong> in een trendy <strong>boerenruit patroon</strong>. Dankzij het <strong>afwasbare materiaal</strong> creëert u direct een gezellige tafelsetting én kiest u voor slimme bescherming tegen vlekken en kringen.</p> <p>Breng sfeer én functionaliteit samen met het <strong>primair zoekwoord “tafelzeil”</strong> en wel in de vorm van dit elegante ronde model van het merk <strong>Raved</strong>.</p> <h3>Bescherm en verfraai uw tafel met gemak</h3> <p>Met een diameter van Ø 160 cm is dit tafelzeil perfect voor een ronde tafel en zorgt het voor een mooie overhang – wat niet alleen elegant oogt, maar ook de randen van uw tafel beschermt tegen slijtage of ongelukjes. Het <strong>materiaal PVC</strong> is speciaal gekozen voor zijn veerkracht, waterbestendigheid en eenvoudige onderhoud: u hoeft slechts even af te nemen met een vochtige doek om hem weer netjes te hebben. De combinatie van <strong>boerenruit-patroon</strong> en past moeiteloos in zowel landelijke als hedendaagse interieurs én buitenopstellingen.</p> <h3>Binnen én buiten gebruik</h3> <p>Of u nu een gezellige familie-lunch binnen organiseert of een zomerse borrel buiten op het terras – dit tafelzeil is geschikt voor beide situaties. Dankzij het afwasbare vermogen en het onderhoudsgemak is het ideaal voor gezinnen met kinderen, huisdieren of frequent gebruik. Natuurlijk: bij langdurige blootstelling aan fel zonlicht adviseren we het zeil naar binnen te halen om verkleuring te voorkomen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Stijlvolle bescherming</strong>: het ruit-patroon geeft direct sfeer en is bovendien tijdloos.</p> </li> <li> <p><strong>Praktisch materiaal</strong>: PVC zorgt ervoor dat vloeistoffen niet direct intrekken, vlekken zijn eenvoudig weg te vegen.</p> </li> <li> <p><strong>Direct klaar voor gebruik</strong>: u hoeft geen tafelkleden te wassen of strijken – gewoon uitrollen en genieten.</p> </li> <li> <p><strong>Merkvertrouwen</strong>: Raved staat bekend om praktische én mooie tafelkleden/zeilen.</p> </li> </ul> <h3>Onderhoud en aandachtspunten</h3> <p>Veeg het zeil regelmatig schoon met een zachte doek en milde zeep. Vermijd agressieve schoonmaakmiddelen of een schuurspons die het oppervlak kan beschadigen. Voor buitenshuis gebruik: rol het op en berg het uit de regen of direct zonlicht wanneer u geen gebruik maakt – zo behoudt u kleur en kwaliteit.</p> <h3>Call to action</h3> <p>Verwen uw tafel vandaag nog met een slimme én stijlvolle oplossing: kies nu voor dit <strong>afwasbare PVC tafelzeil Ø 160 cm met boerenruit patroon</strong> en geniet van een nette, sfeervolle tafel – elke dag opnieuw!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/G0Z74ZAkEjJ7/KOlN1V8/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 160 cm",
+      "color": "Donkerblauw",
+      "gtin13": "9507261448738",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.00",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/G0Z74ZAkEjJ7/KOlN1V8/550x550.jpg",
+    "https://media.s-bol.com/QM1q41XpyO2q/KOlN1V8/550x550.jpg",
+    "https://media.s-bol.com/MGjm4jXPPDwA/KOlN1V8/550x504.jpg",
+    "https://media.s-bol.com/Ewl74lygB5Ev/KOlN1V8/550x550.jpg",
+    "https://media.s-bol.com/r10NO0pWqomE/KOlN1V8/550x178.jpg",
+    "https://media.s-bol.com/xgGNXGyWzmkn/KOlN1V8/550x550.jpg",
+    "https://media.s-bol.com/PL1p41GoxY9l/KOlN1V8/550x550.jpg"
+  ]
+}

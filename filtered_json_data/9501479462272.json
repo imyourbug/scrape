@@ -1,0 +1,1648 @@
+{
+  "ean": "9501479462272",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000179030934",
+      "name": "Raved Tafelzeil 140 140 - PVC - Afwasbaar",
+      "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/o128lx4OBnpL/2RlXZ9P/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000179030934",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030299",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-140-cm-geel-pvc-afwasbaar/9300000179030299/",
+          "productID": "9300000179030299",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8Emok74ok/Q1rXzOq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9506856824285",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030300",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-310-cm-geel-pvc-afwasbaar/9300000179030300/",
+          "productID": "9300000179030300",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ZnLBqZ348rER/kRrvNl6/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9507485164643",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030301",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-250-cm-geel-pvc-afwasbaar/9300000179030301/",
+          "productID": "9300000179030301",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjP7yLNJ4zwn/98vjZ24/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9501897133549",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030302",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-180-cm-geel-pvc-afwasbaar/9300000179030302/",
+          "productID": "9300000179030302",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8Erm3LEmV3A/1jkMZ9o/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9504411618737",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030303",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-300-cm-geel-pvc-afwasbaar/9300000179030303/",
+          "productID": "9300000179030303",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBOm3ZQqAMY/48n2Z90/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9507981283145",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030304",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-100-cm-geel-pvc-afwasbaar/9300000179030304/",
+          "productID": "9300000179030304",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5Z8jvx2XAyG/76qMZAG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9505697423633",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030305",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-230-cm-geel-pvc-afwasbaar/9300000179030305/",
+          "productID": "9300000179030305",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6kJ3AXLmqY/X6BPKMl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9506976125170",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030306",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-160-cm-geel-pvc-afwasbaar/9300000179030306/",
+          "productID": "9300000179030306",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o128lx4OBnpL/2RlXZ9P/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9501479462272",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030307",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-320-cm-geel-pvc-afwasbaar/9300000179030307/",
+          "productID": "9300000179030307",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NBvmZl6lqwXz/0R0ZPy5/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9502213679871",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030308",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-270-cm-geel-pvc-afwasbaar/9300000179030308/",
+          "productID": "9300000179030308",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kBoAxP9ogW/P1qGyYl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9506852234989",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030309",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-50-cm-geel-pvc-afwasbaar/9300000179030309/",
+          "productID": "9300000179030309",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/k1RBLqvwMJDK/Y6DZLM9/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9507442358245",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030310",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-240-cm-geel-pvc-afwasbaar/9300000179030310/",
+          "productID": "9300000179030310",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9501656252955",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030311",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-350-cm-geel-pvc-afwasbaar/9300000179030311/",
+          "productID": "9300000179030311",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n157kwqLOWJ4/Z4EgMWE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9509165186488",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030312",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-260-cm-geel-pvc-afwasbaar/9300000179030312/",
+          "productID": "9300000179030312",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3XAnBY42Ymlx/gJnoNGk/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9509465279927",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030313",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-280-cm-geel-pvc-afwasbaar/9300000179030313/",
+          "productID": "9300000179030313",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE3j17rPnD3Y/pYkAlqQ/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9502612331158",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030314",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-290-cm-geel-pvc-afwasbaar/9300000179030314/",
+          "productID": "9300000179030314",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8Erm384nWGn/lOW0wpJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9508415727921",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030315",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-220-cm-geel-pvc-afwasbaar/9300000179030315/",
+          "productID": "9300000179030315",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1R5Kp4nwg74/VmzWGN9/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9506182511392",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030316",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Pauwen Veren – Geel – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-pauwen-veren-140-cm-x-200-cm-geel-pvc-afwasbaar/9300000179030316/",
+          "productID": "9300000179030316",
+          "description": "<p>Bescherm je tafel en voeg direct kleur toe met dit <strong>stijlvolle en praktische tafelzeil</strong>. Het <strong>afwasbare PVC-materiaal</strong> zorgt voor eenvoudig onderhoud, terwijl het opvallende <strong>pauwenveren-motief op geel</strong> direct sfeer creëert – perfect voor binnen én buiten.</p> <p>Transformeer je eet- of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelzeil</strong> van merk <strong>Raved</strong>, met een opvallend patroon van pauwenveren op een warme gele achtergrond. Dit model is uitgevoerd in hoogwaardig <strong>PVC</strong>, dat zowel bescherming biedt als direct stijl toevoegt aan je interieur of buitenplek.</p> <h3>Sfeer en stijl</h3> <p>Het levendige <strong>geel</strong> brengt meteen een zonnige, uitnodigende ambiance, terwijl het motief van <strong>pauwenveren</strong> zorgt voor een exotische en luxe uitstraling. Of je nu gezellig gaat ontbijten, een lange maaltijd hebt met vrienden of het terras aankleedt voor een zomeravond – dit tafelzeil maakt de tafel tot een echte blikvanger.</p> <h3>Duurzaam materiaal & gebruiksgemak</h3> <p>Dankzij het robuuste <strong>PVC-materiaal</strong> geniet je van langdurige kwaliteit: minder slijtage, kleurvastheid en bestand tegen knoeien of vlekken. <strong>Afwasbaar</strong>, dus na het eten eenvoudig afnemen met een vochtige doek – geen gedoe meer met uren poetsen. Daarmee lost dit tafelzeil een belangrijk pijnpunt op: “slechte tafelzeilen die snel verslijten of vlekken zichtbaar blijven”.</p> <h3>Binnen én buiten</h3> <p>Of je nu eet aan de eettafel of geniet op het terras: dit tafelzeil is ontworpen voor veelzijdig gebruik. Door de brede standaardbreedte van 140 cm (maatvoorbeeld) past het makkelijk op veel standaardtafels. Let op: om de schitterende kleur en het motief optimaal te behouden, is direct blootstellen aan extreme weersinvloeden minder ideaal, dus bij langdurige buitenopslag is een afdekking aanbevolen. </p> <h3>Bescherm je tafel & creëer rust</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een stijlupgrade, maar ook bescherming: denk aan kinderen, knoeien, buitengebruik of feestjes. Hierdoor speel je in op de kooptrigger van “bescherming + gemak”. Daarnaast zorgt het opvallende motief voor een gespreksonderwerp – sociale bewijskracht wordt versterkt wanneer gasten reageren op je stijlvolle tafelsetting.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (afwasbaar) </p> </li> <li> <p>Kleur: <strong>Geel met pauwenveren-motief</strong> </p> </li> <li>Merk: <strong>Raved</strong></li> <li> <p>Geschikt voor binnen & buitengebruik </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Opvallend design – niet zomaar een tafelzeil, maar een stijlstatement.</p> </li> <li> <p><strong>USP 2:</strong> Praktisch onderhoud – afwasbaar PVC betekent minder schoonmaaktijd, meer genietmomenten.</p> </li> <li> <p><strong>USP 3:</strong> Veelzijdig – geschikt voor dagelijks gebruik én speciale gelegenheden.</p> </li> </ul> <p>Laat je tafel spreken, bescherm hem tegen leeftijden en knoeien en geniet van de combinatie van luxe uitstraling en praktisch gemak. Kies voor dit tafelzeil – en maak van elke maaltijd een stijlvol moment. <strong>Bestel vandaag nog</strong> en geef jouw tafel de upgrade die hij verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kBojlmP7QW/RgvXAL0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9503165858413",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030901",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  230 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-230-cm-wit-pvc-afwasbaar/9300000179030901/",
+          "productID": "9300000179030901",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DognR9WZp4E6/o2jzk5z/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Wit",
+          "gtin13": "9502617851583",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030902",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  100 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-100-cm-wit-pvc-afwasbaar/9300000179030902/",
+          "productID": "9300000179030902",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ro340RVVwBp2/jR0rN3W/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Wit",
+          "gtin13": "9501933564573",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030903",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  270 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-270-cm-wit-pvc-afwasbaar/9300000179030903/",
+          "productID": "9300000179030903",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/EpjollGLL4Dm/n5gyj34/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Wit",
+          "gtin13": "9502811965871",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030904",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  180 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-180-cm-wit-pvc-afwasbaar/9300000179030904/",
+          "productID": "9300000179030904",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qn34jYL60RNG/zp7Oy3r/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Wit",
+          "gtin13": "9502999183821",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030905",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  280 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-280-cm-wit-pvc-afwasbaar/9300000179030905/",
+          "productID": "9300000179030905",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qn34jY8ORyq0/J6NprmD/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Wit",
+          "gtin13": "9503741196175",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030906",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  50 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-50-cm-wit-pvc-afwasbaar/9300000179030906/",
+          "productID": "9300000179030906",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JxowZqKlJnPD/xk2Mw3J/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Wit",
+          "gtin13": "9503317173524",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030907",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  320 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-320-cm-wit-pvc-afwasbaar/9300000179030907/",
+          "productID": "9300000179030907",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE34JVJR9N33/G6Mmoly/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Wit",
+          "gtin13": "9508214918384",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030908",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  160 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-160-cm-wit-pvc-afwasbaar/9300000179030908/",
+          "productID": "9300000179030908",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BmW0gLXR3EZx/mZYxg3p/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Wit",
+          "gtin13": "9508758782786",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030909",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  140 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-140-cm-wit-pvc-afwasbaar/9300000179030909/",
+          "productID": "9300000179030909",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ol54YQX8rYDY/0R0ZPx7/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Wit",
+          "gtin13": "9504542653744",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030910",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  200 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-200-cm-wit-pvc-afwasbaar/9300000179030910/",
+          "productID": "9300000179030910",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/70GK6Lyz24qw/ADMZgVB/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Wit",
+          "gtin13": "9504912493918",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030911",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  220 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-220-cm-wit-pvc-afwasbaar/9300000179030911/",
+          "productID": "9300000179030911",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ww34jm77B2xr/qxlBm33/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Wit",
+          "gtin13": "9504987673444",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030912",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  240 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-240-cm-wit-pvc-afwasbaar/9300000179030912/",
+          "productID": "9300000179030912",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BmW0gLExPolJ/gJnoN39/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Wit",
+          "gtin13": "9504272763737",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030913",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  310 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-310-cm-wit-pvc-afwasbaar/9300000179030913/",
+          "productID": "9300000179030913",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yy3g88MvDvDz/pYkAl31/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Wit",
+          "gtin13": "9504979338894",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030914",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  300 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-300-cm-wit-pvc-afwasbaar/9300000179030914/",
+          "productID": "9300000179030914",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/vv34goLRBgN8/5yRZXDx/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Wit",
+          "gtin13": "9505254168991",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030915",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  250 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-250-cm-wit-pvc-afwasbaar/9300000179030915/",
+          "productID": "9300000179030915",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE345LDkVoD3/ER0kmjN/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Wit",
+          "gtin13": "9504691272926",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030916",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  260 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-260-cm-wit-pvc-afwasbaar/9300000179030916/",
+          "productID": "9300000179030916",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qn34jYLDmN6G/yP9Nx3V/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Wit",
+          "gtin13": "9508958187923",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030917",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  290 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-290-cm-wit-pvc-afwasbaar/9300000179030917/",
+          "productID": "9300000179030917",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JxowZqWKGoEP/v280r3V/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Wit",
+          "gtin13": "9509583918944",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179030918",
+          "name": "Raved Tafelzeil Damast Ruiten  140 cm x  350 cm - Wit - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-damast-ruiten-140-cm-x-350-cm-wit-pvc-afwasbaar/9300000179030918/",
+          "productID": "9300000179030918",
+          "description": "<p>Ervaar de tijdloze elegantie van het Raved Tafelzeil Damast, waarin klassieke damastpatronen zich subtiel manifesteren tegen een verfijnde witte achtergrond. Dit stijlvolle, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage, maar voegt ook een vleugje klassieke schoonheid toe aan je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert duurzaamheid met een verfijnd design.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan instellingen, van een eenvoudige maaltijd binnen tot een stijlvolle bijeenkomst buiten, het Raved Tafelzeil Damast zorgt voor een elegante tafelsetting. Om de prachtige witte kleur en het ingetogen damastpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen hevige weersinvloeden. Het is gemakkelijk schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Wit met Damastmotief</h3> <p>Transformeer je tafel in een raffinement van rust met het Raved Tafelzeil Damast. De zuivere witte achtergrond, verrijkt met klassieke damastmotieven, creëert een rustige en verfijnde setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte een touch van elegantie geeft.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Wit met Damastmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme diners als grote feesten. Dit tafelzeil brengt een element van grandeur naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Damast kies je voor een klassieke, elegante look die elke eetervaring verrijkt met een vleugje tijdloze schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jK342qgnVrgl/BBPZjWx/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Wit",
+          "gtin13": "9509759855882",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "31.99",
+        "highPrice": "35.99",
+        "offerCount": "2"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/o128lx4OBnpL/2RlXZ9P/550x550.jpg"
+  ]
+}

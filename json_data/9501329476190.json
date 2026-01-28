@@ -1,0 +1,1908 @@
+{
+  "ean": "9501329476190",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000088003812",
+      "name": "Raved Tafelzeil Design Kleurrijk 140 140 - PVC - Afwasbaar",
+      "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/r1kV6Jzz8522/qjWoP2D/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000088003812",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814238",
+          "name": "Raved tafelzeil 140 cm × 160 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-160-cm-rood-pvc-afwasbaar/9300000038814238/",
+          "productID": "9300000038814238",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n156PBw2yAmp/nZWlMzY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9501987795640",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814253",
+          "name": "Raved tafelzeil 140 cm × 250 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-250-cm-rood-pvc-afwasbaar/9300000038814253/",
+          "productID": "9300000038814253",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VG4LyYnrR/r0WpQYB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9505885797133",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814268",
+          "name": "Raved tafelzeil 140 cm × 240 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-240-cm-rood-pvc-afwasbaar/9300000038814268/",
+          "productID": "9300000038814268",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9504293266132",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814280",
+          "name": "Raved tafelzeil 140 cm × 180 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-180-cm-rood-pvc-afwasbaar/9300000038814280/",
+          "productID": "9300000038814280",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1R6PxpkD3wv/y8Wz1mz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9505278149969",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814288",
+          "name": "Raved tafelzeil 140 cm × 300 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-300-cm-rood-pvc-afwasbaar/9300000038814288/",
+          "productID": "9300000038814288",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3VkjQLrw1y/mwWkLEE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9505465943486",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814366",
+          "name": "Raved tafelzeil 140 cm × 220 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-220-cm-rood-pvc-afwasbaar/9300000038814366/",
+          "productID": "9300000038814366",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kV6Jzg7jQK/wj6xYkg/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9508217468541",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814371",
+          "name": "Raved tafelzeil 140 cm × 140 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-140-cm-rood-pvc-afwasbaar/9300000038814371/",
+          "productID": "9300000038814371",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKY6ROA134mp/BgGvKn2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9508327964797",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814376",
+          "name": "Raved tafelzeil 140 cm × 280 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-280-cm-rood-pvc-afwasbaar/9300000038814376/",
+          "productID": "9300000038814376",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VGmP2NLy9/GZNAP9r/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9509767271247",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814381",
+          "name": "Raved tafelzeil 140 cm × 200 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-200-cm-rood-pvc-afwasbaar/9300000038814381/",
+          "productID": "9300000038814381",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqB9yxkxGOxX/zmgA2n5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9503941644353",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723126",
+          "name": "Raved tafelzeil 140 cm × 290 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-290-cm-rood-pvc-afwasbaar/9300000080723126/",
+          "productID": "9300000080723126",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkWRN3Q0y8D/lOW0Kp7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9501431367829",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723146",
+          "name": "Raved tafelzeil 140 cm × 310 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-310-cm-rood-pvc-afwasbaar/9300000080723146/",
+          "productID": "9300000080723146",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JMPrz6k95r/k5WgJor/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9502344547629",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723151",
+          "name": "Raved tafelzeil 140 cm × 100 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-100-cm-rood-pvc-afwasbaar/9300000080723151/",
+          "productID": "9300000080723151",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNPAv1xz03/pgWnOzX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9503334599574",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723156",
+          "name": "Raved tafelzeil 140 cm × 270 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-270-cm-rood-pvc-afwasbaar/9300000080723156/",
+          "productID": "9300000080723156",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkWRNzDp448/JZk1VP9/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9505821416326",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723171",
+          "name": "Raved tafelzeil 140 cm × 230 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-230-cm-rood-pvc-afwasbaar/9300000080723171/",
+          "productID": "9300000080723171",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VG4L0DxY9/AnErJm7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9508884876885",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723185",
+          "name": "Raved tafelzeil 140 cm × 320 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-320-cm-rood-pvc-afwasbaar/9300000080723185/",
+          "productID": "9300000080723185",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL9GNwnMEk/oYWmNOA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9505724373221",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723200",
+          "name": "Raved tafelzeil 140 cm × 350 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-350-cm-rood-pvc-afwasbaar/9300000080723200/",
+          "productID": "9300000080723200",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kV6Jzz8522/qjWoP2D/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9501329476190",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080723208",
+          "name": "Raved tafelzeil 140 cm × 260 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-260-cm-rood-pvc-afwasbaar/9300000080723208/",
+          "productID": "9300000080723208",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3VkjP7K291/xGWyZlz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9508844382135",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015144",
+          "name": "Raved Tafelzeil 140 cm x 320 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-320-cm-rood-pvc-afwasbaar/9300000082015144/",
+          "productID": "9300000082015144",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJk175q7WQX2/X6BwMlV/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507528396697",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015147",
+          "name": "Raved Tafelzeil 140 cm x 260 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-260-cm-rood-pvc-afwasbaar/9300000082015147/",
+          "productID": "9300000082015147",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6B85x50M9V/WnAv80o/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9505198963492",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015148",
+          "name": "Raved Tafelzeil 140 cm x 310 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-310-cm-rood-pvc-afwasbaar/9300000082015148/",
+          "productID": "9300000082015148",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3JDWlx2J8y/Nxoj8B8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9501122761165",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015149",
+          "name": "Raved Tafelzeil 140 cm x 180 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-180-cm-rood-pvc-afwasbaar/9300000082015149/",
+          "productID": "9300000082015149",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/LE9BA5EXGZ2g/RgvnLJw/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9503975118172",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015150",
+          "name": "Raved Tafelzeil 140 cm x 250 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-250-cm-rood-pvc-afwasbaar/9300000082015150/",
+          "productID": "9300000082015150",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/k1RM6Oz9DyoE/Mjng9A1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9504113786727",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015152",
+          "name": "Raved Tafelzeil 140 cm x 230 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-230-cm-rood-pvc-afwasbaar/9300000082015152/",
+          "productID": "9300000082015152",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x8AMBOoQL2/ElLvPpl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9501982857268",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015163",
+          "name": "Raved Tafelzeil 140 cm x 140 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-140-cm-rood-pvc-afwasbaar/9300000082015163/",
+          "productID": "9300000082015163",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/D21lD3BoWG25/YO9xWO/1200x1014.jpg",
+            "width": 1200,
+            "height": 1014
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9509335228697",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015164",
+          "name": "Raved Tafelzeil 140 cm x 270 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-270-cm-rood-pvc-afwasbaar/9300000082015164/",
+          "productID": "9300000082015164",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/l1Y68MAjDKXj/3lmv9Xp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9505936938843",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015165",
+          "name": "Raved Tafelzeil 140 cm x 300 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-300-cm-rood-pvc-afwasbaar/9300000082015165/",
+          "productID": "9300000082015165",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x8AMPR5l4G/O7pkZDE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9504742771545",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015171",
+          "name": "Raved Tafelzeil 140 cm x 220 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-220-cm-rood-pvc-afwasbaar/9300000082015171/",
+          "productID": "9300000082015171",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VROZJ0E031AO/DRKr0ok/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9503943818417",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015172",
+          "name": "Raved Tafelzeil 140 cm x 100 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-100-cm-rood-pvc-afwasbaar/9300000082015172/",
+          "productID": "9300000082015172",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3JDWGJXr0O/JZkAPxy/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9502421721553",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015173",
+          "name": "Raved Tafelzeil 140 cm x 280 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-280-cm-rood-pvc-afwasbaar/9300000082015173/",
+          "productID": "9300000082015173",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1JYKAJw8nr/Q1rmOG5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9503164949563",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015174",
+          "name": "Raved Tafelzeil 140 cm x 240 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-240-cm-rood-pvc-afwasbaar/9300000082015174/",
+          "productID": "9300000082015174",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9507754182941",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015176",
+          "name": "Raved Tafelzeil 140 cm x 200 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-200-cm-rood-pvc-afwasbaar/9300000082015176/",
+          "productID": "9300000082015176",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1k7gMKyXQBL/2Rlr9NA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9508915565375",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015178",
+          "name": "Raved Tafelzeil 140 cm x 350 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-350-cm-rood-pvc-afwasbaar/9300000082015178/",
+          "productID": "9300000082015178",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZX7MA0JARR/KOlB6y8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9505158513675",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015331",
+          "name": "Raved Tafelzeil 140 cm x 160 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-160-cm-rood-pvc-afwasbaar/9300000082015331/",
+          "productID": "9300000082015331",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0ODm3EDp26E/0JrMzN/1200x1014.jpg",
+            "width": 1200,
+            "height": 1014
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9503736981120",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015347",
+          "name": "Raved Tafelzeil 140 cm x 290 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-290-cm-rood-pvc-afwasbaar/9300000082015347/",
+          "productID": "9300000082015347",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/QMWLA5M3X0gZ/P1qlYE6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9506524554346",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124775776",
+          "name": "Raved tafelzeil 140 cm × 50 cm – kersenprint rood – PVC – afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kersen-140-cm-x-50-cm-rood-pvc-afwasbaar/9300000124775776/",
+          "productID": "9300000124775776",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>lege­r- en vlekbestendige PVC tafelzeil</strong> van Raved in een vrolijke <strong>kersenprint</strong>. Dankzij de <strong>afwasbare kwaliteit</strong> is je tafel in no time schoon — ideaal voor dagelijks gebruik of gezellig dineren buiten.</p> <p>Creëer moeiteloos een tafelsetting die zowel stijlvol als praktisch is met dit <strong>tafelzeil van Raved</strong>. Het uitnodigende kersenmotief op een warme rode achtergrond geeft je eet- of tuintafel een frisse, speelse uitstraling — perfect voor een gezellige brunch of een uitgebreide familiediner.</p> <h3>Bescherming én sfeer</h3> <p>Met dit tafelzeil kies je niet alleen voor een leuke look, maar ook voor een slimme oplossing: het <strong>duurzame PVC-materiaal</strong> beschermt je tafel tegen slijtage, vlekken, krassen en lekkages. Geen zorgen bij een glas rode wijn of een knoeierige eter — gewoon afnemen en verder genieten. Het resultaat: een tafel die er altijd netjes uitziet én een huiskamer of terras die uitnodigt.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu binnen eet of buiten op het terras zit, dit exemplaar presteert: het is <strong>afwasbaar</strong>, waterafstotend en licht onderhoudsarm. Zo kun je meer tijd besteden aan gezelschap en minder aan schoonmaak.</p> <h3>Mooi design + praktische details</h3> <ul> <li> <p><strong>Kleur/design:</strong> Rood met kersenprint — stijlvol en vrolijk.</p> </li> <li> <p><strong>Materiaal:</strong> PVC (afwasbaar) — snelle reiniging, hoge bescherming.</p> </li> <li> <p><strong>Gebruik:</strong> Geschikt voor dagelijks gebruik, kinderfeestjes, buitenmaaltijden of gezellige diners.</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Verliesaversie-trigger:</strong> “Bescherm je tafel nu tegen krassen en vlekken — want een nieuw tafelblad is duurder dan dit tafelzeil.”</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Het merk Raved staat bekend om kwaliteitsvolle tafelzeilen met vrolijke prints die veel huishoudens gebruiken.</p> </li> <li> <p><strong>Urgentie-element:</strong> Maak je tafel vandaag nog klaar voor gasten of een ontspannen maaltijd — wacht niet tot het weer knoeien gebeurt.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Veeg het tafelzeil eenvoudig schoon met een vochtige doek. Gebruik geen agressieve schoonmaakmiddelen om de print en het materiaal mooi te houden. Rol het los op voor langere levensduur — zo blijft de kersenprint levendig en de PVC-laag intact.</p> <p><strong>Voeg stijl, gemak en bescherming toe aan je tafel – kies vandaag dit Raved tafelzeil en geniet elke dag weer van een vrolijke tafel.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VG4LwJ4o9/vg6wXjL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9509569841488",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124900003",
+          "name": "Raved Tafelzeil 140 cm x 50 cm – Rood Aardbei Print – PVC afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbei-140-cm-x-50-cm-rood-pvc-afwasbaar/9300000124900003/",
+          "productID": "9300000124900003",
+          "description": "<p>Breng direct gezelligheid en gemak aan tafel met dit <strong>rood-aardbeien print tafelzeil</strong> van Raved in <strong>PVC</strong>: <strong>afwasbaar</strong>, <strong>stijlvol én bescherming</strong> voor jouw tafel – ideaal voor dagelijks gebruik binnen én buiten.</p> <p><strong>Verbeter je eettafel in één stap met het <strong>rood-aardbeien print tafelzeil</strong> van Raved.</strong><br />Stel je voor: een vrolijke print met sappige aardbeien op een rode achtergrond, die je tafel direct omtovert tot een gezellige plek voor ontbijt, lunch of diner. Tegelijkertijd hoef je niet meer bang te zijn voor geknoei of krassen – dit tafelzeil is namelijk gemaakt van stevig <strong>PVC-materiaal</strong>, dat eenvoudig afneembaar is en langdurige bescherming biedt.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & gemak</strong> – Dankzij het duurzame PVC-materiaal is het tafelzeil bestand tegen vlekken, morsen en slijtage. Je veegt het zo af met een vochtige doek, waardoor je tafel netjes blijft zonder gedoe.</p> </li> <li> <p><strong>Sfeervol design</strong> – De opvallende aardbei-print in rood zorgt voor een frisse, vrolijke uitstraling. Perfect voor gezinnen, voor buiten op het terras of binnen in de keuken.</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – Of je nu de tuintafel dekt voor een zomerse lunch of de keuken opfrist: dit tafelzeil doet het allemaal.</p> </li> <li> <p><strong>Merkkwaliteit van Raved</strong> – Als merk staat Raved bekend om praktische, stijlvolle tafeltextieloplossingen. </p> </li> </ul> <h3>Goed om te weten</h3> <p>Dit tafelzeil is niet alleen functioneel maar ook designbewust. Door het patroon met aardbeien creëer je een speels accent in je interieur of tuin, zonder dat je hoeft te kiezen tussen mooi en praktisch. Het PVC-materiaal zorgt ervoor dat de levensduur hoger is dan een standaard tafelkleed en dat je tafel minder snel verslijt.<br />Let op: het gebruik buitenshuis vereist enige zorg — om de print mooi te houden en verkleuring te voorkomen, is het aan te raden het zeil binnen te halen bij slecht weer of langdurige blootstelling. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> (met non-woven vliesrug)</p> </li> <li> <p>Kleur/print: rood met aardbei motief</p> </li> <li> <p>Eigenschappen: afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Jouw tafel verdient dit</h3> <p>Laat geen plek meer voor morsen, vlekken of wegglijdende tafelkleden. Kies voor dit praktische én stijlvol tafelzeil en geef je tafel het onderhoud en de uitstraling die hij verdient. <strong>Bestel vandaag nog</strong> en geniet morgen al van een fris, beschermd en vrolijk gedekte tafel!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qr7mqzyxqXJ7/owgJmL/1200x1014.jpg",
+            "width": 1200,
+            "height": 1014
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9507287359513",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 1.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "36"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/r1kV6Jzz8522/qjWoP2D/550x550.jpg",
+    "https://media.s-bol.com/m5ZNPArD2zPO/qjWoP2D/550x490.jpg",
+    "https://media.s-bol.com/1QmwOXJXpY2q/XN9XYm/550x550.jpg",
+    "https://media.s-bol.com/LE9WRL3MJV0v/qjWoP2D/550x550.jpg",
+    "https://media.s-bol.com/KDr9R0wW3wKx/qjWoP2D/550x550.jpg",
+    "https://media.s-bol.com/g0JMPrwgNxwG/qjWoP2D/550x178.jpg"
+  ]
+}

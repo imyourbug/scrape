@@ -1,51 +1,167 @@
 {
-  "ean": "8720387517725",
-  "ld_json": [
+  "@type": "ProductGroup",
+  "@id": "https://www.bol.com/#9300000111015932",
+  "name": "Raved Zwart Tafelkleed/Tafellaken Elof - 100% katoen - Uitwasbaar",
+  "description": "aa",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://media.s-bol.com/r10Nrr1LopmK/76qmLPw/1200x1080.jpg",
+    "width": 1200,
+    "height": 1080
+  },
+  "productGroupID": "9300000111015932",
+  "variesBy": [
+    "https://schema.org/color",
+    "https://schema.org/size"
+  ],
+  "material": [
+    "Katoen"
+  ],
+  "hasVariant": [
     {
-      "@type": "ProductGroup",
-      "@id": "https://www.bol.com/#9300000111015932",
-      "name": "Raved Zwart Tafelkleed/Tafellaken Elof - 100% katoen - Uitwasbaar",
-      "description": "aa",
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9200000091493316",
+      "name": "Raved Rond Tafelzeil - 160 cm ø - Jungle - Roze - PVC - Afwasbaar",
+      "url": "https://www.bol.com/nl/nl/p/palace-fashion-tafelzeil-rond-160-cm-blauw-creme/9200000091493316/",
+      "productID": "9200000091493316",
+      "description": "aaa",
       "image": {
         "@type": "ImageObject",
-        "url": "https://media.s-bol.com/r10Nrr1LopmK/76qmLPw/1200x1080.jpg",
+        "url": "https://media.s-bol.com/n1ZlRYA0WXw4/Rgvy3vE/1200x1200.jpg",
         "width": 1200,
-        "height": 1080
+        "height": 1200
       },
-      "productGroupID": "9300000111015932",
-      "variesBy": [
-        "https://schema.org/color",
-        "https://schema.org/size"
-      ],
       "material": [
-        "Katoen"
+        "PVC"
       ],
-      "hasVariant": [
-      ],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.9,
-        "bestRating": 5,
-        "worstRating": 1,
-        "reviewCount": 12
+      "size": "160 cm x 160 cm",
+      "color": "Blauw/Creme",
+      "gtin13": "5603272084485",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
       },
       "offers": {
-        "@type": "AggregateOffer",
+        "@type": "Offer",
+        "price": "27.95",
         "priceCurrency": "EUR",
-        "lowPrice": "24.99",
-        "highPrice": "37.99",
-        "offerCount": "4"
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 2,
+              "maxValue": 3,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9200000107237170",
+      "name": "Raved Rond Tafelzeil - 160 cm ø - Linnen Beige - PVC - Afwasbaar",
+      "url": "https://www.bol.com/nl/nl/p/bonita-tafelzeil-rond-160-cm-flowers-grey-roze/9200000107237170/",
+      "productID": "9200000107237170",
+      "description": "aaa",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Ym28pL6Jg7z2/kR7wBgE/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 160 cm",
+      "gtin13": "5603272226557",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
       },
       "@context": "https://schema.org/"
     }
   ],
-  "subImages": [
-    "https://media.s-bol.com/r10Nrr1LopmK/76qmLPw/124x111.jpg",
-    "https://media.s-bol.com/NJxnggJZD19p/76qmLPw/124x124.jpg",
-    "https://media.s-bol.com/NJxnggJQOgA2/76qmLPw/124x124.jpg",
-    "https://media.s-bol.com/DvR7DDvzGQv6/76qmLPw/124x99.jpg",
-    "https://media.s-bol.com/yj8OBBjqGBGP/76qmLPw/124x124.jpg",
-    "https://media.s-bol.com/n1ZV001EkV85/76qmLPw/124x124.jpg",
-    "https://media.s-bol.com/g05VOO0lKkzr/76qmLPw/124x40.jpg"
-  ]
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.9,
+    "bestRating": 5,
+    "worstRating": 1,
+    "reviewCount": 12
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "EUR",
+    "lowPrice": "24.99",
+    "highPrice": "37.99",
+    "offerCount": "4"
+  },
+  "@context": "https://schema.org/"
 }

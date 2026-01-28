@@ -1,0 +1,52 @@
+{
+  "ean": "9509453947296",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000241401531",
+      "name": "Raved Tafelkleed – 140 cm x 300 cm – Polyester Zwart – Kreukvrij",
+      "productID": "9300000241401531",
+      "description": "<p>Breng meteen sfeer aan tafel met dit <strong>zuiver zwarte, kreukvrije polyester tafelkleed</strong> van Raved. Dankzij de <strong>onderhoudsvriendelijke polyester stof</strong> en de ruime maat past dit kleed perfect voor dagelijks gebruik én speciale gelegenheden.</p> <h3>Elegant en praktisch</h3> <p>Met dit <strong>tafelkleed zwart</strong> geef je jouw eettafel direct een strakke, moderne uitstraling. Het effen zwarte design past moeiteloos in zowel een minimalistisch interieur als een feestelijk tafelarrangement. Dankzij het materiaal <strong>polyester</strong> blijft het kleed langer mooi, want de stof kreukt nauwelijks en behoudt kleur en vorm – ideaal voor wie weinig tijd heeft om te strijken of op te ruimen.</p> <h3>Ruime maat & veelzijdig</h3> <p>maakt dit tafelkleed geschikt voor diverse tafelvormen: van vierkant tot rechthoekig, voor binnengebruik én eventueel buiten op het terras. Het effen zwart laat zich bovendien goed combineren met kleurige accessoires of juist met neutrale decoratie voor een stijlvolle, rustige sfeer.</p> <h3>Kreukvrij & onderhoudsvriendelijk</h3> <p>Dankzij de <strong>kreukvrije eigenschappen</strong> van polyester zie je nauwelijks kreuklijnen – dat betekent minder opvouwen, minder strijken, meer ontspannen aan tafel. Dit verhoogt het gebruiksgemak en voorkomt dat een zorgeloos diner er slordig uitziet. Vlekken? Geen probleem: doordat polyester relatief makkelijk af te nemen is, houd je de tafel netjes zonder stress.</p> <h3>Gelegenheden genoeg</h3> <p>– Dagelijks gebruik: kindvriendelijk, gastvrij en solide.<br />– Speciale gelegenheden: door het zwarte effen design creëer je elegantie zonder teveel poespas.<br />– Buitengebruik: het materiaal en de kleur zijn geschikt voor buiten op een zonnige middag of bij een zomerbarbecue (let op: wel even checken of de tafel droog is voor gebruik).</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om tafelkleden die <strong>sfeervol én praktisch</strong> zijn. Deze variant combineert het merk met kwalitatief polyester en een moderne kleurstelling. Kies dus voor zekerheid – kies voor stijl – kies voor gemak.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Kleur: Zwart</p> </li> <li> <p>Materiaal: Polyester (kreukvrij)</p> </li> <li>Design: Effen, modern</li> <li> <p>Toepassing: Binnen & mogelijk buiten</p> </li> <li> <p>Onderhoud: Eenvoudig afneembaar, weinig kreukvorming</p> </li> </ul> <h3>Actie</h3> <p>Vergeet slordige tafelsets en het eeuwige strijken – upgrade jouw tafel nu met dit <strong>stilvolle, zorgeloze zwarte tafelkleed</strong>. Klik op “In winkelwagen” en geef je eetruimte direct een upgrade.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Bqgvon3045jx/y8W4LpW/1200x1062.jpg",
+        "width": 1200,
+        "height": 1062
+      },
+      "material": [
+        "Polyester"
+      ],
+      "size": "140 cm x 300 cm",
+      "color": "Zwart",
+      "gtin13": "9509453947296",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "300",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Bqgvon3045jx/y8W4LpW/550x486.jpg"
+  ]
+}

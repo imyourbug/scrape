@@ -1,0 +1,877 @@
+{
+  "ean": "9506254236765",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000177404519",
+      "name": "Raved Tafelzeil Aardbeien 140 140 - Rood - PVC - Afwasbaar",
+      "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+      "productGroupID": "9300000177404519",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404500",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  260 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-260-cm-rood-pvc-afwasbaar/9300000177404500/",
+          "productID": "9300000177404500",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xxNALyzv2AWn/AD65V9P/1200x591.jpg",
+            "width": 1200,
+            "height": 591
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Rood",
+          "gtin13": "9501676979412",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404501",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  250 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-250-cm-rood-pvc-afwasbaar/9300000177404501/",
+          "productID": "9300000177404501",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1K1l3V6qjp/vg6xNzX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Rood",
+          "gtin13": "9501862234219",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404502",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  290 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-290-cm-rood-pvc-afwasbaar/9300000177404502/",
+          "productID": "9300000177404502",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qnXq5Jgo4oqD/wp0B3nM/1200x591.jpg",
+            "width": 1200,
+            "height": 591
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Rood",
+          "gtin13": "9504276583911",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404503",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  180 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-180-cm-rood-pvc-afwasbaar/9300000177404503/",
+          "productID": "9300000177404503",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/WV6j6n1Ao6PX/WnAKZRv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Rood",
+          "gtin13": "9502111775729",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404504",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  220 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-220-cm-rood-pvc-afwasbaar/9300000177404504/",
+          "productID": "9300000177404504",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/43DjwgAo1Xwk/G6RjlQ8/1200x591.jpg",
+            "width": 1200,
+            "height": 591
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Rood",
+          "gtin13": "9501936264418",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404505",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  100 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-100-cm-rood-pvc-afwasbaar/9300000177404505/",
+          "productID": "9300000177404505",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1K1l0z1vyx/GZNXDE8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Rood",
+          "gtin13": "9502763473790",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404506",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  230 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-230-cm-rood-pvc-afwasbaar/9300000177404506/",
+          "productID": "9300000177404506",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/l1YMYO03Y0Zj/qjWpGrG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Rood",
+          "gtin13": "9502874428283",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404507",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  270 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-270-cm-rood-pvc-afwasbaar/9300000177404507/",
+          "productID": "9300000177404507",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN656g0lMQgV/O7pXORL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Rood",
+          "gtin13": "9504898437692",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404508",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  310 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-310-cm-rood-pvc-afwasbaar/9300000177404508/",
+          "productID": "9300000177404508",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/zkpxp60gw19m/RgvKR7K/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Rood",
+          "gtin13": "9505486295595",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404509",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  350 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-350-cm-rood-pvc-afwasbaar/9300000177404509/",
+          "productID": "9300000177404509",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZMZwVxEJAR/zmg4Rom/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Rood",
+          "gtin13": "9505741213685",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404510",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  50 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-50-cm-rood-pvc-afwasbaar/9300000177404510/",
+          "productID": "9300000177404510",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgk7kGyKy6Ll/Vmz2Y9W/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Rood",
+          "gtin13": "9504953866498",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404511",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  240 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-240-cm-rood-pvc-afwasbaar/9300000177404511/",
+          "productID": "9300000177404511",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Rood",
+          "gtin13": "9506254236765",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404512",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  140 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-140-cm-rood-pvc-afwasbaar/9300000177404512/",
+          "productID": "9300000177404512",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPJP8zDVr6w/JZkKJRP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Rood",
+          "gtin13": "9507576946578",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404513",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  320 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-320-cm-rood-pvc-afwasbaar/9300000177404513/",
+          "productID": "9300000177404513",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/QMW5W1X8O4pq/BgGXxyN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Rood",
+          "gtin13": "9506334442369",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404514",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  300 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-300-cm-rood-pvc-afwasbaar/9300000177404514/",
+          "productID": "9300000177404514",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xMxj82Q0jG/r0WqJvK/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Rood",
+          "gtin13": "9508143735267",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404515",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  200 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-200-cm-rood-pvc-afwasbaar/9300000177404515/",
+          "productID": "9300000177404515",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN656gXvj6l0/wj6yOAM/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Rood",
+          "gtin13": "9506598615158",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404516",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  160 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-160-cm-rood-pvc-afwasbaar/9300000177404516/",
+          "productID": "9300000177404516",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VRO0Omr5lgAB/pgWoEqN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Rood",
+          "gtin13": "9508157784886",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177404517",
+          "name": "Raved Tafelzeil Aardbeien  140 cm x  280 cm - Rood - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-aardbeien-140-cm-x-280-cm-rood-pvc-afwasbaar/9300000177404517/",
+          "productID": "9300000177404517",
+          "description": "<p>Welkom in de zoete wereld van het Raved Tafelzeil Aardbeien, waar speelse aardbeienpatronen zich uitstrekken over een levendige rode achtergrond. Dit charmante, afwasbare PVC tafelzeil biedt niet alleen bescherming tegen dagelijkse slijtage maar brengt ook een vrolijke noot naar je eetruimte of buitenzitje. Perfect voor dagelijks gebruik en voor speciale gelegenheden, het combineert duurzaamheid met een speels en uitnodigend ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een breed scala aan gelegenheden, van een rustig ontbijt binnen tot een levendige tuinparty buiten, het Raved Tafelzeil Aardbeien zorgt voor een opgewekte tafelsetting. Om de levendige rode kleur en het speelse aardbeienpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is eenvoudig schoon te maken met een vochtige doek, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Rood met Aardbeienmotief</h3> <p>Transformeer je tafel in een vrolijk feest met het Raved Tafelzeil Aardbeien. De heldere rode achtergrond, bezaaid met kleurrijke aardbeien, creëert een speelse en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte opvrolijkt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> PVC / plastic</li> <li><strong>Kleur:</strong> Rood met Aardbeienmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel gezellige familiemaaltijden als kleurrijke themafeesten. Dit tafelzeil voegt een speelse en vrolijke flair toe aan je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Tafelzeil Aardbeien kies je voor een fris, vrolijk design dat elke eetervaring omtovert in een kleurrijke viering.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/9N7oBnJMR6qY/Dkq5gJq/1200x591.jpg",
+            "width": 1200,
+            "height": 591
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Rood",
+          "gtin13": "9508821998694",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "33.39",
+        "highPrice": "33.39",
+        "offerCount": "1"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://assets.s-bol.com/images/fallback-image.png"
+  ]
+}

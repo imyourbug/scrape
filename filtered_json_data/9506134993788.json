@@ -1,0 +1,96 @@
+{
+  "ean": "9506134993788",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000192851051",
+      "name": "Raved Tafelzeil - 140 cm Rond - Linnen Grijs - PVC - Uitwasbaar - Extra sterk",
+      "productID": "9300000192851051",
+      "description": "<p>Bescherm je tafel stijlvol met dit <strong>extra sterke ronde tafelzeil van PVC</strong> in een elegante <strong>linnen grijstint</strong>—<strong>uitwasbaar</strong>, voorzien van een <strong>beschermrand</strong> en ideaal voor dagelijks gebruik zonder concessies aan design.</p> <p>Breng rust en stijl naar je eetkamer met het <strong>lijnvrije, functionele tafelzeil</strong> van het merk <strong>Raved</strong>. Het <strong>primair zoekwoord “tafelzeil”</strong> staat centraal in deze tekst, zodat zowel de zoekmachine als de koper direct weten wat dit product biedt.</p> <h3>Stijlvolle bescherming voor je tafel</h3> <p>Met dit <strong>ronde tafelzeil Ø 140 cm</strong> creëer je direct een verzorgde look op je eettafel: de <strong>linnen grijze kleur</strong> en subtiele linnen-look structuur geven je interieur een moderne en rustige uitstraling. Maar belangrijker: dit is géén gewone decoratie — dit is bescherming. Dankzij het <strong>materiaal PVC</strong> is het doek stevig, vlek- en vochtbestendig, en combineert het stijl met functie.</p> <h3>Duurzaam en onderhoudsvriendelijk</h3> <p>Je wilt geen doek wat na één seizoen uitgehaald moet worden. Dit tafelzeil is <strong>extra sterk</strong> uitgevoerd en voorzien van een <strong>beschermrand</strong>, waardoor slijtage door het gebruik — denk aan kinderen, servies, of het gewoon dagelijks tafelen — beperkt wordt. Het <strong>uitwasbare oppervlak</strong> maakt schoonmaken tot een fluitje van een cent: gemorst sap, saus, een plasje drinken? Een doekje erover en je tafel ziet er weer netjes uit. Want waarom zou je kiezen tussen mooi én praktisch, als je beide kunt hebben?</p> <h3>Ideaal voor dagelijks gebruik en meer</h3> <p>Of je nu een gezellig diner organiseert, een knutselmiddag met de kids doet of gewoon een rustige avond aan tafel hebt — dit tafelzeil houdt je tafel beschermd zonder dat je concessies doet aan stijl. De ronde vorm Ø 140 cm sluit perfect aan op standaard ronde tafels, waardoor je geen last hebt van overhang of scheefhangende hoeken.<br />Daarnaast is het geschikt voor zowel binnen- als (mits overdekt) buitengebruik – al adviseren we om direct contact met zonlicht of warme pannen te vermijden om de kleur zo lang mogelijk mooi te houden.</p> <h3>Materiaal & specificaties</h3> <ul> <li> <p><strong>Materiaal:</strong> PVC (duurzaam, stevig, afwasbaar)</p> </li> <li> <p><strong>Kleur/design:</strong> Linnen look, grijs</p> </li> <li> <p><strong>Maat:</strong> Ø 140 cm</p> </li> <li> <p><strong>Rand:</strong> Verstevigde beschermrand voor extra levensduur</p> </li> <li> <p>Onderhoud: eenvoudig schoon te houden met een vochtige doek; vermijd langdurige contact met kleurstoffen zoals tomaat, kerrie of rode biet, omdat deze in verloop kunnen trekken.</p> </li> </ul> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p> Je tafel blijft beschermd tegen vlekken, kringen en beschadigingen.</p> </li> <li> <p> Een stijlvolle linnen-look past in veel moderne interieurstijlen.</p> </li> <li> <p> Het praktische en onderhoudsvriendelijke materiaal zorgt voor minder stress en meer genieten.</p> </li> <li> <p> Extra sterk uitgevoerd – je investering doet er écht toe.</p> </li> </ul> <p>Maak een bewuste keuze voor een tafelafdekking die zowel mooi is als functioneel. <strong>Bestel vandaag nog</strong> en transformeer je tafel tot een stijlvolle én beschermde eettafel - waar je met een gerust hart aan kunt zitten.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Rv9pPR92K7wz/DkERDLK/1200x965.jpg",
+        "width": 1200,
+        "height": 965
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Donker Grijs",
+      "gtin13": "9506134993788",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.20",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Rv9pPR92K7wz/DkERDLK/550x442.jpg",
+    "https://media.s-bol.com/Op4mPO4VXDGN/DkERDLK/550x550.jpg",
+    "https://media.s-bol.com/Vz6w7Y6g29lB/DkERDLK/550x399.jpg",
+    "https://media.s-bol.com/No4lYN4QKBGz/DkERDLK/550x550.jpg"
+  ]
+}

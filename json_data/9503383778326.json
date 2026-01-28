@@ -1,0 +1,98 @@
+{
+  "ean": "9503383778326",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000173001763",
+      "name": "Raved Rond Tafelzeil - 140 cm ø - Bloemen - Viooltjes - PVC - Afwasbaar",
+      "productID": "9300000173001763",
+      "description": "<p>Met dit <strong>stijlvolle rond tafelzeil</strong> creëer je direct een gezellige <strong>bloemen-viooltjesprint</strong> op tafel, gemaakt van <strong>PVC dat eenvoudig afwasbaar is</strong> — perfect voor dagelijks gebruik én extra momenten. <strong>Praktisch én sfeervol</strong>.</p> <p>Breng sfeer in huis of op het terras met het <strong>rond tafelzeil</strong> van Raved: het <strong>primair zoekwoord “rond tafelzeil Ø 140 cm”</strong> komt hier direct tot uiting. Dit artikel combineert stijl, gemak en veiligheid op hoog niveau.</p> <h3>Bescherming en stijl in één</h3> <p>Met een diameter van <strong>Ø 140 cm</strong> past dit tafelzeil ideaal op ronde tafels in de eetkamer, op het balkonterras of in de serre. Het vrolijke <strong>bloemen-viooltjesmotief</strong> zorgt voor een frisse, natuurlijke uitstraling — perfect voor liefhebbers van bloemendecoratie of wie een vrolijke touch wil geven aan het interieur.</p> <h3>Onderhouds­vriendelijk materiaal</h3> <p>Gemaakt van <strong>PVC</strong>, materiaal dat bekend staat om zijn eenvoud in onderhoud: morsen of knoeien? Geen probleem — een vochtige doek volstaat om het tafelzeil weer schoon te maken. Dankzij de <strong>afwasbare afwerking</strong> houd je de tafel snel en moeiteloos netjes.</p> <h3>Binnen en buiten gebruik</h3> <p>Of je nu binnen luncht of buiten dineert: het tafelzeil is geschikt voor beide situaties. Het beschermt je tafel tegen vlekken, kringen van glazen en kleine spetters — en geeft tegelijk een stijlvolle basis voor elke maaltijd.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Praktisch onderhoud</strong>: PVC + afwasbaar = direct gebruiksgemak.</p> </li> <li> <p><strong>Sfeervol design</strong>: bloemen-viooltjesprint maakt elke tafelsetting vrolijk.</p> </li> <li> <p><strong>Perfecte maat</strong>: Ø 140 cm is een veelgebruikte doorsnede voor ronde tafels — goede pasvorm zorgt voor nette uitstraling.</p> </li> <li> <p><strong>Merk­vertrouwen</strong>: Raved is gespecialiseerd in tafeltextiel, je kiest dus kwaliteit.</p> </li> </ul> <h3>Technische kenmerken</h3> <ul> <li> <p>Vorm: rond</p> </li> <li> <p>Maat: Ø 140 cm</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Print: Bloemen / viooltjes</p> </li> <li> <p>Geschikt voor: binnen & buiten gebruik</p> </li> <li> <p>Onderhoud: afnemen met vochtige doek (niet in wasmachine)</p> </li> </ul> <h3>Waarop letten?</h3> <p>Houd het tafelzeil droog als het buiten nat wordt — langdurige blootstelling aan regen of harde zon kan verkleuring veroorzaken. Gebruikers geven aan dat het design én de kwaliteit goed gewaardeerd worden.</p> <h3>Sluit aan bij je tafelsetting</h3> <p>Wil je een gezellige brunch, een tuinfeest of gewoon een sfeervolle dagelijkse tafel? Leg dit tafelzeil onder je servies, combineer met neutrale placemats of juist kleurrijke accessoires om het bloemenpatroon extra tot zijn recht te laten komen.</p> <p><strong>Voeg dit tafelzeil vandaag nog toe aan je winkelwagen</strong> en creëer direct een onderhoudsvriendelijke en sfeervolle basis voor je tafel – stijlvol én functioneel.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/4O82NMjZpPm7/DRKOXLn/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 140 cm",
+      "gtin13": "9503383778326",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.00",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/4O82NMjZpPm7/DRKOXLn/550x550.jpg",
+    "https://media.s-bol.com/8VqgRQnZw7pL/DRKOXLn/550x489.jpg",
+    "https://media.s-bol.com/0KgMJGNZly5K/DRKOXLn/550x550.jpg",
+    "https://media.s-bol.com/7R6MQPmZv7or/DRKOXLn/550x178.jpg",
+    "https://media.s-bol.com/3Nl3MLg8oPRA/DRKOXLn/550x550.jpg",
+    "https://media.s-bol.com/9W8jV0oZx7qZ/DRKOXLn/550x550.jpg",
+    "https://media.s-bol.com/5P8MONkZqXnY/DRKOXLn/550x550.jpg"
+  ]
+}

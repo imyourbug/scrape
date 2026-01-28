@@ -1,0 +1,52 @@
+{
+  "ean": "9502194953717",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000173001757",
+      "name": "Raved Rond Tafelzeil - 160 cm ø - Bladeren en Takken Groen - PVC - Afwasbaar",
+      "productID": "9300000173001757",
+      "description": "<p>Breng direct sfeer én gemak aan tafel met dit <strong>afwasbare PVC tafelzeil</strong> in een stijlvol <strong>bladeren & takkendesign</strong>, speciaal voor ronde tafels van Ø160 cm. Geniet van een beschermde, sfeervolle eetplek – zonder stress over vlekken of beschadigingen.</p> <p><strong>Ontdek het ultieme gemak en de sfeer voor uw eet- of tuintafel met het</strong> <strong>rond tafelzeil</strong> <strong>van Raved</strong> – het stijlvolle en functionele tafelaccessoire dat zowel praktisch als elegant is. Dankzij het <strong>materiaal PVC</strong> en de afwasbare afwerking heeft u een tafelzeil dat moeiteloos bestand is tegen alledaagse knoeiers, krassen of buitengebruik.</p> <h3>Bescherm en verfraai uw tafel</h3> <p>Met dit tafelzeil in het frisse <strong>groene kleurenpalet</strong> en het botanische <strong>bladeren & takken-design</strong>, geeft u direct een natuurlijke sfeer aan uw interieur of terras. Tegelijkertijd zorgt u voor een duurzame bescherming van uw tafelblad: geen zorgen meer over vlekken van rode wijn, kinderspullen of druppelende glazen.</p> <h3>Hoogwaardige kwaliteit en gebruiksgemak</h3> <ul> <li> <p>Het <strong>materiaal PVC</strong> biedt een slijt- en veegvaste oppervlaktelaag.</p> </li> <li> <p>De diameter van <strong>Ø160 cm</strong> is ideaal voor ronde tafels, zodat het tafelzeil mooi valt en zowel binnen als buiten perfect past.</p> </li> <li> <p>Dankzij de <strong>afwasbare</strong> eigenschap onderhoudt u het zeil in een handomdraai: eenvoudig afnemen met een natte doek is voldoende. </p> </li> <li> <p>De combinatie van stijlvol design én functionaliteit maakt dit tafelzeil tot een slimme keuze voor drukke huishoudens die hoge eisen stellen aan uitstraling én gemak.</p> </li> </ul> <h3>Veelzijdig in gebruik</h3> <p>Of u nu een gezellig familiediner plant, knutselmomenten met de kinderen inlast, of een zomerse borrel op het terras organiseert — dit Raved tafelzeil is er klaar voor. De <strong>bladeren & takken-print</strong> zorgt voor een stijlvolle uitstraling die past in zowel klassiek als modern interieur. En doordat het materiaal degelijke bescherming biedt, kunt u gerust een glas laten vallen of kinderen aan tafel laten kleuren — de tafel blijft mooi.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Bescherm uw tafel vandaag tegen krassen en vlekken die het uiterlijk én de levensduur kunnen aantasten.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel klanten prijzen de kwaliteit en het mooie design — “mooi design, hoge kwaliteit” staat in de reviews. </p> </li> <li> <p><strong>Urgentie:</strong> Omdat tafels veel gebruikt worden en vlekken snel ontstaan, is kiezen voor een beschermend zeil nu al een slimme stap.</p> </li> </ul> <h3>Onderhoudstip</h3> <p>Gebruik een zachte doek en eventueel een mild schoonmaakmiddel. Vermijd agressieve schuurmiddelen of scherpe objecten die het oppervlak kunnen beschadigen. Zo blijft de print helder en het PVC glanzend mooi.</p> <p><strong>Klaar om uw tafel direct te upgraden?</strong> Voeg dit stijlvolle en functionele tafelzeil vandaag nog toe aan uw woon- of tuindecoratie en geniet van een zorgeloze, sfeervolle eetomgeving.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/mz2Rx2l6N9Mp/qx5M1lG/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 160 cm",
+      "color": "Groen",
+      "gtin13": "9502194953717",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/mz2Rx2l6N9Mp/qx5M1lG/550x550.jpg"
+  ]
+}

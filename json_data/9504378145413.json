@@ -1,0 +1,1596 @@
+{
+  "ean": "9504378145413",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000079087955",
+      "name": "Raved Tafelzeil Beige 140 140 - PVC - Afwasbaar",
+      "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/7R3Jz2MvY4zA/P1ql6W4/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000079087955",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147928",
+          "name": "Raved Tafelzeil 140×200 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-200-cm-beige-pvc-afwasbaar/9300000040147928/",
+          "productID": "9300000040147928",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJk1jBkz43qz/Rgvn8jE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9504472753651",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147935",
+          "name": "Raved Tafelzeil 140×180 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-180-cm-beige-pvc-afwasbaar/9300000040147935/",
+          "productID": "9300000040147935",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXxNAW31g9/1jkqV3m/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9507129233582",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147936",
+          "name": "Raved Tafelzeil 140×140 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-140-cm-beige-pvc-afwasbaar/9300000040147936/",
+          "productID": "9300000040147936",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEpjp7GOjx/98vB3XD/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9507714352186",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147937",
+          "name": "Raved Tafelzeil 140×250 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-250-cm-beige-pvc-afwasbaar/9300000040147937/",
+          "productID": "9300000040147937",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZX6g6GDAo9/8qrAXY3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9507693323412",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147962",
+          "name": "Raved Tafelzeil 140×240 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-240-cm-beige-pvc-afwasbaar/9300000040147962/",
+          "productID": "9300000040147962",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEpjvkqJrk/X6BwYpg/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9505951182764",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147965",
+          "name": "Raved Tafelzeil 140×280 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-280-cm-beige-pvc-afwasbaar/9300000040147965/",
+          "productID": "9300000040147965",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPk5xAnz1BP/g5WK7Xk/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9509253364521",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147974",
+          "name": "Raved Tafelzeil 140×220 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-220-cm-beige-pvc-afwasbaar/9300000040147974/",
+          "productID": "9300000040147974",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZX6ggrwML9/Q1rmAg9/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9505576399486",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147977",
+          "name": "Raved Tafelzeil 140×160 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-160-cm-beige-pvc-afwasbaar/9300000040147977/",
+          "productID": "9300000040147977",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RJMNMLzxlP/3lmvYJR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9506338449968",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000040147980",
+          "name": "Raved Tafelzeil 140×300 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-300-cm-beige-pvc-afwasbaar/9300000040147980/",
+          "productID": "9300000040147980",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEpjp5o8vN/Z4EyZr5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9502597786448",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557822",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  140 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-140-cm-pvc-afwasbaar/9300000080557822/",
+          "productID": "9300000080557822",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/pqRk5AV3gBY2/5OkRRY/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Beige",
+          "gtin13": "9507268347416",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557825",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  200 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-200-cm-pvc-afwasbaar/9300000080557825/",
+          "productID": "9300000080557825",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/K2YLxqvQQVzY/GpJMMK/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Beige",
+          "gtin13": "9504227767650",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557832",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  300 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-300-cm-pvc-afwasbaar/9300000080557832/",
+          "productID": "9300000080557832",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0MPGNX6o0zY/DmDQQ6/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Beige",
+          "gtin13": "9506643413715",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557843",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  240 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-240-cm-pvc-afwasbaar/9300000080557843/",
+          "productID": "9300000080557843",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qrVl4Bq7MvDy/KwNLLG/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Beige",
+          "gtin13": "9505925828117",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557853",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  220 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-220-cm-pvc-afwasbaar/9300000080557853/",
+          "productID": "9300000080557853",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/L2YvyrRJzYRw/8RnMMj/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Beige",
+          "gtin13": "9503492986544",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557856",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  250 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-250-cm-pvc-afwasbaar/9300000080557856/",
+          "productID": "9300000080557856",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ZowzQMKMXkNw/vEy8Qn/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Beige",
+          "gtin13": "9509983293276",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557859",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  180 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-180-cm-pvc-afwasbaar/9300000080557859/",
+          "productID": "9300000080557859",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yD69gNk97KlP/joj0Y4/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Beige",
+          "gtin13": "9504458185476",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557860",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  160 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-160-cm-pvc-afwasbaar/9300000080557860/",
+          "productID": "9300000080557860",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/A2QMkZxgPO03/MyPJ1m/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Beige",
+          "gtin13": "9504876919448",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080557861",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  280 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-280-cm-pvc-afwasbaar/9300000080557861/",
+          "productID": "9300000080557861",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jkv0416LvrzY/rzrmm2/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Beige",
+          "gtin13": "9509766154336",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870312",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  270 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-270-cm-pvc-afwasbaar/9300000080870312/",
+          "productID": "9300000080870312",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mn2Y4x4XDBBr/1KOGGZ/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Beige",
+          "gtin13": "9505518496549",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870321",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  350 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-350-cm-pvc-afwasbaar/9300000080870321/",
+          "productID": "9300000080870321",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gGxn40G8Vk93/NzgY02/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Beige",
+          "gtin13": "9505783213629",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870331",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  310 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-310-cm-pvc-afwasbaar/9300000080870331/",
+          "productID": "9300000080870331",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/B28P0qXzq5QW/OAjP8R/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Beige",
+          "gtin13": "9505264211595",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870334",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  260 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-260-cm-pvc-afwasbaar/9300000080870334/",
+          "productID": "9300000080870334",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o0vj4zBklAjB/wGzKKr/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Beige",
+          "gtin13": "9507541788226",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870335",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  100 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-100-cm-pvc-afwasbaar/9300000080870335/",
+          "productID": "9300000080870335",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Q2nBlxx8lLD9/kp0gE6/1200x1020.jpg",
+            "width": 1200,
+            "height": 1020
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Beige",
+          "gtin13": "9505491725889",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870338",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  230 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-230-cm-pvc-afwasbaar/9300000080870338/",
+          "productID": "9300000080870338",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/lmv24w9NRLDV/wGzK0X/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Beige",
+          "gtin13": "9504864198961",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870343",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  290 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-290-cm-pvc-afwasbaar/9300000080870343/",
+          "productID": "9300000080870343",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0MPGNjlDjoq/pxpkkQ/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Beige",
+          "gtin13": "9503677523144",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870357",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  320 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-320-cm-pvc-afwasbaar/9300000080870357/",
+          "productID": "9300000080870357",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xBV24grKw893/LxOvvD/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Beige",
+          "gtin13": "9509712988633",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870716",
+          "name": "Raved Tafelzeil 140×350 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-350-cm-beige-pvc-afwasbaar/9300000080870716/",
+          "productID": "9300000080870716",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o12JKkK7G3rK/66pyYVR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9509323578629",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870723",
+          "name": "Raved Tafelzeil 140×260 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-260-cm-beige-pvc-afwasbaar/9300000080870723/",
+          "productID": "9300000080870723",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x85mmNJYEk/Y6DxVq2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9505494462668",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870732",
+          "name": "Raved Tafelzeil 140×320 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-320-cm-beige-pvc-afwasbaar/9300000080870732/",
+          "productID": "9300000080870732",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEpjJQJmPn/76qzDJ1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507379184184",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870740",
+          "name": "Raved Tafelzeil 140×310 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-310-cm-beige-pvc-afwasbaar/9300000080870740/",
+          "productID": "9300000080870740",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXxNAYpMnY/2RlrGDz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9509718314542",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870743",
+          "name": "Raved Tafelzeil 140×290 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-290-cm-beige-pvc-afwasbaar/9300000080870743/",
+          "productID": "9300000080870743",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3Jz2MvY4zA/P1ql6W4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9504378145413",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870839",
+          "name": "Raved Tafelzeil 140×230 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-230-cm-beige-pvc-afwasbaar/9300000080870839/",
+          "productID": "9300000080870839",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6XAYB765AP/KOlBA9x/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9504542418220",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870847",
+          "name": "Raved Tafelzeil 140×100 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-100-cm-beige-pvc-afwasbaar/9300000080870847/",
+          "productID": "9300000080870847",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BnDnVgkVK/Mjng7WG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9504563361734",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870880",
+          "name": "Raved Tafelzeil 140×270 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-delfts-tegels-140-cm-x-270-cm-beige-pvc-afwasbaar/9300000080870880/",
+          "productID": "9300000080870880",
+          "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKY9kzk85wXY/VmzrJnX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9504717288825",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124899994",
+          "name": "Raved Tafelzeil Boerenbont Ruit Beige  140 cm x  50 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-beige-140-cm-x-50-cm-pvc-afwasbaar/9300000124899994/",
+          "productID": "9300000124899994",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Boerenruit beige/wit</h3> <p>Dit tafelkleed/tafelzeil, metvrolijke print, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit beige met witte ruiten, wat zorgt voor een gezellige sfeer. Dit tafelkleed/tafelzeil is perfect voor een picknick bij u thuis of in het park. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Beige & wit <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0MPGAXxvk5w/BkAPPQ/1200x526.jpg",
+            "width": 1200,
+            "height": 526
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Beige",
+          "gtin13": "9505733535795",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 2
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/7R3Jz2MvY4zA/P1ql6W4/550x550.jpg"
+  ]
+}

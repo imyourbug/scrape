@@ -1,0 +1,1025 @@
+{
+  "ean": "8720707630967",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000116573995",
+      "name": "Raved Tafelzeil Linnen look 140 140 - Beige - PVC - Afwasbaar",
+      "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/g05GlzxkwXDD/mwWm7wA/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000116573995",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021731",
+          "name": "Raved Tafelzeil - 140x250 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-250-cm-beige-pvc-afwasbaar/9300000077021731/",
+          "productID": "9300000077021731",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R6wg2Z4xR8y/j2WjA2z/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Beige",
+          "gtin13": "8720707631070",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021736",
+          "name": "Raved Tafelzeil - 140x280 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-280-cm-beige-pvc-afwasbaar/9300000077021736/",
+          "productID": "9300000077021736",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/4O8q1nv6loXg/8qrnXql/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Beige",
+          "gtin13": "8720707631100",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021738",
+          "name": "Raved Tafelzeil - 140x240 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-240-cm-beige-pvc-afwasbaar/9300000077021738/",
+          "productID": "9300000077021738",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n1ZoEWXV387R/pgWp9g1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Beige",
+          "gtin13": "8720707631063",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021739",
+          "name": "Raved Tafelzeil - 140x270 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-270-cm-beige-pvc-afwasbaar/9300000077021739/",
+          "productID": "9300000077021739",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OK72NzxGAgAY/lOWl8OJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Beige",
+          "gtin13": "8720707631094",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021753",
+          "name": "Raved Tafelzeil - 140x310 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-310-cm-beige-pvc-afwasbaar/9300000077021753/",
+          "productID": "9300000077021753",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3NlpZP8Wq56p/nZW0GZ4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Beige",
+          "gtin13": "8720707631131",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021767",
+          "name": "Raved Tafelzeil - 140x290 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-290-cm-beige-pvc-afwasbaar/9300000077021767/",
+          "productID": "9300000077021767",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RNg0QvnyrN1q/66plY67/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Beige",
+          "gtin13": "8720707631117",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021789",
+          "name": "Raved Tafelzeil - 140x320 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-320-cm-beige-pvc-afwasbaar/9300000077021789/",
+          "productID": "9300000077021789",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5wnDgxG2B69/lOWl8Ol/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Beige",
+          "gtin13": "8720707631148",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021790",
+          "name": "Raved Tafelzeil - 140x350 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-350-cm-beige-pvc-afwasbaar/9300000077021790/",
+          "productID": "9300000077021790",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OK72Npkp62xp/mwWm7wp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Beige",
+          "gtin13": "8720707631155",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021793",
+          "name": "Raved Tafelzeil - 140x260 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-260-cm-beige-pvc-afwasbaar/9300000077021793/",
+          "productID": "9300000077021793",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDO2Jl7XzBmG/58okA8x/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Beige",
+          "gtin13": "8720707631087",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021795",
+          "name": "Raved Tafelzeil - 140x300 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-300-cm-beige-pvc-afwasbaar/9300000077021795/",
+          "productID": "9300000077021795",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n1ZoEWXmm9EE/g5WO759/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Beige",
+          "gtin13": "8720707631124",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021799",
+          "name": "Raved Tafelzeil - 140x230 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-230-cm-beige-pvc-afwasbaar/9300000077021799/",
+          "productID": "9300000077021799",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R6wgqJPJBBG/k5Wk65x/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Beige",
+          "gtin13": "8720707631056",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021828",
+          "name": "Raved Tafelzeil - 140x220 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-220-cm-beige-pvc-afwasbaar/9300000077021828/",
+          "productID": "9300000077021828",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R6wg2ZPRNxB/76qmD6w/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Beige",
+          "gtin13": "8720707631049",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021841",
+          "name": "Raved Tafelzeil - 140x160 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-160-cm-beige-pvc-afwasbaar/9300000077021841/",
+          "productID": "9300000077021841",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/4O8q1nwGzzm7/48njW82/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Beige",
+          "gtin13": "8720707630981",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021887",
+          "name": "Raved Tafelzeil - 140x100 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-100-cm-beige-pvc-afwasbaar/9300000077021887/",
+          "productID": "9300000077021887",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Bqg2wGEln63Q/1jkOVj3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Beige",
+          "gtin13": "8720707630929",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021893",
+          "name": "Raved Tafelzeil - 140x140 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-140-cm-beige-pvc-afwasbaar/9300000077021893/",
+          "productID": "9300000077021893",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g05GlzxkwXDD/mwWm7wA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Beige",
+          "gtin13": "8720707630967",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021897",
+          "name": "Raved Tafelzeil - 140x200 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-200-cm-beige-pvc-afwasbaar/9300000077021897/",
+          "productID": "9300000077021897",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y86n1DYvP78A/vg6ymgV/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Beige",
+          "gtin13": "8720707631025",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000077021912",
+          "name": "Raved Tafelzeil - 140x180 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-180-cm-beige-pvc-afwasbaar/9300000077021912/",
+          "productID": "9300000077021912",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RNg0Qvnvj0Aq/98vo38P/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Beige",
+          "gtin13": "8720707631001",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126014790",
+          "name": "Raved Tafelzeil - 140x50 cm - Beige - Linnen Look - Afwasbaar PVC",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-look-140-cm-x-50-cm-beige-pvc-afwasbaar/9300000126014790/",
+          "productID": "9300000126014790",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnen-look</strong> met dit <strong>afwasbare PVC tafelzeil van Raved</strong>. Het<strong> tafelkleed in beige</strong> combineert de warme uitstraling van stof met het gemak van eenvoudig schoonmaken – ideaal voor dagelijks gebruik en feestelijke diners.</p> <p>Breng warmte en gemak samen in je interieur met dit <strong>Raved tafelzeil in beige linnen look</strong>. Waar traditionele tafelkleden vaak vlekgevoelig en bewerkelijk zijn, biedt dit <strong>afwasbare PVC tafelzeil</strong> de perfecte balans tussen stijl en praktisch gebruik.</p> <h3>Stijlvol design voor ieder interieur</h3> <p>De <strong>linnen look</strong> geeft het zeil een elegante, natuurlijke uitstraling die moeiteloos aansluit bij verschillende woonstijlen – van modern tot landelijk. De neutrale <strong>beige kleur</strong> creëert een rustige basis en laat jouw servies, bloemen of decoratie extra tot hun recht komen.</p> <h3>Praktisch in gebruik</h3> <ul> <li> <p><strong>Afwasbaar PVC</strong>: eenvoudig schoon te maken met een vochtige doek</p> </li> <li> <p><strong>Water- en vlekafstotend</strong>: beschermt je tafel tegen kringen en ongelukjes</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: blijft mooi, ook bij dagelijks gebruik</p> </li> </ul> <p>Of het nu gaat om een gezellig ontbijt met het gezin, een drukke verjaardag of een romantisch diner: dit tafelzeil zorgt ervoor dat je tafel er altijd verzorgd uitziet.</p> <h3>Minder gedoe, meer genieten</h3> <p>Dankzij het onderhoudsvriendelijke PVC hoef je je geen zorgen te maken over wassen, strijken of hardnekkige vlekken. Een snelle veeg met een doek en je tafel is weer als nieuw. Zo houd je meer tijd over voor de dingen die er echt toe doen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om kwaliteit en functionaliteit in huis & wonen. Met dit <strong>afwasbare tafelzeil</strong> kies je voor een product dat niet alleen mooi oogt, maar ook jarenlang meegaat.</p> <p><strong>Creëer sfeer, bescherm je tafel en bespaar tijd – kies vandaag nog voor dit Raved tafelzeil en geniet morgen al van een stijlvolle, zorgeloze tafelsetting.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OK72NpG123LR/oYWoAYz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Beige",
+          "gtin13": "9507564953458",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.8,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 9
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/g05GlzxkwXDD/mwWm7wA/550x550.jpg",
+    "https://media.s-bol.com/g05GlzxxBOB9/mwWm7wA/550x550.jpg",
+    "https://media.s-bol.com/7R6wQ4nAgMkw/mwWm7wA/550x550.jpg",
+    "https://media.s-bol.com/4qQPnonW51y2/QD8K5Y/550x550.jpg",
+    "https://media.s-bol.com/3pQPmnmY4Zxr/QD8K5Y/550x500.jpg",
+    "https://media.s-bol.com/NpqzRnxZNBpD/k8DK4yY/550x472.jpg",
+    "https://media.s-bol.com/5rQXopoA62zx/QD8K5Y/550x399.jpg",
+    "https://media.s-bol.com/p7GppXgng57y/QD8K5Y/550x550.jpg",
+    "https://media.s-bol.com/RNg0ER9oY7EY/mwWm7wA/550x177.jpg",
+    "https://media.s-bol.com/g05GwMmjoBN9/mwWm7wA/550x550.jpg",
+    "https://media.s-bol.com/n1ZovKYYMWEP/mwWm7wA/550x550.jpg"
+  ]
+}

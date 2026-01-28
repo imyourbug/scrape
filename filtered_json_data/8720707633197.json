@@ -1,0 +1,98 @@
+{
+  "ean": "8720707633197",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000130596388",
+      "name": "Raved Tafelkleed 140 cm x 200 cm - Oranje Polyester - Kreukvrij",
+      "productID": "9300000130596388",
+      "description": "<p>Maak elke tafel direct feestelijk met dit <strong>kleurige en onderhoudsvriendelijke tafelkleed</strong>. Het gekleurde <strong>polyester</strong> kleed is <strong>kreukvrij</strong> en geschikt voor gebruik <strong>binnen én buiten</strong>, zodat je moeiteloos een gezellige en zorgeloze sfeer creëert.</p> <p>Geef je tafel direct een upgrade met het <strong>primair zoekwoord tafelkleed</strong>: het Raved Oranje Polyester Tafelkleed – Kreukvrij. Dit stijlvolle kleed combineert gevoel en logica: enerzijds creëer je een warme, feestelijke sfeer, anderzijds kies je voor een praktisch en duurzaam materiaal.</p> <h3>Sfeervolle uitstraling bij elk moment</h3> <p>Met de frisse <strong>oranje kleur</strong> breng je direct energie op tafel – ideaal voor de borrel, een bbq met vrienden of een sportavond waarop een sfeeraccent niet mag ontbreken. Binnen of buiten: dit kleed zorgt dat jouw tafel het middelpunt wordt van gezelligheid.</p> <h3>Duurzaam materiaal, moeiteloos onderhoud</h3> <p>Het kleed is gemaakt van <strong>100% polyester</strong>, een materiaal dat sterker is dan katoen, minder krimpt, de kleur beter houdt en makkelijker in onderhoud is. Volgens de productbeschrijving is het kleed vormvast, kleurecht, strijkbaar en wasbaar op 30 °C. Ook is het <strong>waterafstotend</strong>, waardoor een gemorste drank of hapje sneller afgeveegd kan worden. <br />Deze combinatie van eigenschappen betekent: minder zorgen over vlekken of verkleuring, meer tijd om te genieten.</p> <h3>Praktisch in gebruik</h3> <p>Het kleed is ideaal voor gebruik <strong>binnen & buiten</strong> – perfect voor een zomeravond op het terras, maar ook fijn als je gewoon binnen wilt genieten zonder het kleed iedere keer te wisselen. Dankzij de kreukvrije werking ligt het kleed strak zonder dat je veel hoeft te strijken: een groot voordeel bij haast of spontane etentjes.</p> <h3>Beschermt én verfraait je tafel</h3> <p>Een tafelkleed doet meer dan decoreren: het beschermt je tafelblad tegen krassen, vlekken en hitte van borden. Dit kleed maakt die bescherming stijlvol, zonder gedoe. Door de combinatie van kleur en materiaal lever je ook een statement – jouw tafel is klaar voor gasten, voor thema-feestjes of voor dagelijkse gezelligheid.</p> <h3>Waarom dit kleed jouw keuze moet zijn</h3> <ul> <li> <p><strong>Merk</strong>: Raved — vertrouwd merk in tafelkleden.</p> </li> <li> <p><strong>Maat</strong>: maat (laat deze invullen) zorgt voor een juiste overhang en verzorgde uitstraling.</p> </li> <li> <p><strong>Materiaal & eigenschappen</strong>: 100% polyester, waterafstotend, kreukvrij, vormvast, kleurecht.</p> </li> <li> <p><strong>Gebruikssituatie</strong>: binnen en buiten, voor gezellige momenten of thema-avonden.</p> </li> <li> <p><strong>Emotie + logica</strong>: sfeer én gemak — je kiest niet alleen voor uitstraling, maar ook voor praktisch gemak.</p> </li> </ul> <h3>Call-to-action</h3> <p>Wacht niet tot je tafel er weer saai uitziet: kies nu voor dit kleed en creëer vandaag nog een tafel vol sfeer én gemak. Klik op “in winkelwagen” en haal jouw nieuwe sfeermaker in huis!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/1LwElx62N4Vo/k5Wg1KK/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Polyester"
+      ],
+      "size": "140 cm x 200 cm",
+      "color": "Oranje",
+      "gtin13": "8720707633197",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "200",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/1LwElx62N4Vo/k5Wg1KK/550x550.jpg",
+    "https://media.s-bol.com/Y8ErAo7jZzAY/k5Wg1KK/550x550.jpg",
+    "https://media.s-bol.com/WV6pykP51ZDX/k5Wg1KK/550x502.jpg",
+    "https://media.s-bol.com/4OxVoE653LW0/k5Wg1KK/550x550.jpg",
+    "https://media.s-bol.com/VROoxgv4WYB9/k5Wg1KK/550x178.jpg",
+    "https://media.s-bol.com/Y8ErAo7AQmk9/k5Wg1KK/550x550.jpg"
+  ]
+}

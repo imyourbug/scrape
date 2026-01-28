@@ -1,0 +1,52 @@
+{
+  "ean": "8720707634804; 9505738945988",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000143650261",
+      "name": "Raved Tafelzeil 140x50 cm - Zwart Ruit - PVC - Afwasbaar - Duurzaam",
+      "productID": "9300000143650261",
+      "description": "<p>Breng stijl en gemak naar je eettafel met dit <strong>Raved tafelzeil</strong> in zwart ruitmotief. Gemaakt van <strong>duurzaam PVC</strong> en volledig <strong>afwasbaar</strong>, ideaal om je tafel te beschermen tegen vlekken en krassen zonder in te leveren op uitstraling.</p> <p>Geef je eettafel een stijlvolle én praktische upgrade met het <strong>Raved tafelzeil </strong> in zwart ruitmotief. Dit tafelzeil is speciaal ontworpen voor wie houdt van een verzorgd interieur maar geen tijd wil verliezen aan eindeloos schoonmaken. Dankzij het <strong>afwasbare PVC-materiaal</strong> maak je vlekken, kruimels en vocht eenvoudig schoon met een vochtige doek. Zo blijft jouw tafel elke dag fris en netjes, zelfs bij intensief gebruik door het hele gezin.</p> <h3>Bescherming en duurzaamheid</h3> <p>Een eettafel is vaak het middelpunt van het huis: van ontbijt met het gezin tot gezellige etentjes met vrienden. Helaas leidt dit vaak tot krassen, kringen en vlekken. Met dit <strong>PVC tafelzeil</strong> bescherm je je tafelblad optimaal. Het materiaal is stevig, <strong>duurzaam</strong> en bestand tegen dagelijks gebruik. Daarmee is het een slimme investering die je tafel jarenlang mooi houdt.</p> <h3>Stijlvol design</h3> <p>Het <strong>zwarte ruitmotief</strong> geeft een moderne, tijdloze uitstraling die past in zowel een strak interieur als een landelijke woonstijl. Waar veel tafelzeilen een goedkope uitstraling hebben, biedt Raved een combinatie van <strong>kwaliteit en elegantie</strong> die je eethoek direct naar een hoger niveau tilt.</p> <h3>Eenvoudig in gebruik</h3> <p>Naast stijl en bescherming is gemak minstens zo belangrijk. Dit <strong>afwasbare tafelzeil</strong> is onderhoudsvriendelijk: een vochtige doek of mild sopje is voldoende om vlekken te verwijderen. Geen gedoe met wassen of strijken, altijd direct klaar voor gebruik. Bovendien verschuift het niet snel, zodat je zonder zorgen kunt genieten van elke maaltijd.</p> <h3>Toepassingen</h3> <p>Dit tafelzeil is niet alleen geschikt voor dagelijks gebruik binnenshuis, maar ook ideaal voor buiten op het terras of tijdens een feestje. Zo combineer je functionaliteit met veelzijdigheid.</p> <p><strong>Waarom kiezen voor Raved?</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: hygiënisch en praktisch in onderhoud</p> </li> <li> <p><strong>Zwart ruit design</strong>: stijlvol en tijdloos</p> </li> <li> <p><strong>Duurzaam materiaal</strong>: lange levensduur en sterke bescherming</p> </li> </ul> <p>Maak je leven gemakkelijker en je interieur mooier met dit <strong>Raved tafelzeil</strong>. Bestel vandaag nog en ervaar hoe stijl en gebruiksgemak perfect samenkomen.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/3pjygLOZoEy4/BkAN5x/1200x577.jpg",
+        "width": 1200,
+        "height": 577
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 50 cm",
+      "color": "Zwart",
+      "gtin13": "8720707634804",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "50",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "2",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/3pjygLOZoEy4/BkAN5x/550x264.jpg"
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "ean": "9501882526363",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000080870413",
+      "name": "Raved Tafelzeil Boerenbont ruit Rood 140 140 - PVC - Afwasbaar",
+      "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/g0J6VE1voox9/O7pGXvB/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000080870413",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000045384463",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-300-cm-pvc-afwasbaar/9300000045384463/",
+          "productID": "9300000045384463",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZGVjDmwN33/Z4EgGK2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Rood",
+          "gtin13": "9509822126161",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000045384464",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-280-cm-pvc-afwasbaar/9300000045384464/",
+          "productID": "9300000045384464",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Rood",
+          "gtin13": "8720707631407",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870316",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-260-cm-pvc-afwasbaar/9300000080870316/",
+          "productID": "9300000080870316",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Rood",
+          "gtin13": "8720707631377",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870317",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-270-cm-pvc-afwasbaar/9300000080870317/",
+          "productID": "9300000080870317",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Rood",
+          "gtin13": "8720707631384",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870349",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-290-cm-pvc-afwasbaar/9300000080870349/",
+          "productID": "9300000080870349",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RLVK7RM2zY/2RlXqpj/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Rood",
+          "gtin13": "9503514418367",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870354",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-230-cm-pvc-afwasbaar/9300000080870354/",
+          "productID": "9300000080870354",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Rood",
+          "gtin13": "8720707631346",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870361",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-100-cm-pvc-afwasbaar/9300000080870361/",
+          "productID": "9300000080870361",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Rood",
+          "gtin13": "8720707631216",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870495",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-350-cm-pvc-afwasbaar/9300000080870495/",
+          "productID": "9300000080870495",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Rood",
+          "gtin13": "8720707631445",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870496",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-320-cm-pvc-afwasbaar/9300000080870496/",
+          "productID": "9300000080870496",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Rood",
+          "gtin13": "8720707631438",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870506",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-310-cm-pvc-afwasbaar/9300000080870506/",
+          "productID": "9300000080870506",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Rood",
+          "gtin13": "8720707631421",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423799",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-160-cm-pvc-afwasbaar/9300000083423799/",
+          "productID": "9300000083423799",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Rood",
+          "gtin13": "8720707631278",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423802",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-220-cm-pvc-afwasbaar/9300000083423802/",
+          "productID": "9300000083423802",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Rood",
+          "gtin13": "8720707631339",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423804",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-250-cm-pvc-afwasbaar/9300000083423804/",
+          "productID": "9300000083423804",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2O7NPkrgnW/WnA1KE4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Rood",
+          "gtin13": "9504948559848",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423805",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-240-cm-pvc-afwasbaar/9300000083423805/",
+          "productID": "9300000083423805",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3nKr4pBm2A/y8WANnz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Rood",
+          "gtin13": "9505767814323",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423807",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-200-cm-pvc-afwasbaar/9300000083423807/",
+          "productID": "9300000083423807",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J6VE1voox9/O7pGXvB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Rood",
+          "gtin13": "9501882526363",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423808",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-140-cm-pvc-afwasbaar/9300000083423808/",
+          "productID": "9300000083423808",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Rood",
+          "gtin13": "8720707631254",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000083423809",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-180-cm-pvc-afwasbaar/9300000083423809/",
+          "productID": "9300000083423809",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Rood",
+          "gtin13": "8720707631292",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124900012",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Boerenbont Ruit Rood – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-boerenbont-ruit-rood-140-cm-x-50-cm-pvc-afwasbaar/9300000124900012/",
+          "productID": "9300000124900012",
+          "description": "<p>Breng direct sfeer in huis met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in de klassieke <strong>Boerenbont ruit rood</strong>. Het beschermt je tafel moeiteloos en is geschikt voor gebruik <strong>binnen én buiten</strong> – ideaal voor gezinnen die stijl én gemak willen combineren. terecht!</p> <p><strong>Ontdek het veelzijdige en stijlvolle tafelzeil van Raved</strong> in de charmante Boerenbont ruit rood – perfect voor wie een gezellige en veilige eet- of knutseltafel wil creëren. Dit <strong>tafelzeil</strong> is gemaakt van <strong>duurzaam PVC-materiaal</strong>, wat zorgt voor uitstekende bescherming tegen vlekken, krassen en het knoeien van kinderen of gasten. Bovendien is het <strong>afwasbaar en onderhoudsvriendelijk</strong>, wat je iedere keer weer tijd en schoonmaakstress bespaart.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p><strong>Elegant boerentraditie-design</strong>: het klassieke ruit-patroon in rood/wit brengt direct een warme, landelijke sfeer in je interieur – of je nu aan de keukentafel zit of buiten op het terras.</p> </li> <li> <p><strong>Bescherming én gebruiksgemak</strong>: dankzij het PVC-materiaal hoeft u zich geen zorgen meer te maken over gemorste koffie, knutselwerk of hete pannen – een vochtige doek volstaat voor het schoonmaken.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: goedgekeurd voor zowel binnenruimtes als buitengebruik – perfect voor zonnige dagen of een barbecue: haal het kleed simpel naar binnen wanneer het regent of ’s avonds afkoelt. </p> </li> </ul> <h3>Specificaties en aandachtspunten</h3> <p>Het tafelzeil is vervaardigd van <strong>PVC</strong>, wat zorgt voor een glad en duurzaam oppervlak. Let wel op: langdurige blootstelling aan fel zonlicht kan verkleuring of verwering veroorzaken – haal het kleed bij regen of intense zon binnen om de kleurkracht van het patroon optimaal te behouden. Het patroon is de klassieke boerenbont-ruit in rood/wit, perfect passend bij landelijke of klassieke interieurstijlen. Het is overigens ook beschikbaar in andere lengtematen én kleuren. </p> <h3>Voordelen voor jou</h3> <p>Je kiest niet alleen voor een mooie tafelbedekking, maar voor kwaliteit en gemoedsrust:</p> <ul> <li> <p>Minder stress bij knoeien of ongevallen – ideaal met kinderen of huisdieren in huis.</p> </li> <li> <p>Een tafel die er direct uitnodigend uitziet – geen afdekhoes meer nodig die afbreuk doet aan de uitstraling.</p> </li> <li> <p>Onderhoud in enkele tellen – geen tijdverlies, geen gedoe.</p> </li> <li> <p>Een product dat een stukje sfeer toevoegt aan elke maaltijd of samenkomst.</p> </li> </ul> <h3>Call-to-action</h3> <p>Kies vandaag nog voor dit stijlvolle en praktische tafelzeil – geef je tafel de uitstraling én bescherming die hij verdient. Voeg het toe aan je winkelwagen en ervaar direct het gemak én de sfeer die het met zich meebrengt!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J6VEvpPkA6/98vjAo8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Rood",
+          "gtin13": "9506229542419",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "34.99",
+        "offerCount": "6"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/g0J6VE1voox9/O7pGXvB/550x550.jpg",
+    "https://media.s-bol.com/8V2O7NmvP9wo/O7pGXvB/550x550.jpg",
+    "https://media.s-bol.com/K21vNVy5AEXG/REVKzK/550x467.jpg",
+    "https://media.s-bol.com/7R3O70Njq7Gw/O7pGXvB/550x449.jpg",
+    "https://media.s-bol.com/B2NjAYmR1vr2/REVKzK/550x550.jpg",
+    "https://media.s-bol.com/L27wOVz5AB6D/REVKzK/550x399.jpg",
+    "https://media.s-bol.com/NXYgzp7xNyE6/REVKzK/550x550.jpg",
+    "https://media.s-bol.com/J2yrM9x7EXDK/REVKzK/550x500.jpg",
+    "https://media.s-bol.com/5Py3E4J6oEDx/O7pGXvB/550x550.jpg",
+    "https://media.s-bol.com/BqBQ7mVgLXDQ/O7pGXvB/550x178.jpg",
+    "https://media.s-bol.com/7R3O70NjqMmO/O7pGXvB/550x550.jpg"
+  ]
+}

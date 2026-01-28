@@ -1,0 +1,98 @@
+{
+  "ean": "9509973742326",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000091416777",
+      "name": "Raved Tafelzeil - 140 cm x 290 cm - Paardenbloem - Groen PVC Afwasbaar",
+      "productID": "9300000091416777",
+      "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/7R3y6EQ8Ez7r/zmg5lwm/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 290 cm",
+      "gtin13": "9509973742326",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "290",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "2",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "33.99",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/7R3y6EQ8Ez7r/zmg5lwm/550x550.jpg",
+    "https://media.s-bol.com/g0JD5lMBy2Jl/zmg5lwm/550x550.jpg",
+    "https://media.s-bol.com/BqBXglEjZMXW/zmg5lwm/550x486.jpg",
+    "https://media.s-bol.com/YrRnZx44LEAO/ZP9GXE/550x550.jpg",
+    "https://media.s-bol.com/NJkKxNQpzrx8/zmg5lwm/550x550.jpg",
+    "https://media.s-bol.com/q1xpj1EVAL33/zmg5lwm/550x178.jpg",
+    "https://media.s-bol.com/3N1rl8YoonrR/zmg5lwm/550x550.jpg"
+  ]
+}

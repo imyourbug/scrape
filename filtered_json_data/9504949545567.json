@@ -1,0 +1,96 @@
+{
+  "ean": "9504949545567",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000192851046",
+      "name": "Raved Tafelzeil - 140 cm Rond - Getekende Takken Groen - Uitwasbaar - Extra sterk -",
+      "productID": "9300000192851046",
+      "description": "<p>Geef je tafel direct een stijlvolle én beschermende upgrade met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in een elegant <strong>groen takken-dessin</strong>. Dankzij de <strong>extra sterke beschermrand</strong> beschermt hij je tafel tegen vlekken, krassen en vocht – zonder concessies te doen aan design.</p> <p>Breng het stijlvolle en praktische samen met het <strong>primair zoekwoord “tafelzeil”</strong> en kies voor zekerheid aan tafel. Dit tafelzeil van het gerenommeerde merk <strong>Raved</strong> is uitgevoerd in hoogwaardig <strong>PVC</strong> en uitgevoerd in een fris <strong>groen getekende takken-dessin</strong>. Dankzij de maat <strong>140 cm rond</strong> is het speciaal geschikt voor ronde tafels – ideaal voor een eethoek, keuken of tuintafel.</p> <h3>Bescherming én stijl</h3> <p>Heb je ooit vlekken gehad van rode biet, tomatensaus of een onuitwisbare kring van een kopje? Met dit tafelzeil heb je daar geen zorgen meer over. Het <strong>afwasbare oppervlak</strong> maakt schoonmaken supersimpel: één veeg met een vochtige doek en je tafel is weer schoon. De <strong>extra sterke beschermrand</strong> zorgt dat randen niet snel rafelen of loskomen, waardoor je lange tijd profiteert van een nette uitstraling.</p> <h3>Materiaal & gebruik</h3> <p>Het gekozen materiaal, <strong>PVC</strong>, is robuust, water- en vlekbestendig en biedt betrouwbare bescherming tegen dagelijks gebruik. Het motief met groene takken voegt subtiel een natuurlijke sfeer toe aan je interieur – zowel binnen als buiten. Ideaal voor gezellige diners, rustige koffiemomenten of speelplezier met kinderen aan tafel. Let wel op: kleuren van intensieve voedingsmiddelen (zoals kerrie, rode biet, rode kool) kunnen in bepaalde materialen trekken — daarom raden we aan gemorst voedsel direct af te nemen. </p> <h3>Voor wie & wanneer</h3> <p>Dit tafelzeil is perfect voor gezinnen, enthousiaste thuiskoks, terrasgebruikers of iedereen die waarde hecht aan een verzorgde tafel zonder intensief onderhoud. Dankzij de neutrale maar stijlvolle combinatie van groen en takkenprint past het in moderne, Scandinavische of botanische interieurs. En omdat hij afwasbaar is, mag hij gerust geselecteerd worden voor intensief gebruik – van spelletjesavond tot verjaardagslunch.</p> <h3>Waarom kiezen voor deze versie?</h3> <ul> <li> <p><strong>Afwasbaar & gemakkelijk schoon te maken</strong> – minder stress, meer genieten.</p> </li> <li> <p><strong>Extra sterke beschermrand</strong> – langdurige kwaliteit.</p> </li> <li> <p><strong>Elegant takken-dessin in groen</strong> – beschermt je tafel én geeft sfeer.</p> </li> <li> <p><strong>Robuust PVC-materiaal</strong> – bestand tegen vlekken, vocht en druk.</p> </li> <li> <p><strong>Gerichte maat 140 cm rond</strong> – sluit netjes aan op ronde tafels.</p> </li> </ul> <h3>Maak je tafel moment compleet</h3> <p>Laat je eettafel of tuintafel stralen van dag tot avond, zonder concessies te doen aan functioneel gemak. Wacht niet tot de tafel opknapt door slijtage of vlekken – investeer vandaag in bescherming en stijl. Klik op de bestelknop en geef je tafel de upgrade die ‘ie verdient.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/qWNgYgj3ymgk/xkjGAEB/1200x965.jpg",
+        "width": 1200,
+        "height": 965
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Licht Groen",
+      "gtin13": "9504949545567",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.20",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "31.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/qWNgYgj3ymgk/xkjGAEB/550x442.jpg",
+    "https://media.s-bol.com/oWL3Q3YqE1AB/xkjGAEB/550x550.jpg",
+    "https://media.s-bol.com/lWGZ5ZOnAn61/xkjGAEB/550x399.jpg",
+    "https://media.s-bol.com/jWDXqX23oklP/xkjGAEB/550x550.jpg"
+  ]
+}

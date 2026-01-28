@@ -1,0 +1,830 @@
+{
+  "ean": "9504773826375",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000179023069",
+      "name": "Raved Tafelzeil Wilde Bloemen 140 140 - Groen - PVC - Afwasbaar",
+      "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Z16v3yQPp0p6/mwWkJO0/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000179023069",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023040",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-310-cm-groen-pvc-afwasbaar/9300000179023040/",
+          "productID": "9300000179023040",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6zJAg3rkGl/qjWoN7r/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9504246333843",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023041",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-280-cm-groen-pvc-afwasbaar/9300000179023041/",
+          "productID": "9300000179023041",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/6Q8GgyJP2WBL/1jkMRWj/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9504633328827",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023042",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-260-cm-groen-pvc-afwasbaar/9300000179023042/",
+          "productID": "9300000179023042",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JxoMV8gJrxYy/qxlBr7y/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9501872458896",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023043",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-300-cm-groen-pvc-afwasbaar/9300000179023043/",
+          "productID": "9300000179023043",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjP705GEMwPw/76qM41A/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9503681498964",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023044",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-160-cm-groen-pvc-afwasbaar/9300000179023044/",
+          "productID": "9300000179023044",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1R5xM4zBJmY/48n2XQ6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9502677766810",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023045",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-200-cm-groen-pvc-afwasbaar/9300000179023045/",
+          "productID": "9300000179023045",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Z16v3yQPp0p6/mwWkJO0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9504773826375",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023046",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-50-cm-groen-pvc-afwasbaar/9300000179023046/",
+          "productID": "9300000179023046",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mj3mL6WDpMKp/zp7OEv2/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9504847517673",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023047",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-220-cm-groen-pvc-afwasbaar/9300000179023047/",
+          "productID": "9300000179023047",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qn3qP5Wgvmp3/DkQj2qk/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9505814565765",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023048",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-230-cm-groen-pvc-afwasbaar/9300000179023048/",
+          "productID": "9300000179023048",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2WkAvwXqwm/98vj413/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9504972733467",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023049",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-320-cm-groen-pvc-afwasbaar/9300000179023049/",
+          "productID": "9300000179023049",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3YjzKQOXOA/2RlXVxv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9506727166919",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023050",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-100-cm-groen-pvc-afwasbaar/9300000179023050/",
+          "productID": "9300000179023050",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/9WrGlBMkjXw8/8qrg41o/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9506919927311",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023051",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-140-cm-groen-pvc-afwasbaar/9300000179023051/",
+          "productID": "9300000179023051",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/0KRE1pzJO8LV/58oMYQR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9507146937418",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023052",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-250-cm-groen-pvc-afwasbaar/9300000179023052/",
+          "productID": "9300000179023052",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8rK4wyXjZ/Y6DZgWp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9507627336440",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023053",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-180-cm-groen-pvc-afwasbaar/9300000179023053/",
+          "productID": "9300000179023053",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6zJyrG4poo/Z4EgjY6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9509351252928",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023054",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-270-cm-groen-pvc-afwasbaar/9300000179023054/",
+          "productID": "9300000179023054",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8rK4l6p2Z/3lm3WQQ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9507736668654",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023055",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-240-cm-groen-pvc-afwasbaar/9300000179023055/",
+          "productID": "9300000179023055",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5Royxmx8pzE/8qrXPMm/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9509182228949",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023056",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-350-cm-groen-pvc-afwasbaar/9300000179023056/",
+          "productID": "9300000179023056",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/XlJvjwGD0mXA/M8Jv2Z1/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9507938259117",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023057",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Wilde Bloemen Groen – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-wilde-bloemen-140-cm-x-290-cm-groen-pvc-afwasbaar/9300000179023057/",
+          "productID": "9300000179023057",
+          "description": "<p>Vier direct een vrolijk moment aan tafel met <strong>dit afwasbare PVC tafelzeil met een stijlvol bloemenmotief</strong>. Het beschermt je tafel tegen vlekken en krassen, én voegt een frisse, kleurrijke sfeer toe aan elke maaltijd – <strong>perfect voor binnen en buiten</strong>.</p> <p>Ontdek hoe je met <strong>dit Raved Tafelzeil Wilde Bloemen</strong> je tafel in een handomdraai transformeert in een sfeervolle ontmoetingsplek. Dit <strong>PVC-tafelzeil</strong>, uitgevoerd in een frisse groene kleur met een vrolijk bloemenmotief, combineert stijl en functionaliteit op een slimme manier.</p> <h3>Bescherming én stijl</h3> <p>Iedere maaltijd, ieder samenzijn kent zijn uitdagingen: een kleverige hand, een rode wijnvlek, of een brandpunt van een hete pan. Dit tafelzeil biedt een stevige bescherming voor je tafelblad – dankzij het duurzame PVC-materiaal, weet je zeker dat je tafel bestand is tegen dagelijkse slijtage. Het motief van wilde bloemen brengt een natuurlijke, vrolijke uitstraling in huis of tuin.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij de afwasbare toplaag is het zeil eenvoudig schoon te maken met een vochtige doek – geen wasmachine of stijfsel, gewoon snel afnemen en verder genieten. Of je nu een rustige koffie doet in de ochtend of een tuinmaaltijd met vrienden hebt, dit tafelzeil past zich moeiteloos aan. Het is ontworpen om zowel binnen als buiten gebruikt te worden – ideaal voor gezinnen met kinderen of voor wie vaak aan het loungen is buiten. </p> <h3>Specificaties & voordelen</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC – waterafstotend, vlekbestendig, onderhoudsvriendelijk. </p> </li> <li> <p><strong>Kleur/Design</strong>: Groen met een levendig bloemenmotief – zorgt direct voor sfeer.</p> </li> <li> <p><strong>Gebruik</strong>: Binnen én buiten, geschikt voor dagelijks gebruik en speciale gelegenheden. </p> </li> <li> <p><strong>Voordelen in één oogopslag</strong>:</p> <ul> <li> <p>Beschermt tegen vlekken, krassen en vocht</p> </li> <li> <p>Sfeervol bloemenprint versterkt de tafelsetting</p> </li> <li> <p>Eenvoudig schoon te maken – maximaal gemak</p> </li> <li> <p>Met een materiaal dat lang meegaat zonder in te boeten op uitstraling</p> </li> </ul> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een nieuwe tafel gekocht of je oude tafel wil je graag beschermen zonder saai te oogsten op stijl. Met dit tafelzeil kies je voor gemoedsrust én een vrolijke uitstraling. Veel gezinnen ervaren dat een mooi tafelkleed vaak direct verweerd, verkleurd of beschadigd is – met dit voorbeeld is dat verleden tijd. Door de combinatie van een levendig design en praktische bruikbaarheid speel je in op twee belangrijke wensen: <strong>esthetiek</strong> en <strong>functionaliteit</strong>.</p> <h3>Slot & call-to-action</h3> <p>Laat geen plek meer onbenut gaan wanneer het op sfeer en gemak aankomt: kies voor dit tafelzeil en geniet direct van een vrolijk ingerichte tafel zonder de stress van onderhoud. Klik nu op “In winkelwagen” en geef je tafel de uitstraling én bescherming die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/70GmvzqQ0L0r/KrLq288/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9508191288814",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 1.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 3
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Z16v3yQPp0p6/mwWkJO0/550x550.jpg"
+  ]
+}

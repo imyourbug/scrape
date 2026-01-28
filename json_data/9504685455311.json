@@ -1,0 +1,883 @@
+{
+  "ean": "9504685455311",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000093610447",
+      "name": "Raved Tafelzeil 140 140 - PVC - Afwasbaar",
+      "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/BqBEyJyrMWnW/DRKrJQB/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000093610447",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260738",
+          "name": "Raved Tafelzeil - 140x230 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-230-cm-groen-pvc-afwasbaar/9300000085260738/",
+          "productID": "9300000085260738",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDrERjR8op6J/vg6598V/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Groen",
+          "gtin13": "9507839936568",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260739",
+          "name": "Raved Tafelzeil - 140x300 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-300-cm-groen-pvc-afwasbaar/9300000085260739/",
+          "productID": "9300000085260739",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JXPjWg6LV6/GZNxQMy/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Groen",
+          "gtin13": "9508148466722",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260740",
+          "name": "Raved Tafelzeil - 140x240 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-240-cm-groen-pvc-afwasbaar/9300000085260740/",
+          "productID": "9300000085260740",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZXPpgBwzqO/AnEo9MB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Groen",
+          "gtin13": "9509555455781",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260741",
+          "name": "Raved Tafelzeil - 140x220 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-220-cm-groen-pvc-afwasbaar/9300000085260741/",
+          "productID": "9300000085260741",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1k76xvQPME2/wj65RKJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Groen",
+          "gtin13": "9501233942590",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260747",
+          "name": "Raved Tafelzeil - 140x180 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-180-cm-groen-pvc-afwasbaar/9300000085260747/",
+          "productID": "9300000085260747",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x890nOWBX0/LgmD5Jg/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Groen",
+          "gtin13": "9509697626445",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260748",
+          "name": "Raved Tafelzeil - 140x350 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-350-cm-groen-pvc-afwasbaar/9300000085260748/",
+          "productID": "9300000085260748",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZXPpzZWpzE/ElLv60N/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Groen",
+          "gtin13": "9509982581442",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260749",
+          "name": "Raved Tafelzeil - 140x160 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-160-cm-groen-pvc-afwasbaar/9300000085260749/",
+          "productID": "9300000085260749",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RJPmkyD2zY/r0W5Mmw/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Groen",
+          "gtin13": "9506826251752",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260751",
+          "name": "Raved Tafelzeil - 140x270 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-270-cm-groen-pvc-afwasbaar/9300000085260751/",
+          "productID": "9300000085260751",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Z16XRBElwqp6/zmg5x7r/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Groen",
+          "gtin13": "9502114997432",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260752",
+          "name": "Raved Tafelzeil - 140x250 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-250-cm-groen-pvc-afwasbaar/9300000085260752/",
+          "productID": "9300000085260752",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEyJyrMWnW/DRKrJQB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Groen",
+          "gtin13": "9504685455311",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260754",
+          "name": "Raved Tafelzeil - 140x280 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-280-cm-groen-pvc-afwasbaar/9300000085260754/",
+          "productID": "9300000085260754",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/w1pglDAYXREr/KOlB5Qr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Groen",
+          "gtin13": "9501767644656",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260756",
+          "name": "Raved Tafelzeil - 140x200 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-200-cm-groen-pvc-afwasbaar/9300000085260756/",
+          "productID": "9300000085260756",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJk1RmROrw9v/Vmzr0Q5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Groen",
+          "gtin13": "9508878162123",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260757",
+          "name": "Raved Tafelzeil - 140x320 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-320-cm-groen-pvc-afwasbaar/9300000085260757/",
+          "productID": "9300000085260757",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6B7qDl5YZw/y8W5J9V/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Groen",
+          "gtin13": "9505718869495",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260759",
+          "name": "Raved Tafelzeil - 140x290 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-290-cm-groen-pvc-afwasbaar/9300000085260759/",
+          "productID": "9300000085260759",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JXPjGrjz7r/BgGpRPx/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Groen",
+          "gtin13": "9506836315246",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260760",
+          "name": "Raved Tafelzeil - 140x260 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-260-cm-groen-pvc-afwasbaar/9300000085260760/",
+          "productID": "9300000085260760",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/9WrXmwvKDVx3/Mjng51Q/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Groen",
+          "gtin13": "9509552447116",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260761",
+          "name": "Raved Tafelzeil - 140x310 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-310-cm-groen-pvc-afwasbaar/9300000085260761/",
+          "productID": "9300000085260761",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/6Q8VjqvnNpDL/qjW5Ml3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Groen",
+          "gtin13": "9501563438855",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260822",
+          "name": "Raved Tafelzeil - 140x140 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-140-cm-groen-pvc-afwasbaar/9300000085260822/",
+          "productID": "9300000085260822",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6B7qDOlzkO/xGW572J/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Groen",
+          "gtin13": "9507849352631",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000085260829",
+          "name": "Raved Tafelzeil - 140x100 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-100-cm-groen-pvc-afwasbaar/9300000085260829/",
+          "productID": "9300000085260829",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3JkJjGvN7O/Nxoj50L/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Groen",
+          "gtin13": "9507923261927",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124899972",
+          "name": "Raved Tafelzeil - 140x50 cm - Bladeren Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-bladeren-140-cm-x-50-cm-groen-pvc-afwasbaar/9300000124899972/",
+          "productID": "9300000124899972",
+          "description": "<p>Breng sfeer en gemak naar je eettafel met dit <strong>stijlvolle tafelkleed van Raved</strong>. Het <strong>groene bladeren design</strong> geeft je interieur of tuin een frisse uitstraling, terwijl het <strong>afwasbare PVC-materiaal</strong> je tafel moeiteloos beschermt tegen vlekken en krassen.</p> <p>Een gezellig etentje of borrel begint bij een mooi gedekte tafel. Met het <strong>Raved tafelkleed bladeren groen</strong> kies je voor een stijlvolle én praktische oplossing die je tafel beschermt en direct sfeer toevoegt.</p> <h3>Stijlvol design voor elk interieur</h3> <p>Het bladmotief in frisse groentinten sluit perfect aan bij zowel een moderne inrichting als een natuurlijke woonstijl. Dit tafelkleed maakt van elke maaltijd een uitnodigend moment, of je nu binnen dineert of buiten in de tuin geniet.</p> <h3>Duurzaam en afwasbaar materiaal</h3> <p>Het tafelkleed is gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, waardoor het <strong>waterafstotend en afwasbaar</strong> is. Vlekken van wijn, koffie of etensresten veeg je eenvoudig weg met een vochtige doek. Zo blijft je tafelkleed er keer op keer als nieuw uitzien, zonder dat je het hoeft te wassen of te strijken.</p> <h3>Bescherming én gemak</h3> <p>Naast stijl biedt dit tafelkleed optimale <strong>bescherming tegen krassen, vocht en hitte</strong>. Je tafel blijft langer mooi, zelfs bij dagelijks gebruik door kinderen of tijdens feestelijke gelegenheden. Het praktische formaat van maakt het ideaal voor de meeste eettafels.</p> <h3>Veelzijdig gebruik</h3> <p>Of je nu een groot diner organiseert, een barbecue in de tuin houdt of gewoon je dagelijkse maaltijden aan tafel nuttigt – dit tafelkleed past in elke situatie. Dankzij het stevige materiaal blijft het goed op zijn plek liggen en kun je er jarenlang plezier van hebben.</p> <p><strong>Voordelen in het kort:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong> – schoon in één beweging</p> </li> <li> <p><strong>Trendy bladeren design</strong> – sfeervol en tijdloos</p> </li> <li> <p><strong>Bescherming tegen vlekken en krassen</strong> – tafel blijft langer mooi</p> </li> <li> <p><strong>Geschikt voor binnen én buiten</strong> – ideaal voor eettafel of tuintafel</p> </li> </ul> <p>Maak jouw tafel compleet met dit <strong>praktische en stijlvolle Raved tafelkleed</strong>. Bestel nu en ervaar het gemak van een tafel die altijd netjes en sfeervol gedekt is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1JGnpkXmz4/P1ql5Qz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Groen",
+          "gtin13": "9508255117876",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.2,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 5
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "27.95",
+        "offerCount": "4"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/BqBEyJyrMWnW/DRKrJQB/550x550.jpg"
+  ]
+}

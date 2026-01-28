@@ -1,0 +1,1021 @@
+{
+  "ean": "9505545974614",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000167169608",
+      "name": "Raved Kerst Tafelzeil - Gouden Kerst 140 140 - Beige - PVC - Afwasbaar",
+      "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/K2YLpEMvXrJR/JvMQxo/1200x593.jpg",
+        "width": 1200,
+        "height": 593
+      },
+      "productGroupID": "9300000167169608",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851670",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-50-cm-beige-pvc-afwasbaar/9300000130851670/",
+          "productID": "9300000130851670",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yD693AXBAKBg/PBkQEn/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Goud",
+          "gtin13": "9501854515760",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851674",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-100-cm-beige-pvc-afwasbaar/9300000130851674/",
+          "productID": "9300000130851674",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mn2Y3XoVMzR3/REm1JR/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Goud",
+          "gtin13": "9506444137186",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851678",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-140-cm-beige-pvc-afwasbaar/9300000130851678/",
+          "productID": "9300000130851678",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/noYg3mZVx8MY/6Pl9A9/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Goud",
+          "gtin13": "9506448187972",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851679",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-160-cm-beige-pvc-afwasbaar/9300000130851679/",
+          "productID": "9300000130851679",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qrVl3pjX7AK7/LxOJz4/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Goud",
+          "gtin13": "9507678371964",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851683",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-180-cm-beige-pvc-afwasbaar/9300000130851683/",
+          "productID": "9300000130851683",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ZoYNQ7qLYkp6/XN9V1o/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Goud",
+          "gtin13": "9506993967197",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851686",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-200-cm-beige-pvc-afwasbaar/9300000130851686/",
+          "productID": "9300000130851686",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YnQyKY01j4Rn/MyP1A3/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Goud",
+          "gtin13": "9509979951531",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851714",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-220-cm-beige-pvc-afwasbaar/9300000130851714/",
+          "productID": "9300000130851714",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qrVl3pQY9jz0/VLqQj1/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Goud",
+          "gtin13": "9508456365625",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851715",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-230-cm-beige-pvc-afwasbaar/9300000130851715/",
+          "productID": "9300000130851715",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/K2YLpEMvXrJR/JvMQxo/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Goud",
+          "gtin13": "9505545974614",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851723",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-240-cm-beige-pvc-afwasbaar/9300000130851723/",
+          "productID": "9300000130851723",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gGxn3X1WgO6Y/QDl7GY/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Goud",
+          "gtin13": "9508448768496",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851724",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-260-cm-beige-pvc-afwasbaar/9300000130851724/",
+          "productID": "9300000130851724",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3pjyAr7Go6jM/Nzg06z/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Goud",
+          "gtin13": "9509473661677",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.09",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851725",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-250-cm-beige-pvc-afwasbaar/9300000130851725/",
+          "productID": "9300000130851725",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mn2Y3XlB6K1E/3MgwxQ/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Goud",
+          "gtin13": "9504353282218",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.59",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851726",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-270-cm-beige-pvc-afwasbaar/9300000130851726/",
+          "productID": "9300000130851726",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/rvEm3pRVExy4/OAj80N/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Goud",
+          "gtin13": "9505248653694",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851727",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-280-cm-beige-pvc-afwasbaar/9300000130851727/",
+          "productID": "9300000130851727",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/M2EJrX8EWRE1/8RnEro/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Goud",
+          "gtin13": "9508792325635",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "38.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851728",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-290-cm-beige-pvc-afwasbaar/9300000130851728/",
+          "productID": "9300000130851728",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/N2EYvKzPmnX2/YOw59p/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Goud",
+          "gtin13": "9509163541173",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "39.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851730",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-300-cm-beige-pvc-afwasbaar/9300000130851730/",
+          "productID": "9300000130851730",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mn2Y3k2RKR0R/PBkQVn/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Goud",
+          "gtin13": "9508667187313",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "40.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851735",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-310-cm-beige-pvc-afwasbaar/9300000130851735/",
+          "productID": "9300000130851735",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/4qkzBvgXYBJ1/Nzg0Bz/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Goud",
+          "gtin13": "9506893966955",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "41.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851739",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-320-cm-beige-pvc-afwasbaar/9300000130851739/",
+          "productID": "9300000130851739",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3pjyA3j9Ngqx/MyP1V3/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Goud",
+          "gtin13": "9507553267559",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "42.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000130851747",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Gouden Kerst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-gouden-kerst-140-cm-x-350-cm-beige-pvc-afwasbaar/9300000130851747/",
+          "productID": "9300000130851747",
+          "description": "<p>Maak van je kersttafel direct een sfeervol feestmoment met dit <strong>stijlvolle gouden tafelzeil</strong> van <strong>PVC</strong>, dat zowel elegant oogt als <strong>afwasbaar en onderhoudsvriendelijk</strong> is. Bescherm je tafel én creëer een warme kerstsfeer in één handomdraai.</p> <p>Breng de magie van de feestdagen naar jouw interieur met het <strong>primair zoekwoord</strong> <strong>tafelzeil kerst goud</strong> – dit elegante tafelzeil van het merk Raved combineert stijl met praktisch gemak.</p> <h3>Sfeervolle uitstraling & direct resultaat</h3> <p>Met het <strong>gouden design</strong> van dit tafelzeil geef je de tafel direct een luxe en feestelijke look – perfect voor het kerstdiner, een gezellige familiebijeenkomst of sfeervolle avond met vrienden. Het warme beige-gouden kleurpallet zorgt voor een klassieke, verfijnde uitstraling die past bij zowel moderne als traditionele tafeldecoraties.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat uitstekend tegen knoeien, vlekken en hitte van bord of glas bestand is. Dankzij zijn afwasbare oppervlak kun je gerust het kerstdiner loslaten – binnen enkele seconden weer schoon. Hierdoor is het niet alleen geschikt voor eenmalig gebruik, maar ook herbruikbaar – bespaar tijd én geld.</p> <h3>Perfecte maat & slimme bescherming</h3> <p>Met een breedte van <strong>140 cm</strong> (en variabele lengte) past dit tafelzeil op de meeste standaard tafels. Het zorgt voor volledige dekking en bescherming van het tafelblad – waardoor je tafel vrij blijft van kringen, vlekken en slijtage. Je hoeft je geen zorgen meer te maken over een beschadigde tafel tijdens de drukke feesten.</p> <h3>Veelzijdig toepasbaar</h3> <p>Of je nu binnen aan tafel zit of buiten op het terras in de winterse avond – dit tafelzeil is geschikt voor beide. Dankzij het onderhoudsgemak en de duurzame uitstraling kun je het jaar na jaar inzetten, voor Kerst maar ook voor andere gelegenheden waarbij een elegante basis gewenst is.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>USP 1:</strong> Luxueus gouden kerst-design voor direct sfeer­effect.</p> </li> <li> <p><strong>USP 2:</strong> Afwasbaar PVC-materiaal: snel schoon, duurzaam in gebruik.</p> </li> <li> <p><strong>USP 3:</strong> Bescherming van je tafel én stijlvolle uitstraling tegelijk.</p> </li> <li> <p>Verliesaversie-trigger: Voorkom dat je tafel beschadigd raakt of de kerstsfeer mist door met standaard tafelbedekking te werken.</p> </li> <li> <p>Sociale bewijskracht: Veel klanten geven aan tevreden te zijn over kwaliteit en sfeer. </p> </li> <li> <p>Urgentie-trigger: De feestdagen komen snel – zorg dat je tafel er klaar voor is.</p> </li> </ul> <h3>Overtuig jezelf en actie</h3> <p>Kies vandaag nog voor dit tafelzeil en geef jouw kersttafel de aandacht die hij verdient. Klik op “In winkelwagen”, kies je gewenste lengte (maat x variabele lengte) en leg de basis voor een sfeervolle kerstervaring waar iedereen van geniet. <strong>Voeg direct toe aan je feestdecoratie-arsenaal!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xBV23y2VXDwP/8RnEDo/1200x593.jpg",
+            "width": 1200,
+            "height": 593
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 330 cm",
+          "color": "Goud",
+          "gtin13": "9505273697755",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "330",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "43.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 2
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "43.89",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/K2YLpEMvXrJR/JvMQxo/550x271.jpg",
+    "https://media.s-bol.com/R0ODGEPgxLmq/xJrjE9/550x467.jpg",
+    "https://media.s-bol.com/YnWNPOy6GyN9/xJrjE9/550x550.jpg",
+    "https://media.s-bol.com/WlLXNMQnD8rJ/xJrjE9/550x399.jpg",
+    "https://media.s-bol.com/VkAKML7mBNqM/xJrjE9/550x500.jpg",
+    "https://media.s-bol.com/1DpB55X5XNZm/vNlMPL/550x488.jpg",
+    "https://media.s-bol.com/nmAVX8O3JRBl/rVj4KB/550x550.jpg"
+  ]
+}

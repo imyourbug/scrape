@@ -1,0 +1,94 @@
+{
+  "ean": "9505779571832",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000176743568",
+      "name": "Raved Rond Tafelzeil - 140 cm ø - Blaadjes - Groen - PVC - Afwasbaar",
+      "productID": "9300000176743568",
+      "description": "<p>Ontdek dit stijlvolle <strong>afwasbare PVC-tafelzeil</strong> van Raved in fris groen met blaadjesmotief, perfect voor zorgeloos genieten aan tafel. Het beschermt je tafel tegen vlekken en krassen én geeft direct een sfeervolle look aan zowel binnen- als buitenruimtes.</p> <p>Maak van elke maaltijd een ontspannen moment met het <strong>Raved tafelzeil Ø 140 cm – Groen Blaadjes</strong>: een slimme combinatie van stijl, gemak en bescherming. Gemaakt van hoogwaardig <strong>PVC-materiaal</strong>, is dit tafelzeil <strong>afwasbaar</strong>, duurzaam en uitstekend bestand tegen dagelijks gebruik met gezin, etentjes of op het terras.</p> <h3>Bescherm en verfraai je tafel</h3> <p>Met dit tafelzeil geef je je tafel niet alleen een frisse, natuurlijke uitstraling dankzij het groene blaadjesmotief, maar je voorkomt ook dat vlekken, morsen of krassen je tafel beschadigen. Het materiaal is zo ontworpen dat een vochtige doek volstaat voor schoonmaak — ideaal als kinderen aan tafel eten of je buiten barbecue’t.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu dineert in de eethoek, geniet op het balkon of laat de kinderen knutselen: dit tafelzeil is geschikt voor alle situaties. Dankzij zijn onderhoudsvriendelijke PVC-structuur kun je met een gerust hart genieten; <strong>geen zorgen meer over glas wijn, tomatensaus of regenpitten</strong>.</p> <h3>Specificaties en gebruiksgemak</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Maat</strong>: Ø 140 cm</p> </li> <li> <p><strong>Kleur/design</strong>: Groen met blaadjesmotief</p> </li> <li> <p><strong>Materiaal</strong>: PVC – afwasbaar</p> </li> <li> <p>Geschikt voor zowel binnen- als buitengebruik</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek (geen intensief wassen nodig)</p> </li> <li> <p>Prachtige mix van functionaliteit en design — ideaal voor gezinnen én gezellige avonden</p> </li> </ul> <h3>Psychologisch voordeel & sociale bewijskracht</h3> <p>Stel je voor: gasten komen binnen, jouw tafel ziet er stijlvol en netjes uit. Geen gepriegel meer met tafelkleed dat kreukt of vlekken krijgt. Met dit tafelzeil geef je je interieur net dat beetje extra en laat je zien dat je oog hebt voor detail én gemak. Veel huishoudens kiezen al bewust voor afwasbare materialen – sluit jij ook aan bij die slimme keuze?</p> <h3>Call to action</h3> <p>Wacht niet langer: voeg vandaag dit Raved tafelzeil toe aan je winkelwagen en zet je tafel binnenkort stevig, stijlvol en moeiteloos klaar voor elk moment. <strong>Bescherm je tafel én til je interieur naar een hoger niveau – bestel nu!</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Ymr5ANDzwJy9/BBrOzNQ/1197x1200.jpg",
+        "width": 1197,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "gtin13": "9505779571832",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "24.99",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Ravedfabrics.nl"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 2.99,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 1,
+              "maxValue": 1,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Ymr5ANDzwJy9/BBrOzNQ/550x551.jpg",
+    "https://media.s-bol.com/gE82j9vqZlA6/BBrOzNQ/550x442.jpg",
+    "https://media.s-bol.com/BmO6GJXkQKqQ/BBrOzNQ/550x550.jpg"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ean": "9502952579357",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000192851050",
+      "name": "Raved Tafelzeil - 140 cm Rond - Jungle Groen - PVC - Afwasbaar - Extra sterk",
+      "productID": "9300000192851050",
+      "description": "<p>Bescherm uw tafel in stijl met dit <strong>uiteindelijk praktische en mooie ronde tafelzeil</strong>: het <strong>duurzame PVC-materiaal</strong> in het levendige <strong>jungle groene dessin</strong>, <strong>afwasbaar</strong> én <strong>extra sterk</strong>, met beschermrand voor langdurige bescherming. Ideaal voor dagelijks gebruik en gezellig samen aan tafel.</p> <h3>Verhoog uw tafelplezier en minimaliseer zorgen</h3> <p>Met het <strong>tafelzeil van Raved</strong> brengt u direct een combinatie van <strong>stijlvol design</strong>, gebruiksgemak en bescherming op uw tafel. Het mat, ronde tafeloppervlak (Ø 140 cm) oogt uitnodigend en past perfect op een standaard ronde eettafel voor bijvoorbeeld 4-6 personen.<br /><strong>Merk: Raved</strong>, kleur: <strong>jungle groen</strong>, materiaal: <strong>PVC</strong> — dat maakt dit tafelzeil meteen onderscheidend.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Duurbaarheid & afwasbaarheid</strong>: Het PVC-materiaal is <strong>afwasbaar</strong>, wat betekent dat u vlekken, kringen van glazen of etenswaren eenvoudig met een vochtige doek verwijdert. Geen gedoe meer met speciaal onderhoudsmiddel of snel vervangend tafelkleed.</p> </li> <li> <p><strong>Extra sterke uitvoering</strong>: Dit is geen dun wegwerpproduct, maar een <strong>extra sterk</strong> tafelzeil dat bestand is tegen dagelijks gebruik, schuiven van stoelen, kinderen aan tafel en buitenmomenten.</p> </li> <li> <p><strong>Beschermrand</strong>: De rondom afgewerkte <strong>beschermrand</strong> zorgt ervoor dat de rand niet snel rafelt of loslaat — extra zekerheid voor jarenlang gebruik.</p> </li> <li> <p><strong>Sfeervol design</strong>: Het jungle groene dessin voegt direct sfeer toe aan uw interieur of terras. Groen is rustgevend én trendy, en het motief past zowel binnen als buiten bij een natuurlijke styling.</p> </li> </ul> <h3>Specificaties & toepassingen</h3> <ul> <li> <p>Vorm: rond, diameter Ø 140 cm.</p> </li> <li> <p>Materiaal: PVC (lichte non-woven onderlaag kan aanwezig zijn).</p> </li> <li> <p>Kleur/design: jungle groen met blad-/plantmotief.</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; ideaal voor dagelijks gebruik.</p> </li> <li> <p>Toepassing: geschikt voor eettafel binnen & terras; creëert een gezellige basis voor maaltijden, spelletjesavonden of buitenborrel.</p> </li> </ul> <h3>Neuromarketing triggers</h3> <p>Stel uzelf eens voor: uw tafel is netjes, beschadigingen of vlekken? Niet meer nodig. Met dit tafelzeil voorkomt u dat u telkens nieuwe tafelbekleding moet kopen of bang bent voor knoeien. Omdat het extra sterk is, kunt u ontspannen tafelen — zonder voortdurende ‘pas op die vlek’ gedachten.<br />Anderen kiezen al voor Raved, wat zorgt voor sociale bewijskracht: “Ik zag het bij vrienden, ziet er strak uit én blijft mooi.” En door te handelen <strong>nu</strong>, maakt u uw tafel klaar voor zowel dagelijkse momenten als speciale gelegenheden — wacht geen moment langer.</p> <h3>Call to action</h3> <p>Kies vandaag nog voor bescherming én stijl aan tafel. Klik op “In winkelwagen” en ervaar direct het verschil met dit <strong>ronde tafelzeil Ø 140 cm Jungle Groen van Raved</strong>, waar gebruiksgemak en design samenkomen.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/DvR2P06mXV4B/GZNJ88y/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Groen",
+      "gtin13": "9502952579357",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.20",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/DvR2P06mXV4B/GZNJ88y/550x550.jpg"
+  ]
+}

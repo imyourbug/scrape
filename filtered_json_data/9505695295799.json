@@ -1,0 +1,631 @@
+{
+  "ean": "9505695295799",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000231120908",
+      "name": "Raved Tafelzeil Kerst - Sneeuwvlokken 140 140 - Beige - PVC - Afwasbaar",
+      "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Y89PAzQvBnoA/0gZMqNv/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000231120908",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117960",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  180 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-180-cm-beige-pvc-afwasbaar/9300000252117960/",
+          "productID": "9300000252117960",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgr4WK42JjVn/r0DpZp2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Rood",
+          "gtin13": "9504868246149",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117961",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  300 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-300-cm-beige-pvc-afwasbaar/9300000252117961/",
+          "productID": "9300000252117961",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7RBKqPRnwqjy/xGMyqyl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Rood",
+          "gtin13": "9505924485410",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117962",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  350 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-350-cm-beige-pvc-afwasbaar/9300000252117962/",
+          "productID": "9300000252117962",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB9wk3wYZvQl/nZylQl5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Rood",
+          "gtin13": "9509788281614",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117964",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  250 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-250-cm-beige-pvc-afwasbaar/9300000252117964/",
+          "productID": "9300000252117964",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJ6Ao3w4nolN/y8Nzlz6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Rood",
+          "gtin13": "9506443434729",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117965",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  220 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-220-cm-beige-pvc-afwasbaar/9300000252117965/",
+          "productID": "9300000252117965",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3NxDmLNjpn1p/vg0wqw8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Rood",
+          "gtin13": "9507592164819",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117966",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  260 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-260-cm-beige-pvc-afwasbaar/9300000252117966/",
+          "productID": "9300000252117966",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqY0G30PkONo/pgAnwnQ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Rood",
+          "gtin13": "9505983834884",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117967",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  160 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-160-cm-beige-pvc-afwasbaar/9300000252117967/",
+          "productID": "9300000252117967",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1k40KLvxmmk/j2rBQmR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Rood",
+          "gtin13": "9503963791233",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117968",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  310 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-310-cm-beige-pvc-afwasbaar/9300000252117968/",
+          "productID": "9300000252117968",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3NxDmL8ZLEV9/DRjxNx6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Rood",
+          "gtin13": "9507173561327",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117969",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  140 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-140-cm-beige-pvc-afwasbaar/9300000252117969/",
+          "productID": "9300000252117969",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DvVnK3n8BKjY/qjBoRo7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Rood",
+          "gtin13": "9502752151845",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117970",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  100 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-100-cm-beige-pvc-afwasbaar/9300000252117970/",
+          "productID": "9300000252117970",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g094Wm4oM8nr/oYzmRmY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Rood",
+          "gtin13": "9502152727213",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117971",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  290 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-290-cm-beige-pvc-afwasbaar/9300000252117971/",
+          "productID": "9300000252117971",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJ6Ao3AEx4x8/wjLx9xr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Rood",
+          "gtin13": "9504735249532",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117972",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  230 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-230-cm-beige-pvc-afwasbaar/9300000252117972/",
+          "productID": "9300000252117972",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g094jRRDWmL6/98Zj6ox/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Rood",
+          "gtin13": "9505765748873",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117973",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  270 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-270-cm-beige-pvc-afwasbaar/9300000252117973/",
+          "productID": "9300000252117973",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m594pxJxxZgA/lOw0Qo5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Rood",
+          "gtin13": "9501222942617",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117974",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  280 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-280-cm-beige-pvc-afwasbaar/9300000252117974/",
+          "productID": "9300000252117974",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y89PAzQvBnoA/0gZMqNv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Rood",
+          "gtin13": "9505695295799",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000252117975",
+          "name": "Raved Tafelzeil Kerst - Sneeuwvlokken  140 cm x  240 cm - Beige - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-kerst-sneeuwvlokken-140-cm-x-240-cm-beige-pvc-afwasbaar/9300000252117975/",
+          "productID": "9300000252117975",
+          "description": "<p>Breng direct kerstsfeer op tafel met dit <strong>afwasbare PVC tafelzeil</strong> van Raved met <strong>sneeuwvlokken-design</strong>. Bescherm je tafel tegen vlekken en krassen, terwijl je geniet van een <strong>gezellige én praktische</strong> oplossing voor de feestdagen.<br /><br /></p> <p>Tijdens de feestdagen wordt de eettafel intensief gebruikt: lange diners, borrels, kinderen aan tafel en nét wat vaker geknoeid. Met dit <strong>Raved tafelzeil</strong> combineer je sfeer en bescherming zonder concessies te doen aan gemak.</p> <p>Dit <strong>kerst tafelzeil met sneeuwvlokken</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, waardoor het <strong>afwasbaar</strong>, slijtvast en onderhoudsvriendelijk is. Gemorste drank, saus of etensresten veeg je eenvoudig weg met een doek. Zo blijft je tafel netjes, zelfs tijdens drukke momenten.</p> <p>Het subtiele maar herkenbare <strong>kerstdesign</strong> zorgt direct voor een warme uitstraling, zonder dat het overheerst. Ideaal voor wie zijn interieur in kerstsfeer wil brengen, maar geen zin heeft in wasbare stoffen kleden die vlekgevoelig zijn of telkens in de was moeten.</p> <p>Dankzij het duurzame materiaal is dit <strong>PVC tafelzeil</strong> geschikt voor dagelijks gebruik in de decembermaand en daarbuiten. Het beschermt je tafel tegen <strong>krassen, vocht en vuil</strong>, wat vooral belangrijk is bij houten of kwetsbare tafelbladen. Je voorkomt hiermee blijvende schade — iets wat je achteraf niet meer kunt herstellen.</p> <p><strong>Voordelen op een rij:</strong></p> <ul> <li> <p><strong>Afwasbaar PVC</strong>: direct schoon, geen wasmachine nodig</p> </li> <li> <p><strong>Kerst sneeuwvlokken design</strong> voor een warme, feestelijke uitstraling</p> </li> <li> <p>Beschermt tegen <strong>vlekken, krassen en vocht</strong></p> </li> <li> <p>Praktisch voor gezinnen, etentjes en feestdagen</p> </li> <li> <p>Van het merk <strong>Raved</strong>, bekend om functionele woonproducten</p> </li> </ul> <p>Of je nu een uitgebreid kerstdiner organiseert of gewoon dagelijks aan tafel zit met het gezin: dit tafelzeil zorgt voor rust, gemak en een verzorgde uitstraling.</p> <p><strong>Maak het jezelf makkelijk deze feestdagen</strong> en kies voor een tafelzeil dat mooi blijft, wat er ook gebeurt aan tafel.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqY0G306zGZn/mwxkRkR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Rood",
+          "gtin13": "9504785669489",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Y89PAzQvBnoA/0gZMqNv/550x550.jpg"
+  ]
+}

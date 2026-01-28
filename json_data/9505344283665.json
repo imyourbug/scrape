@@ -1,0 +1,52 @@
+{
+  "ean": "9505344283665",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000220333751",
+      "name": "Raved Donker Blauw Rond Polyester Tafelkleed - 140 cm ø - Kreukvrij",
+      "productID": "9300000220333751",
+      "description": "Productbeschrijving <p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze tafellakens zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit polyester tafelkleed is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent, dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in, voor een volgend gebruik!</p> <h3>100% Polyester, kleur roest bruin</h3> <p>Met dit effe tafelkleed zorg jij voor net wat extra sfeer op uw tafel.</p> <h3>Specificaties:</h3> <p>Materiaal: 100% polyester<br />Afmetingen: 140ø cm<br />Kleur: donker blauw<br />Inhoud: 1 stuk<br />Fabrikant: Wicotex / 2Lif<br />Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved Fabrics verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/7xREDVj75nBy/QWRn50G/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Polyester"
+      ],
+      "size": "140 cm x 23 cm",
+      "color": "Donker Blauw",
+      "gtin13": "9505344283665",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "23",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/7xREDVj75nBy/QWRn50G/550x550.jpg"
+  ]
+}

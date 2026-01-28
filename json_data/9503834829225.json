@@ -1,0 +1,739 @@
+{
+  "ean": "9503834829225",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000095221745",
+      "name": "Raved Tafelbeschermer Wit ↔ 140 ↕ 140 - PVC - Afwasbaar",
+      "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/yjPkR0zGBomE/zmg5Y2m/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000095221745",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221707",
+          "name": "Raved Tafelbeschermer – 140 cm x 260 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-260-cm-pvc-afwasbaar/9300000095221707/",
+          "productID": "9300000095221707",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDrEM07QD9vl/Y6Dxqkn/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Wit",
+          "gtin13": "9509768836537",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.09",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221709",
+          "name": "Raved Tafelbeschermer – 140 cm x 280 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-280-cm-pvc-afwasbaar/9300000095221709/",
+          "productID": "9300000095221709",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/4OxKg52NDM0J/KOlB9WY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Wit",
+          "gtin13": "9504399549658",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "38.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221711",
+          "name": "Raved Tafelbeschermer – 140 cm x 230 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-230-cm-pvc-afwasbaar/9300000095221711/",
+          "productID": "9300000095221711",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ApDOywXXkm89/NxojWZp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Wit",
+          "gtin13": "9506635244686",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221712",
+          "name": "Raved Tafelbeschermer – 140 cm x 160 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-160-cm-pvc-afwasbaar/9300000095221712/",
+          "productID": "9300000095221712",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPkR0AAgmp6/P1qlW2W/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Wit",
+          "gtin13": "9508237426323",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221713",
+          "name": "Raved Tafelbeschermer – 140 cm x 350 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-350-cm-pvc-afwasbaar/9300000095221713/",
+          "productID": "9300000095221713",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EX42Zmp42Y/Q1rmg3L/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Wit",
+          "gtin13": "9509674192697",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221714",
+          "name": "Raved Tafelbeschermer – 140 cm x 310 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-310-cm-pvc-afwasbaar/9300000095221714/",
+          "productID": "9300000095221714",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6XLJKQBWr9/y8W521P/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Wit",
+          "gtin13": "9501828752481",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221715",
+          "name": "Raved Tafelbeschermer – 140 cm x 220 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-220-cm-pvc-afwasbaar/9300000095221715/",
+          "productID": "9300000095221715",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/zkpl0R44jnqq/AnEoKJP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Wit",
+          "gtin13": "9502772946483",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221716",
+          "name": "Raved Tafelbeschermer – 140 cm x 290 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-290-cm-pvc-afwasbaar/9300000095221716/",
+          "productID": "9300000095221716",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPkR0zGBomE/zmg5Y2m/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Wit",
+          "gtin13": "9503834829225",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221717",
+          "name": "Raved Tafelbeschermer – 140 cm x 240 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-240-cm-pvc-afwasbaar/9300000095221717/",
+          "productID": "9300000095221717",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZXBA0Q70zE/O7pk61L/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Wit",
+          "gtin13": "9502416755273",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221720",
+          "name": "Raved Tafelbeschermer – 140 cm x 200 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-200-cm-pvc-afwasbaar/9300000095221720/",
+          "productID": "9300000095221720",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZXBAXNJ6Wn/GZNxWP8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Wit",
+          "gtin13": "9505669958538",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221721",
+          "name": "Raved Tafelbeschermer – 140 cm x 180 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-180-cm-pvc-afwasbaar/9300000095221721/",
+          "productID": "9300000095221721",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1k7KJqq4g7B/MjngWY5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Wit",
+          "gtin13": "9505443347633",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221725",
+          "name": "Raved Tafelbeschermer – 140 cm x 270 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-270-cm-pvc-afwasbaar/9300000095221725/",
+          "productID": "9300000095221725",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ApDOywrkVX4j/WnAvogv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Wit",
+          "gtin13": "9509567591576",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221726",
+          "name": "Raved Tafelbeschermer – 140 cm x 140 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-140-cm-pvc-afwasbaar/9300000095221726/",
+          "productID": "9300000095221726",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BWVWnJo3w/Vmzrn8W/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Wit",
+          "gtin13": "9507843745828",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221730",
+          "name": "Raved Tafelbeschermer – 140 cm x 300 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-300-cm-pvc-afwasbaar/9300000095221730/",
+          "productID": "9300000095221730",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3JljMQ7PKB/BgGp9KN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Wit",
+          "gtin13": "9503523377921",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221731",
+          "name": "Raved Tafelbeschermer – 140 cm x 250 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-250-cm-pvc-afwasbaar/9300000095221731/",
+          "productID": "9300000095221731",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1k7KJq87rRB/X6BwpjA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Wit",
+          "gtin13": "9508615786988",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221734",
+          "name": "Raved Tafelbeschermer – 140 cm x 100 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-100-cm-pvc-afwasbaar/9300000095221734/",
+          "productID": "9300000095221734",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJk1PNGqLL78/JZkAWVP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Wit",
+          "gtin13": "9504383722982",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000095221735",
+          "name": "Raved Tafelbeschermer – 140 cm x 320 cm – wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelbeschermer-wit-140-cm-x-320-cm-pvc-afwasbaar/9300000095221735/",
+          "productID": "9300000095221735",
+          "description": "<p>Met de <strong>Raved tafelbeschermer </strong>kies je voor <strong>duurzame bescherming</strong> van je tafelblad – <strong>gemaakt van stevig PVC</strong>, strak wit en <strong>afwasbaar</strong> zodat knoeien geen probleem meer is. Perfect voor gezellig samen eten én ontspannen buiten.</p> <p>Ontdek de <strong>Raved tafelbeschermer</strong> – de slimme oplossing voor iedereen die zijn tafelblad wilt beschermen zonder in te leveren op stijl. Deze <strong>tafelsbeschermer</strong> is gemaakt van hoogwaardig <strong>PVC</strong>, in een frisse <strong>witte kleur</strong>, en is <strong>afwasbaar</strong> – ideaal voor gezinnen, buitengebruik of wie gewoon rust wil aan de eettafel.</p> <h3>Waarom deze tafelbeschermer?</h3> <p>Iedere maaltijd, knutselmoment of gezellig samenzijn brengt risico’s mee: <strong>vlekken</strong>, <strong>krassen</strong>, of schade door <strong>hete pannen</strong>. Met deze beschermer elimineer je die zorgen. Dankzij de ruime past hij perfect op grote rechthoekige tafels en biedt hij volledige dekking van het tafeloppervlak.</p> <h3>Mooie combinatie van functie en design</h3> <p>De witte kleur geeft een neutrale, lichte uitstraling – perfect voor diverse interieurstijlen. Het gladde PVC-oppervlak voelt aangenaam aan, en geeft je tafel een frisse look. Tegelijkertijd is deze beschermer uiterst praktisch: <strong>afwasbaar</strong>, en dus eenvoudig schoon te maken met een vochtige doek. Ideal voor dagelijks gebruik binnen én buiten.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Merk</strong>: Raved</p> </li> <li> <p><strong>Kleur</strong>: Wit</p> </li> <li> <p><strong>Materiaal</strong>: PVC (duurzaam, vloeistofwerend)</p> </li> <li> <p><strong>Gebruik</strong>: Binnen & buiten</p> </li> <li> <p><strong>Onderhoud</strong>: Eenvoudig afnemen met doek – knoeien is geen probleem meer</p> </li> </ul> <h3>Behoefte aan bescherming, direct afgestemd</h3> <p>Stel je voor: je nodigt vrienden uit, de kinderen tekenen, je serveert een pan hete pasta – en je hoeft je geen zorgen te maken over wat er op tafel achterblijft. Dankzij deze tafelbeschermer <strong>voorkom je schade aan je meubel</strong> – wat betekent dat je investering veilig is. Dit is ook sociaal bewezen: veel huiseigenaren kiezen tegenwoordig voor beschermlagen om hun dure meubels langer mooi te houden.</p> <h3>Tips voor gebruik</h3> <p>Leg de beschermer netjes uit op je tafel en zorg dat hij goed strak ligt. Voor buitengebruik: haal hem naar binnen bij aanhoudende regen om de kwaliteit te behouden. Combineer met een placemat of onderzetter voor warme pannen, om extra veiligheid te garanderen.</p> <h3>Jouw moment van actie</h3> <p>Gun jezelf de rust dat je tafel mooi blijft – zonder stress, zonder vlekken. Voeg de <strong>Raved tafelbeschermer</strong> vandaag nog toe aan je bestelling en zet je tafel klaar voor elk moment, van ontbijt tot late zomeravond in de tuin. Maak van je eettafel een plek waar je met volle aandacht kunt genieten.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgkjQPzz4lol/LgmDWXA/1200x1119.jpg",
+            "width": 1200,
+            "height": 1119
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Wit",
+          "gtin13": "9504538452252",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "31.39",
+        "highPrice": "38.49",
+        "offerCount": "3"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/yjPkR0zGBomE/zmg5Y2m/550x550.jpg"
+  ]
+}

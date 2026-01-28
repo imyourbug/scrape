@@ -1,0 +1,58 @@
+{
+  "ean": "5603272226472",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9200000107241758",
+      "name": "Raved Rond Tafelzeil - 160 cm ø - Linnen Beige - PVC - Afwasbaar",
+      "productID": "9200000107241758",
+      "description": "a",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/z2XnAp2VrW7/1200x1161.jpg",
+        "width": 1200,
+        "height": 1161
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 160 cm",
+      "gtin13": "5603272226472",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Bonita",
+        "url": "https://www.bol.com/nl/nl/b/bonita/600007626/"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/z2XnAp2VrW7/550x532.jpg"
+  ]
+}

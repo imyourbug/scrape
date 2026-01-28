@@ -1,0 +1,96 @@
+{
+  "ean": "9506376675664",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000192851049",
+      "name": "Raved Rond Tafelzeil – Ø 140 cm - Linnen Look – Beige – PVC – Afwasbaar - Extra Sterk",
+      "productID": "9300000192851049",
+      "description": "<p>Geef je tafel een stijlvolle upgrade met dit <strong>extra sterke, afwasbare PVC-tafelzeil</strong> in linnenlook. Het Ø 140 cm formaat past perfect op ronde tafels en combineert <strong>bescherming tegen vlekken</strong>, een <strong>mooie beige linnenlook</strong> en <strong>gemakkelijk onderhoud</strong> voor binnen én buiten.</p> <p>Verwen je interieur of terras met het <strong>Raved tafelzeil Ø 140 cm</strong>, voorzien van een elegante <strong>linnenlook</strong>, kleur beige, en gemaakt van robuust <strong>PVC-materiaal</strong>. Dit tafelzeil biedt een ideale combinatie van stijl én functionaliteit: de rustige linnenlook voegt direct sfeer toe, terwijl het praktische materiaal zorgt voor uitstekende bescherming van je tafel.</p> <h3>Stijlvolle uitstraling met linnenlook</h3> <p>De subtiele structuur in linnenlook geeft je tafel direct een luxe en verzorgde uitstraling — perfect voor zowel dagelijks gebruik als een ontspannen diner met vrienden of familie. Het neutrale beige past moeiteloos in uiteenlopende interieurstijlen, van modern tot klassiek, en tillen je eet- of tuintafel naar een hoger niveau.</p> <h3>Slimme bescherming en onderhoudsgemak</h3> <p>Dankzij het handige <strong>PVC-materiaal</strong> is dit tafelzeil eenvoudig schoon te maken: een vochtige doek is vaak voldoende om gemorste vloeistoffen of etensresten te verwijderen. Geen gedoe met wassen of ingewikkeld onderhoud. De rand is extra sterk afgewerkt, wat betekent dat het tafelzeil langer mooi blijft — minder vervanging, meer rust.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu aan de eettafel zit of op je terras geniet van een zomerse lunch: dit tafelzeil is veelzijdig. Het Ø 140 cm formaat is speciaal afgestemd op ronde tafels, zodat je geen ongewenste overhang hebt of hoeft in te korten. Wel is het goed om te weten dat extreme hitte of vorst minder geschikt zijn — behandel je tafelzeil met dezelfde zorg als je tafel zelf.</p> <h3>Kenmerken in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Vorm: Rond</p> </li> <li> <p>Diameter: Ø 140 cm</p> </li> <li> <p>Kleur: Beige (linnenlook)</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Onderhoud: Afwasbaar met vochtige doek</p> </li> <li> <p>Extra sterk beschermrand voor langdurig gebruik</p> </li> </ul> <h3>Waarom dit tafelzeil?</h3> <p>Je kiest dit tafelzeil omdat je stijl én gemak wilt combineren. Het is dé oplossing voor huiseigenaren die bescherming zoeken zonder in te leveren op uitstraling. Vlekken op de tafel? Geen zorgen meer. Versleten rand? Niet met deze extra sterk afgewerkte versie. De investering betaalt zich terug in rust: je tafel blijft mooi, je hebt minder stress, je hebt meer tijd voor het échte leven.</p> <p><strong>Grijp nu je kans</strong> om je tafel van top tot teen te beschermen — en stijlvol. Voeg dit tafelzeil toe aan je winkelwagen en geef je huis direct de upgrade die het verdient!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/YDgz5DYPRvv0/ADOnzGl/1200x965.jpg",
+        "width": 1200,
+        "height": 965
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Beige",
+      "gtin13": "9506376675664",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.20",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/YDgz5DYPRvv0/ADOnzGl/550x442.jpg",
+    "https://media.s-bol.com/Rv9p1vKG7lLK/ADOnzGl/550x550.jpg",
+    "https://media.s-bol.com/YDgz5zPXr0JM/ADOnzGl/550x399.jpg",
+    "https://media.s-bol.com/Rv9p1pGBkjNw/ADOnzGl/550x550.jpg"
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "ean": "9502463961849",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000177105336",
+      "name": "Raved Rond Tafelzeil - 140 ø - PVC - Afwasbaar",
+      "description": "<p>Met het <strong>afwasbare PVC-tafelzeil</strong> van Raved geef je je tafel direct een frisse look én bescherming. Het <strong>rond tafelkleed Ø 140 cm</strong> in <strong>geel met gekleurde ruitenprint</strong> is stijlvol én praktisch — perfect voor gezinsmaaltijden of tuinmomenten zonder stress over vlekken.</p> <p>Breng jouw eettafel of tuintafel tot leven met het <strong>primair zoekwoord “tafelzeil”</strong>: het <strong>Raved Rond Tafelzeil Ø 140 cm</strong> in <strong>geel met gekleurde ruitenprint</strong>. Dit tafelzeil combineert een opvallend design met hoge functionaliteit — de ideale mix van sfeer en gemak.</p> <h3>Stijlvol design en vrolijke kleur</h3> <p>De stijlvolle patroon van gekleurde ruiten op een warme gele ondergrond trekt meteen de aandacht en zorgt voor een gezellige sfeer. Of je nu een familiemaaltijd in de keuken hebt of een ontspannen borrel buiten — deze print maakt het moment net wat specialer.</p> <h3>Duurzaam materiaal & praktisch in gebruik</h3> <p>Het zeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat bekend staat om zijn water- en vuilafstotende eigenschappen en het moeiteloos reinigen. Dankzij de afwasbare oppervlakte hoef je alleen even afnemen met een vochtige doek — ideaal bij kinderen, buitengebruik of het voorkomen van vlekken van wijn, saus of gras. Bovendien beschermt het jouw tafel tegen krassen, vlekken en ongewenste slijtage.</p> <h3>Ideaal voor binnen én buiten</h3> <p>Of je binnen zit voor een gezellig diner of buiten geniet van de eerste zonnestralen — dit tafelzeil biedt de flexibiliteit die je zoekt. De ronde maat (Ø 140 cm) sluit perfect aan op standaard rondzettafels of tuinsets. Zo heb je een beschermlaag én een stijlvolle basis tegelijk.</p> <h3>Speciaal voor jou</h3> <ul> <li> <p>Rond formaat Ø 140 cm: makkelijk passend en direct in gebruik.</p> </li> <li> <p>Gele kleur met ruitenpatroon: vrolijk én trendy.</p> </li> <li> <p>PVC-materiaal: afwasbaar, duurzaam en makkelijk in onderhoud.</p> </li> <li> <p>Merk Raved: vertrouwd in tafeltextiel met oog voor kwaliteit. </p> </li> <li> <p>Praktisch bescherming van tafelblad zonder concessies aan stijl.</p> </li> </ul> <h3>Waarom wachten?</h3> <p>Laat jouw tafel weer stralen en neem afscheid van stress over vlekken of slijtage. Het Raved tafelzeil zorgt voor een <strong>direct resultaat</strong>: een frisse uitstraling, makkelijk onderhoud én jarenlang plezier. Voeg vandaag nog sfeer én functionaliteit toe aan je eetruimte — klik op de knop en ga voor zorgeloos genieten!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/YmYQEk3j507O/YE7J1YM/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000177105336",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177105327",
+          "name": "Raved Rond Tafelzeil - Vierkantjes 140 cm ø - Bruin - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelzeil-vierkantjes-140-cm-o-bruin-pvc-afwasbaar/9300000177105327/",
+          "productID": "9300000177105327",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzijlen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Roze paardenbloemen design</h3> <p>Breng de ruimte om je heen tot leven met een prachtig bloemenprint. Perfect voor iedere interieurstijl: van landelijk tot klassiek, met deze mooie print haal je een frisse look in huis.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 cm ø <br /> Kleur: Groen<br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qnpVx7ojn5EG/W6PEYKQ/1200x1197.jpg",
+            "width": 1200,
+            "height": 1197
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Bruin",
+          "gtin13": "9501421762191",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177105328",
+          "name": "Raved Rond Tafelzeil – 140 cm ø – Klaprozen Rood – Bloemenprint – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelzeil-klaprozen-140-cm-o-rood-pvc-afwasbaar/9300000177105328/",
+          "productID": "9300000177105328",
+          "description": "<p>Met dit <strong>helderrode ronde tafelzeil met klaprozen-print</strong> haal je direct <strong>sfeervolle bescherming voor je tafel</strong> in huis — gemaakt van <strong>duurzaam PVC</strong>, <strong>afwasbaar met een vochtige doek</strong>, ideaal voor <strong>binnen én buitengebruik</strong>.</p> <p>Breng je tafel tot leven met het <strong>primair zoekwoord “rond tafelzeil”</strong> — de <strong>Raved Rond Tafelzeil – Klaprozen rood – ø 140 cm</strong> combineert vrolijk design met slimme functionaliteit. Het gedurfde rood met sierlijke klaprozen zorgt voor een warme, uitnodigende uitstraling bij elke maaltijd. Dankzij de ronde vorm (ø 140 cm) past dit tafelzeil perfect op ronde tafels — een directe upgrade voor je eet­ of tuintafel.</p> <h3>Waarom dit tafelzeil kiezen?</h3> <ul> <li> <p>Het <strong>materiaal PVC</strong> is water- en vuilafstotend, dus gemorste drankjes of sappen vormen geen probleem. Je veegt het eenvoudig schoon met een vochtige doek — geen wasmachine nodig. </p> </li> <li> <p>De bloemenprint met <strong>klaprozen rood</strong> creëert een stijlvolle sfeer — ideaal voor binnen of buiten, van familiediner tot zomerbarbecue. </p> </li> <li> <p>Door de afmeting ø 140 cm past het naadloos op veel ronde tafels zonder teveel overhang — visueel rustiger en functioneel.</p> </li> <li> <p>Geschikt voor <strong>binnen & buitengebruik</strong>: je tafel krijgt direct extra stijl én bescherming. Let op: bij veel zonlicht kunnen rode kleuren sneller vervagen — daarom is het raadzaam het tafelzeil bij hevig weer binnen te halen. </p> </li> </ul> <h3>Toepassing & onderhoud</h3> <p>Leg het tafelzeil direct op je tafelblad, zet eventueel onderzetters onder hete pannen voor extra veiligheid. Het PVC-oppervlak is slijtvast en minimaliseert krassen, ideaal in huishoudens met kinderen of huisdieren. Na gebruik maak je het eenvoudig schoon — geen strijken of ingewikkeld onderhoud. Bovendien is het bloemendessin een sfeervol accent dat elke maaltijd of zithoek verrijkt.</p> <h3>Voordelen die je direct merkt</h3> <p>Je voorkomt <strong>vlekken, vochtplekken en beschadigingen</strong> op je tafel — verliesaversie: liever voorkomen dan achteraf spijt. Tegelijk geef je je ruimte een frisse uitstraling — sociale bewijskracht: anderen zullen vragen waar je het tafelzeil vandaan hebt. En de combinatie van stijl + gemak maakt dat je sneller geneigd bent je tafel écht mooi op te maken — urgentie: koop vandaag en creëer morgen al die gezellige setting.</p> <h3>Specifieke kenmerken</h3> <ul> <li> <p>Vorm: rond</p> </li> <li> <p>Diameter: 140 cm (ø)</p> </li> <li> <p>Kleur/patroon: rood met klaprozen</p> </li> <li> <p>Materiaal: PVC (afwasbaar)</p> </li> <li> <p>Gebruik: binnen & buiten</p> </li> <li> <p>Onderhoud: afnemen met vochtige doek</p> </li> </ul> <p><strong>Beleef het verschil</strong>: onderschat niet hoe een goed gekozen tafelzeil bijdraagt aan sfeer en geruststelling — geen stress meer om vlekken of schade. Pak je moment en upgrade je tafel vandaag. <strong>Bestel nu</strong> en geef je tafel direct dat vrolijke klaprozenaccent.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/v1g5Jx44w1rm/WnAE2Rg/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Rood",
+          "gtin13": "9507111194891",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.00",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177105329",
+          "name": "Raved Rond Tafelzeil - Lichte Bladeren 140 cm ø - Groen - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelzeil-lichte-bladeren-140-cm-o-groen-pvc-afwasbaar/9300000177105329/",
+          "productID": "9300000177105329",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzijlen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Roze paardenbloemen design</h3> <p>Breng de ruimte om je heen tot leven met een prachtig bloemenprint. Perfect voor iedere interieurstijl: van landelijk tot klassiek, met deze mooie print haal je een frisse look in huis.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 cm ø <br /> Kleur: Groen<br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YmYQEDGl9p2K/VOvDX2v/1200x1197.jpg",
+            "width": 1200,
+            "height": 1197
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Groen",
+          "gtin13": "9502115758247",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.00",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177105330",
+          "name": "Raved Rond Tafelzeil - 140 cm ø - Klaprozen Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelzeil-klaprozen-140-cm-o-blauw-pvc-afwasbaar/9300000177105330/",
+          "productID": "9300000177105330",
+          "description": "<p>Bescherm je tafel stijlvol met dit <strong>afwasbare rond tafelzeil</strong> van <strong>PVC</strong>, voorzien van een elegant <strong>klaprozen-dessin op blauw</strong> en perfect passend voor Ø 140 cm tafels. Dankzij het <strong>duurzame materiaal</strong> en de <strong>eenvoudige reiniging</strong> kun je onbezorgd genieten — binnen én buiten.</p> <p>Maak een einde aan knoeien, krassen en vlekken – met dit <strong>rond tafelzeil</strong> van **Raved Rond Tafelzeil – Klaprozen 140 cm ø – Blauw – PVC – Afwasbaar geef je je tafel direct een stijlvolle én praktische upgrade. Dit tafelzeil, in een prettige maat voor Ø 140 cm tafels, combineert een mooi <strong>klaprozen-dessin</strong> met een frisse <strong>blauwe ondergrond</strong>, hetgeen zowel binnenshuis als op het terras een warme, uitnodigende sfeer creëert.</p> <h3>Bescherming én uitstraling</h3> <p>Je tafel is dagelijks blootgesteld aan vlekken van koffie, saus, kinderen die knutselen, of gewoon het weer buiten. Met dit tafelzeil profiteer je van <strong>duurzaam PVC-materiaal</strong> dat bestand is tegen krassen, vocht en spetters. Bovendien is het <strong>afwasbaar</strong> — dus in plaats van eindeloos wrijven kun je eenvoudig met een vochtige doek afnemen en weer klaar voor gebruik.</p> <h3>Design dat past</h3> <p>Het bloemige klaprozenmotief op blauw geeft je eet- of tuintafel direct karakter. Of je nu een landelijke stijl hebt, een moderne setting of buiten een relaxte sfeer wilt creëren: dit tafelzeil past perfect. Het is niet alleen functioneel, maar ook een echte sfeermaker die je tafel “af” maakt.</p> <h3>Voor binnen én buiten</h3> <p>Dankzij het robuuste materiaal kun je dit tafelzeil zowel op je keuken- of eettafel gebruiken als op je tuintafel of balkonmeubilair. Let op: onder stevige blootstelling aan regen of zon kun je het best bij slecht weer binnen halen, om de kleur en kwaliteit optimaal te behouden. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Vorm: Rond</p> </li> <li> <p>Maat: Ø 140 cm</p> </li> <li> <p>Kleur: Blauw met klaprozenprint</p> </li> <li> <p>Materiaal: PVC (duurzaam, afwasbaar)</p> </li> <li> <p>Geschikt voor: binnen & buiten gebruik</p> </li> <li> <p>Onderhoud: Afvegen met vochtige doek (geen machinewas) </p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Directe bescherming</strong> tegen vlekken en beschadigingen — je tafel blijft mooi.</p> </li> <li> <p><strong>Stijlvol design</strong> met klaprozen op blauw: een subtiele eyecatcher zonder te overdreven.</p> </li> <li> <p><strong>Eenvoudig onderhoud</strong>: geen gedoe met wassen of strijken – gewoon afnemen.</p> </li> <li> <p><strong>Veelzijdige inzet</strong>: geschikt voor dagelijks gebruik, knutselmomenten met kinderen, buitenlunches of gezellige avonden met familie en vrienden.</p> </li> </ul> <h3>Call-to-action</h3> <p>Verwen je tafel vandaag nog met dit slimme én stijlvolle tafelzeil – klik op “In winkelwagen” en geef je interieur de upgrade die het verdient!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qnpVj48QvR67/R6lyQKO/1200x1197.jpg",
+            "width": 1200,
+            "height": 1197
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Blauw",
+          "gtin13": "9508314481283",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.00",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177105331",
+          "name": "Raved Rond Tafelzeil - 140 cm ø - Gekleurde Ruiten - Geel - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelzeil-gekleurde-ruiten-140-cm-o-geel-pvc-afwasbaar/9300000177105331/",
+          "productID": "9300000177105331",
+          "description": "<p>Met het <strong>afwasbare PVC-tafelzeil</strong> van Raved geef je je tafel direct een frisse look én bescherming. Het <strong>rond tafelkleed Ø 140 cm</strong> in <strong>geel met gekleurde ruitenprint</strong> is stijlvol én praktisch — perfect voor gezinsmaaltijden of tuinmomenten zonder stress over vlekken.</p> <p>Breng jouw eettafel of tuintafel tot leven met het <strong>primair zoekwoord “tafelzeil”</strong>: het <strong>Raved Rond Tafelzeil Ø 140 cm</strong> in <strong>geel met gekleurde ruitenprint</strong>. Dit tafelzeil combineert een opvallend design met hoge functionaliteit — de ideale mix van sfeer en gemak.</p> <h3>Stijlvol design en vrolijke kleur</h3> <p>De stijlvolle patroon van gekleurde ruiten op een warme gele ondergrond trekt meteen de aandacht en zorgt voor een gezellige sfeer. Of je nu een familiemaaltijd in de keuken hebt of een ontspannen borrel buiten — deze print maakt het moment net wat specialer.</p> <h3>Duurzaam materiaal & praktisch in gebruik</h3> <p>Het zeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat bekend staat om zijn water- en vuilafstotende eigenschappen en het moeiteloos reinigen. Dankzij de afwasbare oppervlakte hoef je alleen even afnemen met een vochtige doek — ideaal bij kinderen, buitengebruik of het voorkomen van vlekken van wijn, saus of gras. Bovendien beschermt het jouw tafel tegen krassen, vlekken en ongewenste slijtage.</p> <h3>Ideaal voor binnen én buiten</h3> <p>Of je binnen zit voor een gezellig diner of buiten geniet van de eerste zonnestralen — dit tafelzeil biedt de flexibiliteit die je zoekt. De ronde maat (Ø 140 cm) sluit perfect aan op standaard rondzettafels of tuinsets. Zo heb je een beschermlaag én een stijlvolle basis tegelijk.</p> <h3>Speciaal voor jou</h3> <ul> <li> <p>Rond formaat Ø 140 cm: makkelijk passend en direct in gebruik.</p> </li> <li> <p>Gele kleur met ruitenpatroon: vrolijk én trendy.</p> </li> <li> <p>PVC-materiaal: afwasbaar, duurzaam en makkelijk in onderhoud.</p> </li> <li> <p>Merk Raved: vertrouwd in tafeltextiel met oog voor kwaliteit. </p> </li> <li> <p>Praktisch bescherming van tafelblad zonder concessies aan stijl.</p> </li> </ul> <h3>Waarom wachten?</h3> <p>Laat jouw tafel weer stralen en neem afscheid van stress over vlekken of slijtage. Het Raved tafelzeil zorgt voor een <strong>direct resultaat</strong>: een frisse uitstraling, makkelijk onderhoud én jarenlang plezier. Voeg vandaag nog sfeer én functionaliteit toe aan je eetruimte — klik op de knop en ga voor zorgeloos genieten!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YmYQEk3j507O/YE7J1YM/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Geel",
+          "gtin13": "9502463961849",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "27.95",
+        "highPrice": "27.95",
+        "offerCount": "5"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/YmYQEk3j507O/YE7J1YM/550x550.jpg",
+    "https://media.s-bol.com/mj02ZAk6rMgE/YE7J1YM/550x442.jpg",
+    "https://media.s-bol.com/qnpVjY5n3Jo7/YE7J1YM/550x550.jpg"
+  ]
+}

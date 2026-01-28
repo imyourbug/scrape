@@ -1,0 +1,1523 @@
+{
+  "ean": "9503221399584",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000178018884",
+      "name": "Raved Katoen Tafelzeil 140 140 - Bloemen - Waterafstotend - Uitwasbaar",
+      "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/xxWq1J2PgG33/0R0LAyV/1200x590.jpg",
+        "width": 1200,
+        "height": 590
+      },
+      "productGroupID": "9300000178018884",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "Polyester",
+        "Katoen"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018872",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  240 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-240-cm-bloemen-waterafstotend-uitwasbaar/9300000178018872/",
+          "productID": "9300000178018872",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/70BzXxORmg9w/pYkZkAN/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9501356847468",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018873",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  260 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-260-cm-bloemen-waterafstotend-uitwasbaar/9300000178018873/",
+          "productID": "9300000178018873",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mjjoM9gQ6vKp/zp7pEqY/1200x591.jpg",
+            "width": 1200,
+            "height": 591
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9501288423648",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018874",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  200 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-200-cm-bloemen-waterafstotend-uitwasbaar/9300000178018874/",
+          "productID": "9300000178018874",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RJVnwjrjMypV/o2jZjkY/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9502695768476",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018875",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  180 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-180-cm-bloemen-waterafstotend-uitwasbaar/9300000178018875/",
+          "productID": "9300000178018875",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jK9ML6VBWLnl/ER0q0k0/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9505841724692",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018876",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  100 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-100-cm-bloemen-waterafstotend-uitwasbaar/9300000178018876/",
+          "productID": "9300000178018876",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VjVrlnyn5Dwz/rkm2m1E/1200x1091.jpg",
+            "width": 1200,
+            "height": 1091
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9505651593341",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018877",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  320 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-320-cm-bloemen-waterafstotend-uitwasbaar/9300000178018877/",
+          "productID": "9300000178018877",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jK9ML6Vkx7mR/5yR7RPB/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507528966562",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018878",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  160 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-160-cm-bloemen-waterafstotend-uitwasbaar/9300000178018878/",
+          "productID": "9300000178018878",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yyv5M2O63G16/lY2R2P1/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9507199732145",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018879",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  300 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-300-cm-bloemen-waterafstotend-uitwasbaar/9300000178018879/",
+          "productID": "9300000178018879",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE9K6MVnDvNr/OYPgPjY/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9509716435959",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018880",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  140 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-140-cm-bloemen-waterafstotend-uitwasbaar/9300000178018880/",
+          "productID": "9300000178018880",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xxr59LNlAzzq/9rD9DZZ/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9508787578930",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178018881",
+          "name": "Raved Katoen Tafelzeil Bruine Takken  140 cm x  350 cm - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bruine-takken-140-cm-x-350-cm-bloemen-waterafstotend-uitwasbaar/9300000178018881/",
+          "productID": "9300000178018881",
+          "description": "<p>Ontdek de rustieke charme van het Raved Katoen Tafelzeil Bruine Takken, waar elegante takken en subtiele bloemen zich aftekenen tegen een rijke bruine achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil biedt niet alleen bescherming tegen morsen en vlekken, maar brengt ook een natuurlijke esthetiek naar je eetruimte of buitenzitje. Perfect voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een sfeervol ontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor een diversiteit aan gelegenheden, van een gezellige brunch binnen tot een sfeervol diner buiten, het Raved Katoen Tafelzeil Bruine Takken zorgt voor een warme tafelsetting. Om de rijke kleur en het delicate patroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Bruin met Bloemen en Takkenmotief</h3> <p>Transformeer je tafel in een uitnodigende, natuurlijke plek met het Raved Katoen Tafelzeil Bruine Takken. De diepe bruine achtergrond, versierd met takken en delicate bloemen, creëert een rustige en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar is ook een visueel aantrekkelijk element dat elke ruimte verfraait.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Bruin met Bloemen en Takkenmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Ideaal voor zowel intieme maaltijden als grootschalige bijeenkomsten. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bruine Takken kies je voor een natuurlijke, sfeervolle look die elke eetervaring verrijkt met een touch van serene schoonheid.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/zzw59YNB3J2q/gJnpnEr/1200x870.jpg",
+            "width": 1200,
+            "height": 870
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9507799734860",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176909",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-240-cm-roze-waterafstotend-uitwasbaar/9300000178176909/",
+          "productID": "9300000178176909",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/70BErv1M5wMw/68BBgR9/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Roze",
+          "gtin13": "9503988946786",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176910",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-100-cm-roze-waterafstotend-uitwasbaar/9300000178176910/",
+          "productID": "9300000178176910",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mj91pLOg70E3/4xzz5R6/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Roze",
+          "gtin13": "9503888272435",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176911",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-160-cm-roze-waterafstotend-uitwasbaar/9300000178176911/",
+          "productID": "9300000178176911",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OD0mn1Mq8EmQ/73ppjLA/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Roze",
+          "gtin13": "9503295131776",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176912",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-260-cm-roze-waterafstotend-uitwasbaar/9300000178176912/",
+          "productID": "9300000178176912",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE9RjBZN7K8l/1wGG2rj/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Roze",
+          "gtin13": "9505214348494",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176913",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-200-cm-roze-waterafstotend-uitwasbaar/9300000178176913/",
+          "productID": "9300000178176913",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KyVgj6on3VBM/Z6zz3V6/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Roze",
+          "gtin13": "9502996242736",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Ravedfabrics.nl"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176914",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-320-cm-roze-waterafstotend-uitwasbaar/9300000178176914/",
+          "productID": "9300000178176914",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3XxznoQ2jVl9/2k773vv/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Roze",
+          "gtin13": "9503762637831",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "44.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176915",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-180-cm-roze-waterafstotend-uitwasbaar/9300000178176915/",
+          "productID": "9300000178176915",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/olg3rNVmqK7k/31yy42Q/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Roze",
+          "gtin13": "9508433915584",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176916",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-140-cm-roze-waterafstotend-uitwasbaar/9300000178176916/",
+          "productID": "9300000178176916",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/roljxQm835nW/YEyy2vp/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Roze",
+          "gtin13": "9505227376927",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176917",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-350-cm-roze-waterafstotend-uitwasbaar/9300000178176917/",
+          "productID": "9300000178176917",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BmYVJKNRgBjx/5yRR69R/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Roze",
+          "gtin13": "9505832822659",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "49.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178176918",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Wilde Bloemen Roze – Katoen – Waterafstotend – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-wilde-bloemen-140-cm-x-300-cm-roze-waterafstotend-uitwasbaar/9300000178176918/",
+          "productID": "9300000178176918",
+          "description": "<p>Geef je tafel direct een bloeiende upgrade met dit <strong>waterafstotende katoenen tafelzeil</strong> in een vrolijke <strong>wilde bloemen-print op roze achtergrond</strong>. Dankzij de <strong>uitwasbare afwerking</strong> bescherm je jouw tafel moeiteloos tegen vlekken en morsen — stijl en gemak in één.</p> <p>Maak van elke maaltijd een stijlvol moment met het <strong>primair zoekwoord: tafelzeil</strong> — het stijlvolle en functionele accessoire voor een gastvrije tafeldressing. Het merk Raved brengt met dit tafelzeil een prachtige combinatie van design en praktische bescherming.</p> <h3>Een feest voor je tafel</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>materiaal: katoen</strong> dat is behandeld met een <strong>waterafstotende laag</strong>. Hierdoor vormen gemorste drankjes en vlekken geen bedreiging meer voor je houten tafel of tafellaken. De zachte <strong>kleur: roze</strong> in combinatie met een <strong>wilde bloemen-print</strong> zorgt voor een vrolijke en natuurlijke sfeer — perfect voor zowel een gezellige lunch als een zomerse tuinborrel. Bij aankoop voeg je direct flair toe aan je eetruimte.</p> <h3>Duurzaam gebruik & gemak</h3> <p>Dankzij de <strong>uitwasbare afwerking</strong> kun je het zeil eenvoudig schoonmaken — even afnemen of, indien nodig, wassen. Door deze onderhoudsvriendelijkheid geef je je tafel jarenlang bescherming, en vermijd je constant schrikken van nieuwe vlekken of slijtage. Zo houd je meer tijd over voor het samenzijn en minder voor onderhoud.</p> <h3>Voor binnen én buiten</h3> <p>Het ontwerp is veelzijdig. Gebruik het op de eettafel, op een tuintafel of een gezellige picknicktafel. Dankzij de waterafstotende werking is het geschikt voor verschillende omstandigheden — van spontane familiediners tot buiten doorgebrachte zomeravonden. Geen stress meer over weer of morsen, gewoon genieten.</p> <h3>Waarom kiezen voor dit model?</h3> <ul> <li> <p><strong>USP 1: waterafstotend</strong> – optimale bescherming tegen vocht en morsen.</p> </li> <li> <p><strong>USP 2: uitwasbaar</strong> – eenvoudig te reinigen en herbruikbaar.</p> </li> <li> <p><strong>USP 3: stijlvol wilde bloemen-design</strong> – brengt direct sfeer en aandacht naar je tafel.<br />Daarnaast kies je met katoen voor een natuurlijke textuur die luxe uitstraalt, in plaats van standaard plastic tafelkleden.</p> </li> </ul> <h3>Let op: maatvoering</h3> <p>Het product is beschikbaar in maat <strong>140 cm</strong> breed (lengte variabel) wat ideaal is voor de meeste rechthoekige tafels. Controleer de gewenste lengte voor jouw tafel zodat het optimaal past.</p> <p>Stap over van praktisch naar stijlvol — maak je tafel klaar voor zowel dagelijks gebruik als bijzondere momenten. <strong>Klik op ‘in winkelwagen’</strong> en geef je tafel direct een nieuwe bloeiende look met bescherming die je niet ziet, maar wel voelt.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gE9RjBZpVmYD/W6QQZng/1200x589.jpg",
+            "width": 1200,
+            "height": 589
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Roze",
+          "gtin13": "9506352785196",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "39.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193883",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  160 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-160-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193883/",
+          "productID": "9300000178193883",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gEWY2qzkzZJG/QW67AmM/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9501994513282",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193884",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  200 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-200-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193884/",
+          "productID": "9300000178193884",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jKWQ8onRyKol/kRr76Vr/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9504768864719",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193885",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  100 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-100-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193885/",
+          "productID": "9300000178193885",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xxWq1J2PgG33/0R0LAyV/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Polyester",
+            "Katoen"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9503221399584",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193886",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  180 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-180-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193886/",
+          "productID": "9300000178193886",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mjWRyrEZBP5p/5yRLAxq/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9502491926988",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193887",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  260 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-260-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193887/",
+          "productID": "9300000178193887",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mjWRyrYgvMQG/9rDg378/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9508414117150",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193888",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  350 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-350-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193888/",
+          "productID": "9300000178193888",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/lgWQ7q2q8O16/zp7Xq47/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9506697547411",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193889",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  240 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-240-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193889/",
+          "productID": "9300000178193889",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JxkDQvNLv7yo/VO7QJrB/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9502869323333",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193890",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  140 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-140-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193890/",
+          "productID": "9300000178193890",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/kLWQ7prPvQx6/31ywYv4/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9502887854154",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193891",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  300 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-300-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193891/",
+          "productID": "9300000178193891",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gEWY2lkp8Q6Y/gJn27VZ/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9509598656176",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000178193892",
+          "name": "Raved Katoen Tafelzeil Bloesem  140 cm x  320 cm - Oranje - Bloemen - Waterafstotend - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-katoen-tafelzeil-bloesem-140-cm-x-320-cm-oranje-bloemen-waterafstotend-uitwasbaar/9300000178193892/",
+          "productID": "9300000178193892",
+          "description": "<p>Laat je tafel tot leven komen met het Raved Katoen Tafelzeil Bloesem, waar delicate bloesems zich openen op een levendige oranje achtergrond. Dit aantrekkelijke, waterafstotende katoenen tafelzeil beschermt je tafel niet alleen tegen morsen en vlekken, maar brengt ook een frisse, bloemige sfeer naar je eetruimte of buitenzitje. Ideaal voor zowel dagelijks gebruik als speciale gelegenheden, het combineert functionaliteit met een bekoorlijk bloemenontwerp.</p> <h3>Voor binnen & buiten</h3> <p>Geschikt voor diverse gelegenheden, van een casual ontbijt binnen tot een levendig tuinfeest buiten, het Raved Katoen Tafelzeil Bloesem zorgt voor een kleurrijke en uitnodigende tafelsetting. Om de stralende oranje kleur en het fijne bloemenpatroon te behouden, wordt aanbevolen om het tafelzeil te beschermen tegen sterke weersinvloeden. Het is gemakkelijk uitwasbaar, waardoor het steeds weer klaar is voor gebruik.</p> <h3>Oranje met Bloesemmotief</h3> <p>Transformeer je tafel in een bloeiend paradijs met het Raved Katoen Tafelzeil Bloesem. De heldere oranje achtergrond, verfraaid met sierlijke bloesemprints, creëert een vrolijke en aantrekkelijke setting voor elke maaltijd. Dit tafelzeil dient niet alleen als bescherming voor je tafel, maar ook als een visueel aantrekkelijk element dat elke ruimte opfleurt.</p> <h3>Specificaties:</h3> <ul> <li><strong>Materiaal:</strong> Katoen, waterafstotend</li> <li><strong>Kleur:</strong> Oranje met Bloesemmotief</li> <li><strong>Fabrikant:</strong> Wicotex / 2Lif</li> <li><strong>Geschikt voor alle leeftijden:</strong> Perfect voor zowel knusse familiemaaltijden als grotere sociale evenementen. Dit tafelzeil brengt een warme en uitnodigende flair naar je tafeldecoratie, geschikt voor elke gelegenheid.</li> </ul> <p>Met het Raved Katoen Tafelzeil Bloesem kies je voor een levendige, kleurrijke look die elke eetervaring verrijkt met een vleugje natuurlijke elegantie en vreugde.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gEWY2lkYlQ79/R6P18vV/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "Katoen",
+            "Polyester"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9509737568537",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 2
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "25.95",
+        "highPrice": "49.99",
+        "offerCount": "11"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/xxWq1J2PgG33/0R0LAyV/550x270.jpg",
+    "https://media.s-bol.com/NBoD0zYZPRoz/0R0LAyV/550x467.jpg",
+    "https://media.s-bol.com/jKWQ8onY5OLR/0R0LAyV/550x550.jpg",
+    "https://media.s-bol.com/olWRywOZ8vjN/0R0LAyV/550x399.jpg",
+    "https://media.s-bol.com/YmDp5O5kDOZn/0R0LAyV/550x488.jpg",
+    "https://media.s-bol.com/gEWY2lkJvEl3/0R0LAyV/550x500.jpg",
+    "https://media.s-bol.com/gEWY2lnl7ZlG/0R0LAyV/550x550.jpg"
+  ]
+}

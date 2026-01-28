@@ -1,0 +1,366 @@
+{
+  "ean": "9508625299263",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000189772735",
+      "name": "Raved Tafelzeil - 160 Rond - PVC - Afwasbaar - Extra sterk - Beschermrand",
+      "description": "<p>Breng stijl en bescherming samen in één product: dit <strong>afwasbare PVC tafelzeil</strong> met print van paardenbloemen in <strong>grijs/beige</strong> geeft uw eetruimte een rustige, sfeervolle uitstraling terwijl <strong>vlekken en beschadigingen</strong> buiten blijven. Dankzij de <strong>extra sterke beschermrand</strong> blijft uw tafel er netjes uitzien – een slimme keuze voor dagelijks genieten.</p> <h3>Ontdek het verschil met dit <strong>tafelzeil</strong></h3> <p>Wilt u uw tafel beschermen én stijlvol inrichten? Met dit <strong>Raved tafelzeil – rond Ø 160 cm</strong> in de zachte kleurstelling <strong>grijs/beige</strong> met een subtiele <strong>paardenbloem-print</strong>, kiest u voor een combinatie van design en functionaliteit. Het materiaal is <strong>PVC</strong>, waardoor het eenvoudig af te nemen is — ideaal voor gezinnen, huisdieren of gezellige diners met vrienden.</p> <h3>Bescherming zonder concessies</h3> <p>Met een <strong>extra sterke beschermrand</strong> rondom krijgt uw tafel een echt schild tegen krassen, druppels en gemorste etensresten. U hoeft zich geen zorgen meer te maken over niet uitwasbare vlekken of blijvende tafelsporen. Het handige materiaal zorgt dat u snel weer aan tafel kunt — geen langdurig gedoe meer, gewoon genieten.</p> <h3>Perfecte maat en veelzijdig gebruik</h3> <p>De ronde vorm met Ø 160 cm is geschikt voor diverse eettafels. Of u nu binnen of buiten eet – dit tafelzeil past goed in zowel de woonkeuken als op het terras. Het subtiele grijs/beige design met paardenbloem-motief creëert rust en geeft net dat beetje extra sfeer. Combineer met neutrale stoelen en accessoires voor een stijlvolle setting.</p> <h3>Materiaal & onderhoud</h3> <p>– <strong>Materiaal</strong>: PVC — waterafstotend en afwasbaar.<br />– <strong>Print/Design</strong>: Paardenbloemmotief in grijstinten/beige — tijdloos en elegant. <br />– Rond Ø 160 cm — vermeld als maat in de titel voor zichtbaarheid.<br />– Onderhoud: eenvoudig schoon te vegen met een vochtige doek. Vermijd hardnekkige kleurstoffen uit voedingsmiddelen die kunnen intrekken. <br />– Geschikt voor binnen en buiten gebruik. </p> <h3>Sfeervol én praktisch</h3> <p>Stel u voor: een ontspannen familiediner zonder zorgen over morsen, een gezellige koffiebijeenkomst in de tuin waar het tafelzeil wél blijft liggen én wél mooi blijft. Dankzij de print blijft het niet een simpel beschermingsproduct – het is een onderdeel van uw interieur. En doordat het zo makkelijk te onderhouden is, bespaart u tijd — en tijd = leven.</p> <h3>Neem actie</h3> <p>Laat uw tafel weer stralen en ga voor <strong>duurzame bescherming + elegant design</strong> met dit Raved tafelzeil. Klik op ‘Toevoegen aan winkelwagen’ en geniet binnen een oogwenk van een veilige én stijlvolle eettafel. <strong>Uw tafel verdient dit – en u verdient verlichting van zorg!</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/7qRvqy3gPABG/2kDjq1M/1200x965.jpg",
+        "width": 1200,
+        "height": 965
+      },
+      "productGroupID": "9300000189772735",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9200000095619902",
+          "name": "Raved Tafelzeil - 160 cm Rond - Tropisch Blauw - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/palace-fashion-tafelzeil-160-cm-rond-creme-love/9200000095619902/",
+          "productID": "9200000095619902",
+          "description": "Wil jij uw tafel beschermen tegen vlekjes en kleine beschadigingen, maar toch een rustige / sfeervolle look geven aan de ruimte van uw tafel? Dan is een Tafelkleed/Tafelzeil perfect voor uw! <br /> Er is keus uit verschillende kleuren, printjes maatjes. De tafelkleden zijn gemaakt van PVC. Om ervoor te zorgen dat het Tafelkleed/Tafelzeil mooi blijft raden wij aan om op te passen met kleurstoffen. <p></p> <p>In sommige voedingsmiddelen zitten kleurstoffen die in het Tafelkleed/Tafelzeil kunnen trekken. En dat zou natuurlijk jammer zijn. Voorbeelden hiervan zijn tomaten, rode bieten, rode kool en kerrie. Mocht er zoiets worden gemorst op het Tafelkleed/Tafelzeil haal het er dan zo snel mogelijk af met een doekje.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/kW3PNmBxN1zr/0RD4jjK/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "gtin13": "5603272162558",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000189772723",
+          "name": "Raved Tafelzeil - 160 cm Rond - Tropical - Groen - Wit - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-tropical-groen-wit-pvc-afwasbaar-extra-sterk-beschermrand/9300000189772723/",
+          "productID": "9300000189772723",
+          "description": "Wil jij uw tafel beschermen tegen vlekjes en kleine beschadigingen, maar toch een rustige / sfeervolle look geven aan de ruimte van uw tafel? Dan is een Tafelkleed/Tafelzeil perfect voor uw! <br /> Er is keus uit verschillende kleuren, printjes maatjes. De tafelkleden zijn gemaakt van PVC. Om ervoor te zorgen dat het Tafelkleed/Tafelzeil mooi blijft raden wij aan om op te passen met kleurstoffen. <p></p> <p>In sommige voedingsmiddelen zitten kleurstoffen die in het Tafelkleed/Tafelzeil kunnen trekken. En dat zou natuurlijk jammer zijn. Voorbeelden hiervan zijn tomaten, rode bieten, rode kool en kerrie. Mocht er zoiets worden gemorst op het Tafelkleed/Tafelzeil haal het er dan zo snel mogelijk af met een doekje.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xWgQrRJ8m18r/o2XMJlA/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Wit",
+          "gtin13": "9508945534419",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000189772726",
+          "name": "Raved Tafelzeil - 160 cm Rond - Jungle Blauw - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-jungle-blauw-pvc-afwasbaar-extra-sterk-beschermrand/9300000189772726/",
+          "productID": "9300000189772726",
+          "description": "Wil jij uw tafel beschermen tegen vlekjes en kleine beschadigingen, maar toch een rustige / sfeervolle look geven aan de ruimte van uw tafel? Dan is een Tafelkleed/Tafelzeil perfect voor uw! <br /> Er is keus uit verschillende kleuren, printjes maatjes. De tafelkleden zijn gemaakt van PVC. Om ervoor te zorgen dat het Tafelkleed/Tafelzeil mooi blijft raden wij aan om op te passen met kleurstoffen. <p></p> <p>In sommige voedingsmiddelen zitten kleurstoffen die in het Tafelkleed/Tafelzeil kunnen trekken. En dat zou natuurlijk jammer zijn. Voorbeelden hiervan zijn tomaten, rode bieten, rode kool en kerrie. Mocht er zoiets worden gemorst op het Tafelkleed/Tafelzeil haal het er dan zo snel mogelijk af met een doekje.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gW0BxJ2BpBqr/mZNKXjE/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Blauw",
+          "gtin13": "9501761411933",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000189772729",
+          "name": "Raved Tafelzeil - 160 cm Rond - Hout Design - Bruin - Donker eiken - PVC - Afwasbaar - Beschermrand - Extra sterk",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-hout-design-bruin-donker-eiken-pvc-afwasbaar-beschermrand-extra-sterk/9300000189772729/",
+          "productID": "9300000189772729",
+          "description": "Wil jij uw tafel beschermen tegen vlekjes en kleine beschadigingen, maar toch een rustige / sfeervolle look geven aan de ruimte van uw tafel? Dan is een Tafelkleed/Tafelzeil perfect voor uw! <br /> Er is keus uit verschillende kleuren, printjes maatjes. De tafelkleden zijn gemaakt van PVC. Om ervoor te zorgen dat het Tafelkleed/Tafelzeil mooi blijft raden wij aan om op te passen met kleurstoffen. <p></p> <p>In sommige voedingsmiddelen zitten kleurstoffen die in het Tafelkleed/Tafelzeil kunnen trekken. En dat zou natuurlijk jammer zijn. Voorbeelden hiervan zijn tomaten, rode bieten, rode kool en kerrie. Mocht er zoiets worden gemorst op het Tafelkleed/Tafelzeil haal het er dan zo snel mogelijk af met een doekje.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BGqKP8GGMQAJ/n56LJkY/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Bruin",
+          "gtin13": "9506232966592",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000192478082",
+          "name": "Raved Tafelzeil - 140 cm Rond - Getekende Takken Groen - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-getekende-takken-groen-pvc-afwasbaar-extra-sterk-beschermrand/9300000192478082/",
+          "productID": "9300000192478082",
+          "description": "<p>Bescherm je tafel stijlvol met dit <strong>extra sterke PVC-tafelzeil</strong> van Raved: het <strong>groen takken-dessin</strong> brengt rust en sfeer, terwijl het <strong>afwasbare materiaal</strong> en de <strong>beschermrand</strong> ervoor zorgen dat je zorgeloos kunt genieten – binnen of buiten.</p> <p>Maak je eettafel of tuintafel compleet met het <strong>rond tafelzeil 160 cm</strong> van Raved: het perfecte samenspel van stijl én bescherming. Dankzij het onderscheidende <strong>getekende takken-motief in groen</strong> geef je je tafel direct een natuurlijke, moderne uitstraling. Het <strong>materiaal</strong> is stevig <strong>PVC</strong>, waardoor het tafelzeil <strong>afwasbaar</strong> is met een vochtige doek – ideaal voor dagelijks gebruik, kinderen of buitenmaaltijden.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & kwaliteit</strong>: Door de <strong>extra sterke uitvoering</strong> en de <strong>beschermrand</strong> voorkom je krassen, vlekken of losliggende randen – je tafel blijft mooi en verzorgd.</p> </li> <li> <p><strong>Onderhoudsgemak</strong>: Het afwasbare PVC-oppervlak maakt schoonmaken eenvoudig – gemorst sap of saus? Even afnemen en klaar.</p> </li> <li> <p><strong>Sfeervolle uitstraling</strong>: Het groene takken-dessin past perfect in zowel een natuurlijke woonstijl als een stijlvolle tuinsetting.</p> </li> <li> <p><strong>Veelzijdig gebruik</strong>: Rond model met een diameter van circa 160 cm maakt het geschikt voor 4-6 persoons tafels, zowel binnen als buiten.</p> </li> <li> <p><strong>Rust en langdurig gebruik</strong>: Omdat het ontwerp zich richt op bescherming én design, combineer je direct praktisch nut met een uitnodigende tafel.</p> </li> </ul> <h3>Specificaties & toepassingen</h3> <ul> <li> <p>Vorm: rond – ~ 160 cm diameter.</p> </li> <li> <p>Kleur/design: groen takken-motief.</p> </li> <li> <p>Materiaal: PVC – duurzaam, afwasbaar, geschikt voor voedselcontact.</p> </li> <li> <p>Randafwerking: beschermrand – voorkomt rafelen of lipjes, langere levensduur.</p> </li> <li> <p>Gebruik: binnen en buiten – perfect voor dagelijks gebruik, terras, balkon of eetkamer.</p> </li> <li> <p>Onderhoud: eenvoudig schoonmaken met een vochtige doek. Vermijd langdurig contact met sterk gekleurde voedingsmiddelen (zoals rode bieten, tomaten of kerrie) omdat kleurstoffen in zeldzame gevallen kunnen trekken. </p> </li> </ul> <h3>Voel het verschil</h3> <p>Stel je voor: je nodigt vrienden uit, buiten op het terras. Je tafel ziet eruit alsof je net hebt gedekt bij een stijlvol café – en je hoeft je geen zorgen te maken over kinderen, frisdrank of een spetterende brunch. Dit tafelzeil combineert uitstraling met zekerheid. En binnen, tijdens de dagelijkse maaltijd – je hoeft niet bang te zijn voor rode wijn of pastasaus: afnemen en door. En als je kiest voor dit doek, verzeker je jezelf van een tafel die er langdurig verzorgd uitziet.</p> <h3>Call to action</h3> <p>Kies vandaag nog voor slimme bescherming én stijl: bestel dit Raved tafelzeil met groen takken-dessin en geef je tafel de upgrade die hij verdient – zonder concessies! Klik op ‘In winkelwagen’ en geniet direct van een sfeervolle tafel en zorgeloze maaltijden.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BGqKYq7pr2v2/31VkrKA/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 140 cm",
+          "color": "Groen",
+          "gtin13": "9507548474948",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000192478083",
+          "name": "Raved Tafelzeil - 160 Ø cm Rond - Tropische Bloemen Roze - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-tropische-bloemen-roze-pvc-afwasbaar-extra-sterk-beschermrand/9300000192478083/",
+          "productID": "9300000192478083",
+          "description": "<p>Geef jouw tafel direct een stijlvolle update én betrouwbare bescherming met dit <strong>extra sterke, afwasbare PVC-tafelzeil</strong> in vrolijk tropisch bloemenmotief. Perfect voor wie gemak zoekt én een vrolijke woonstijl.</p> <p>Geef jouw eet- of tuintafel die verzorgde uitstraling waar je al zo lang naar op zoek bent. Met dit <strong>tafelzeil</strong> van het merk <strong>Raved</strong> kies je voor combinatie van uitstraling én functionaliteit. Dit 160 cm ronde model is uitgevoerd in <strong>duurzaam PVC-materiaal</strong> en voorzien van een vrolijke <strong>tropische bloemenprint in roze tinten</strong>, waardoor je tafel meteen een sfeervolle upgrade krijgt.</p> <h3>Bescherming én stijl in één</h3> <p>Het <strong>PVC-tafelzeil</strong> biedt robuuste bescherming tegen vlekken, krassen en vocht—ideaal voor gezinnen met kinderen, bij het ontbijt, lunchen of gezellige diners. Dankzij de slimme <strong>beschermrand</strong> en de aanduiding <strong>extra sterk</strong> weet je zeker dat dit tafelzeil bestand is tegen intensiever gebruik. Daarnaast maakt het vrolijke bloemenpatroon jouw interieur of tuinset direct gezelliger—een slimme combinatie van praktisch én decoratief.</p> <h3>Praktisch onderhoud en veelzijdig gebruik</h3> <p>Dankzij het materiaal kun je het tafelzeil eenvoudig <strong>afnemen met een vochtige doek</strong> of spons—geen gedoe met wassen of strijken. Hierdoor bespaar je tijd én moeite. Dit maakt het product bijzonder geschikt voor dagelijks gebruik, zowel binnen als buiten (controleer of jouw uitvoering geschikt is voor buitengebruik). Het afwasbare oppervlak zorgt ervoor dat gemorste drank of etensrestjes geen blijvende sporen achterlaten.</p> <h3>Details die het verschil maken</h3> <ul> <li> <p><strong>Merk:</strong> Raved</p> </li> <li> <p><strong>Maat:</strong> 160 cm rond (Ø)</p> </li> <li> <p><strong>Kleur/design:</strong> roze tropische bloemenprint</p> </li> <li> <p><strong>Materiaal:</strong> PVC</p> </li> <li> <p><strong>Extra eigenschap:</strong> extra sterk, beschermrand</p> </li> <li> <p><strong>Onderhoud:</strong> eenvoudig afnemen / afwasbaar</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: een strakke tafelblad zonder vlekken, kinderen die zorgeloos spelen terwijl je geniet van je koffie, een buitenplek die direct uitnodigt — dit tafelzeil maakt het mogelijk. Kies je voor gemak en stijl dan kies je hier precies voor wat je zoekt. Laat slijtage, hardnekkige vlekken of loslatende randen achter je en investeer in een product dat jouw tafel beschermt én verrijkt.</p> <p><strong>Wil je jouw tafel transformeren naar een stijlvolle en beschermde leefplek? Klik dan op ‘Toevoegen aan winkelwagen’ en kies voor betrouwbaarheid én plezier.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/goR715JVZM9Y/483oVOg/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Roze",
+          "gtin13": "9506265415432",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000192478084",
+          "name": "Raved Tafelzeil - 160 cm Rond - Paardenbloem Grijs Beige - PVC - Afwasbaar - Extra sterk - Beschermrand",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-160-cm-rond-paardenbloem-grijs-beige-pvc-afwasbaar-extra-sterk-beschermrand/9300000192478084/",
+          "productID": "9300000192478084",
+          "description": "<p>Breng stijl en bescherming samen in één product: dit <strong>afwasbare PVC tafelzeil</strong> met print van paardenbloemen in <strong>grijs/beige</strong> geeft uw eetruimte een rustige, sfeervolle uitstraling terwijl <strong>vlekken en beschadigingen</strong> buiten blijven. Dankzij de <strong>extra sterke beschermrand</strong> blijft uw tafel er netjes uitzien – een slimme keuze voor dagelijks genieten.</p> <h3>Ontdek het verschil met dit <strong>tafelzeil</strong></h3> <p>Wilt u uw tafel beschermen én stijlvol inrichten? Met dit <strong>Raved tafelzeil – rond Ø 160 cm</strong> in de zachte kleurstelling <strong>grijs/beige</strong> met een subtiele <strong>paardenbloem-print</strong>, kiest u voor een combinatie van design en functionaliteit. Het materiaal is <strong>PVC</strong>, waardoor het eenvoudig af te nemen is — ideaal voor gezinnen, huisdieren of gezellige diners met vrienden.</p> <h3>Bescherming zonder concessies</h3> <p>Met een <strong>extra sterke beschermrand</strong> rondom krijgt uw tafel een echt schild tegen krassen, druppels en gemorste etensresten. U hoeft zich geen zorgen meer te maken over niet uitwasbare vlekken of blijvende tafelsporen. Het handige materiaal zorgt dat u snel weer aan tafel kunt — geen langdurig gedoe meer, gewoon genieten.</p> <h3>Perfecte maat en veelzijdig gebruik</h3> <p>De ronde vorm met Ø 160 cm is geschikt voor diverse eettafels. Of u nu binnen of buiten eet – dit tafelzeil past goed in zowel de woonkeuken als op het terras. Het subtiele grijs/beige design met paardenbloem-motief creëert rust en geeft net dat beetje extra sfeer. Combineer met neutrale stoelen en accessoires voor een stijlvolle setting.</p> <h3>Materiaal & onderhoud</h3> <p>– <strong>Materiaal</strong>: PVC — waterafstotend en afwasbaar.<br />– <strong>Print/Design</strong>: Paardenbloemmotief in grijstinten/beige — tijdloos en elegant. <br />– Rond Ø 160 cm — vermeld als maat in de titel voor zichtbaarheid.<br />– Onderhoud: eenvoudig schoon te vegen met een vochtige doek. Vermijd hardnekkige kleurstoffen uit voedingsmiddelen die kunnen intrekken. <br />– Geschikt voor binnen en buiten gebruik. </p> <h3>Sfeervol én praktisch</h3> <p>Stel u voor: een ontspannen familiediner zonder zorgen over morsen, een gezellige koffiebijeenkomst in de tuin waar het tafelzeil wél blijft liggen én wél mooi blijft. Dankzij de print blijft het niet een simpel beschermingsproduct – het is een onderdeel van uw interieur. En doordat het zo makkelijk te onderhouden is, bespaart u tijd — en tijd = leven.</p> <h3>Neem actie</h3> <p>Laat uw tafel weer stralen en ga voor <strong>duurzame bescherming + elegant design</strong> met dit Raved tafelzeil. Klik op ‘Toevoegen aan winkelwagen’ en geniet binnen een oogwenk van een veilige én stijlvolle eettafel. <strong>Uw tafel verdient dit – en u verdient verlichting van zorg!</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7qRvqy3gPABG/2kDjq1M/1200x965.jpg",
+            "width": 1200,
+            "height": 965
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Grijs",
+          "gtin13": "9508625299263",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "27.95",
+        "highPrice": "27.95",
+        "offerCount": "1"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/7qRvqy3gPABG/2kDjq1M/550x442.jpg"
+  ]
+}

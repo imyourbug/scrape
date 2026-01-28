@@ -1,0 +1,102 @@
+{
+  "ean": "9504894323371",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000173001742",
+      "name": "Raved Rond Tafelzeil - 140 cm ø - Bloemen - Hortensia - PVC - Afwasbaar",
+      "productID": "9300000173001742",
+      "description": "<p>Geef je tafel direct een frisse en sfeervolle uitstraling met dit **duurzame en <strong>afwasbare</strong> tafelzeil van <strong>PVC</strong>, voorzien van een stijlvolle <strong>bloemenprint “Hortensia”</strong>. Ideaal voor een ronde tafel van Ø 140 cm – zowel binnen als buiten – en beschermt je tafel tegen vlekken en krassen.</p> <p><strong>Omschrijving</strong><br />Transformeer je eettafel of tuintafel met het <strong>primair zoekwoord</strong> <strong>tafelszeil rond Ø 140 cm</strong> van het vertrouwde merk <strong>Raved</strong>. Dit tafelzeil combineert een stijlvol design met praktische eigenschappen: het is vervaardigd van <strong>PVC</strong>, waardoor het stevig is, gemakkelijk afneembaar en bestand tegen dagelijks gebruik. De print met <strong>bloemenmotief Hortensia</strong> geeft direct een sfeervolle toets aan je interieur of buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming en duurzaamheid</strong>: Het tafelzeil beschermt je tafel tegen knoeien, krassen en hitteplekken – ideaal bij gezellige maaltijden of buiten met vrienden.</p> </li> <li> <p><strong>Onderhoudsgemak</strong>: Dankzij de PVC-afwerking is het zeil <strong>afwasbaar</strong>; een natte doek volstaat om gemorste drankjes of etensresten schoon te maken.</p> </li> <li> <p><strong>Stijlvol & veelzijdig</strong>: De bloemenprint “Hortensia” brengt kleur en sfeer, terwijl de ronde vorm Ø 140 cm perfect past voor veel standaard ronde tafels. Binnen of buiten – dit zeil gaat mee.</p> </li> <li> <p><strong>Eenvoudige keuze</strong>: Door de duidelijke maat aanduiding (Ø 140 cm) weet je direct of het geschikt is voor jouw tafel. Geen twijfel, direct bestellen.</p> </li> </ul> <h3>Specificaties</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Vorm: Rond</p> </li> <li> <p>Maat: Ø 140 cm</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur/print: Bloemenmotiv “Hortensia” in paars/paars-groen-wit tinten</p> </li> <li> <p>Eigenschap: Afwasbaar, geschikt voor binnen & buiten</p> </li> <li> <p>Toepassing: Huiskamer, keuken, terras, tuinset</p> </li> </ul> <h3>Ideaal gebruik & onderhoud</h3> <p>Plaats het tafelzeil op je ronde tafel en laat het een aantal centimeters overhangen voor een verzorgde look. Bij gebruik buiten: sluit het af of rol op wanneer het weer omslaat – zo verleng je de levensduur. Voor het reinigen volstaat een doek met lauw water; vermijd schuurmiddelen om het printmotief te behouden.</p> <h3>Verliesaversie & sociale bewijskracht</h3> <p>Mis niet de kans om jouw tafel direct een upgrade te geven – terwijl anderen nog worstelen met vlekken en beschadigingen, zorg jij voor een beschermde én stijlvolle tafelsetting. Klanten geven aan dat de kwaliteit en print goed zijn: “Mooi tafelkleed, makkelijk schoon te maken.”</p> <h3>Call-to-action</h3> <p>Kies vandaag nog voor gemak, bescherming en uitstraling – bestel het ronde tafelzeil Ø 140 cm van Raved met bloemenprint Hortensia en maak van iedere maaltijd aan tafel een zorgeloos én stijlvol moment!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/YNDEgM0ryNpK/XmJjvV/1200x419.jpg",
+        "width": 1200,
+        "height": 419
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 140 cm",
+      "gtin13": "9504894323371",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 1.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 2
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/YNDEgM0ryNpK/XmJjvV/550x192.jpg",
+    "https://media.s-bol.com/Nyok48ppkXmv/XmJjvV/550x550.jpg",
+    "https://media.s-bol.com/OzpY4ZqqYLnr/XmJjvV/550x442.jpg",
+    "https://media.s-bol.com/RDv69Lww65Jq/XmJjvV/550x550.jpg"
+  ]
+}

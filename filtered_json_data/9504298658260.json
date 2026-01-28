@@ -1,0 +1,51 @@
+{
+  "ean": "9504298658260",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000176743560",
+      "name": "Raved Rond Tafelzeil – 140 cm ø – Lente Bloemen - Groen – PVC – Afwasbaar",
+      "productID": "9300000176743560",
+      "description": "<p>Bescherm je tafel met stijl dankzij het <strong>afwasbare PVC-tafelzeil</strong> met frisse <strong>lente bloemenprint</strong> in groen-wit: ideaal voor gezellig binnen én buiten en eenvoudig schoon te vegen. <strong>Praktisch en sfeervol tegelijk</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> “tafelzeil rond Ø 140 cm” haal je een slimme combinatie in huis van functionaliteit en uitstraling. Het merk <strong>Raved</strong> presenteert dit ronde tafelzeil met een <strong>lente bloemenprint in fris groen-wit</strong>, vervaardigd van kwalitatief <strong>PVC</strong> en speciaal ontworpen voor gebruik <strong>binnen & buiten</strong>. Dankzij de <strong>afwasbare afwerking</strong> veeg je eenvoudig gemorste drankjes of knutselvlekken weg — ideaal voor gezinnen, vriendinnenavonden of zonnige momenten op het terras.</p> <h3>Bescherming én sfeer</h3> <p>Je eettafel of tuintafel verdient een doek die meedoet. Dit tafelzeil biedt bescherming tegen vloeistoffen, krassen en kinderhandjes terwijl het tegelijkertijd de ruimte opfleurt met een zachte bloemenprint. Het ronde ontwerp — Ø 140 cm — sluit mooi aan op standaard ronde tafels, zonder dat de rand loskomt of verschuift.</p> <h3>Materialen & onderhoud</h3> <p>Het gebruikte <strong>PVC-materiaal</strong> is waterdicht, vlekbestendig en eenvoudig schoon te maken: een vochtige doek is voldoende. In tegenstelling tot traditionele tafelkleden hoef je dit niet te wassen of persen. En hoewel het geschikt is voor buitengebruik, blijft het het mooist wanneer je het bij langdurige regen of directe zon even binnenhaalt — zo blijft het patroon langer sprankelend en het materiaal in topconditie. </p> <h3>Toepassing & context</h3> <p>Of je nu een zomerse lunch op het terras hebt, een knutselmiddag met kinderen of een gezelig diner binnen — met dit tafelzeil creëer je direct een uitnodigende setting. Het groen-witte bloemenpatroon past zowel in landelijke als moderne interieurs en werkt als decoratieve blikvanger. Stel je voor dat je gasten zeggen: “Wat een vrolijk tafelkleed!” — terwijl jij weet dat het enkel een doekje vraagt om het weer schoon te maken.</p> <h3>USP’s in één oogopslag</h3> <ul> <li> <p><strong>Afwasbaar pvc-materiaal</strong> — moeiteloos onderhoud.</p> </li> <li> <p><strong>Lente bloemenprint</strong> in fris groen-wit — sfeervolle uitstraling.</p> </li> <li> <p><strong>Rond Ø 140 cm</strong> — perfect passend op ronde tafels.</p> </li> <li> <p>Geschikt voor <strong>binnen én buiten</strong> gebruik — veelzijdig inzetbaar.</p> </li> <li> <p>Beschermt je tafel tegen vlekken en krassen — zorgeloos genieten.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Je tafel is het middelpunt van huiselijkheid, een plek van samen zijn. Omdat vlekken, vocht of krassen je sfeer snel kunnen bederven, is een functioneel én mooi tafelkleed een slimme keuze. Met dit Raved tafelzeil hoef je niet te kiezen tussen elegantie en praktisch gemak: je krijgt beide. En omdat onderhoud zo eenvoudig is, heb je méér tijd voor wat echt telt — genieten.</p> <h3>Call to action</h3> <p>Laat deze combinatie van stijl én gemak jouw tafel transformeren — kies vandaag nog voor dit <strong>Raved tafelzeil rond Ø 140 cm</strong> en geef je interieur of tuin direct een frisse, zorgeloze look!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/5P8Mpr8onQQX/qjWEKBk/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "gtin13": "9504298658260",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/5P8Mpr8onQQX/qjWEKBk/550x550.jpg"
+  ]
+}

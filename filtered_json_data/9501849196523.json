@@ -1,0 +1,992 @@
+{
+  "ean": "9501849196523",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000038814420",
+      "name": "Raved Tafelzeil Zwarte Stippen Print Wit 140 140 - PVC - Afwasbaar",
+      "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/o12JZLGm5g5Y/P1qlQE1/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000038814420",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814215",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-250-cm-wit-pvc-afwasbaar/9300000038814215/",
+          "productID": "9300000038814215",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/rXQrNyOkB8p6/81l38Br/1200x716.jpg",
+            "width": 1200,
+            "height": 716
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9501615332285",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814222",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-180-cm-wit-pvc-afwasbaar/9300000038814222/",
+          "productID": "9300000038814222",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/l1Y6RGJJ0BWJ/k5WK7N6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9501478495929",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814233",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-220-cm-wit-pvc-afwasbaar/9300000038814233/",
+          "productID": "9300000038814233",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBErx9LOQMn/98vBgPD/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9504797894794",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814254",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-140-cm-wit-pvc-afwasbaar/9300000038814254/",
+          "productID": "9300000038814254",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/v12JQVOn0klg/0gjpLPL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9502154427388",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814271",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-160-cm-wit-pvc-afwasbaar/9300000038814271/",
+          "productID": "9300000038814271",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n15JRKDKYkO4/76qzX21/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9505978646683",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814274",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-280-cm-wit-pvc-afwasbaar/9300000038814274/",
+          "productID": "9300000038814274",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPkwYVOQPN6/8qrAE03/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9501755381778",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814283",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-200-cm-wit-pvc-afwasbaar/9300000038814283/",
+          "productID": "9300000038814283",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1k72OPPpPDK/g5WK2Nk/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9505362298993",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814296",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-240-cm-wit-pvc-afwasbaar/9300000038814296/",
+          "productID": "9300000038814296",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen.</p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof)</p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print</p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden)</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9502764838123",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814357",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-300-cm-wit-pvc-afwasbaar/9300000038814357/",
+          "productID": "9300000038814357",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgkj6XRNOkMl/j2WM8Nv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9506128357176",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595445",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-270-cm-wit-pvc-afwasbaar/9300000072595445/",
+          "productID": "9300000072595445",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BlJ2GD9Nw/Q1rm7G0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9509326356118",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595448",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-290-cm-wit-pvc-afwasbaar/9300000072595448/",
+          "productID": "9300000072595448",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x8QNJNVnZ3/VmzrQjv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9508576574198",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595453",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-100-cm-wit-pvc-afwasbaar/9300000072595453/",
+          "productID": "9300000072595453",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/v12JQVOVYkgM/WnAvq0Q/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9502954322555",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595456",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-320-cm-wit-pvc-afwasbaar/9300000072595456/",
+          "productID": "9300000072595456",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/p1YVZMNGvo52/2RlrWN1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507873513442",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595457",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-260-cm-wit-pvc-afwasbaar/9300000072595457/",
+          "productID": "9300000072595457",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o12JZLGm5g5Y/P1qlQE1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9501849196523",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595459",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-310-cm-wit-pvc-afwasbaar/9300000072595459/",
+          "productID": "9300000072595459",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDrE84Ml5lYJ/1jkq4NV/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9506372961662",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595463",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-230-cm-wit-pvc-afwasbaar/9300000072595463/",
+          "productID": "9300000072595463",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/lDD2YlNzO0Gl/mQB5X7R/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9507786122465",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072595464",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-350-cm-wit-pvc-afwasbaar/9300000072595464/",
+          "productID": "9300000072595464",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEr4zYP9WW/X6Bw5l5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9506176281577",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124775778",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Zwarte Stippen – Wit – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-zwarte-stippen-140-cm-x-50-cm-wit-pvc-afwasbaar/9300000124775778/",
+          "productID": "9300000124775778",
+          "description": "<p>Geef je tafel direct een stijlvolle upgrade met <strong>een trendy stippenprint</strong> en de <strong>praktische bescherming van PVC</strong>. Dit tafelzeil is <strong>afwasbaar</strong>, geschikt voor zowel binnen als buiten, en laat knoeien geen kans meer.</p> <p><strong>Bescherm je tafel met stijl</strong><br />Maak kennis met het <strong>tafelzeil</strong> van het merk <strong>Raved</strong>, uitgevoerd in een fris motorwit met moderne zwarte stippenprint. Dankzij het <strong>materiaal</strong> PVC is dit tafelzeil uitzonderlijk makkelijk in het onderhoud — een snel afvegen met een vochtige doek is vaak voldoende. En omdat het ontwerp zowel trendy als tijdloos is, past het perfect in zowel een strak interieur als een gezellige buitenruimte.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming & onderhoudsgemak</strong>: vocht, vlekken en zelfs brandplekken door hete pannen maken voortaan geen kans. Het PVC-oppervlak zorgt voor bescherming én eenvoud.</p> </li> <li> <p><strong>Stijlvol design</strong>: de combinatie van wit en zwarte stippen geeft je tafel direct een moderne, speelse uitstraling — ideaal als blikvanger of als subtiele accent.</p> </li> <li> <p><strong>Binnen én buiten inzetbaar</strong>: of je nu dineert in de stijlvol ingerichte eetkamer of in de tuin bij een zomerse avond, dit tafelzeil is geschikt. Wel: bij veel regen is binnen halen aan te raden om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Verschillende afmetingen beschikbaar</strong>: breedte van 140 cm met diverse lengtes beschikbaar — handig voor langwerpige tuintafels of ronde formaten.</p> </li> </ul> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved </p> </li> <li> <p>Materiaal: <strong>PVC</strong> (kunststof) </p> </li> <li> <p>Kleur/design: wit met <strong>zwarte stippen</strong> print </p> </li> <li> <p>Geschikt voor gebruik: binnen & buiten (bij voorkeur droog houden) </p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek</p> </li> </ul> <h3>Voor wie is dit tafelzeil ideaal?</h3> <p>Heb je jonge kinderen of worden er regelmatig gasten ontvangen? Dan is dit tafelzeil een slimme keuze. Want waar vroeger vlekken of kringen op je tafel je het plezier van dineren konden vergallen, staat hier nu comfort en zekerheid centraal. En ben je dol op buiten eten? Dan zorgt het voor een praktische beschermlaag én een stijlvol uiterlijk — zonder dat je aan sfeer hoeft in te boeten.</p> <h3>Tips voor optimaal gebruik</h3> <ul> <li> <p>Laat het tafelzeil bij regen of extreme zon liever even naar binnen halen om het printdessin te behouden.</p> </li> <li> <p>Voor een mooie valrand aan de zijkanten: zorg dat de lengte iets groter is dan je tafeloppervlak.</p> </li> <li> <p>Combineer met eenvoudige accessoires in zwart-wit of natuurlijke houttinten om de stippen écht tot hun recht te laten komen.</p> </li> </ul> <p><strong>Conclusie & call-to-action</strong><br />Gun je tafel de stijlvolle bescherming die hij verdient met dit premium tafelzeil van Raved. Kies vandaag nog jouw lengte, leg het op de tafel en ontdek direct het verschil in gemak, uitstraling én gemoedsrust. Voeg het toe aan je winkelwagen en verander je eetplek instant — zonder stress of gedoe.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZXqJBJ2jyp/wj65rv1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9506824995351",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/o12JZLGm5g5Y/P1qlQE1/550x550.jpg",
+    "https://media.s-bol.com/v12JQVPw3rMX/P1qlQE1/550x550.jpg",
+    "https://media.s-bol.com/n8M0VnM0kAXY/mOPOl1r/550x492.jpg",
+    "https://media.s-bol.com/RN6Bl9ZONDQO/P1qlQE1/550x484.jpg",
+    "https://media.s-bol.com/QvVll5DBDgEY/Qn2pB5l/550x550.jpg",
+    "https://media.s-bol.com/RwWmm5EDEjGR/Qn2pB5l/550x550.jpg",
+    "https://media.s-bol.com/n15JRKEl3935/P1qlQE1/550x178.jpg",
+    "https://media.s-bol.com/r1k72OPVO4mK/P1qlQE1/550x550.jpg",
+    "https://media.s-bol.com/w1pg0WXPD7qm/P1qlQE1/550x550.jpg"
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "ean": "9501913979175",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000193285874",
+      "name": "Raved Tafelzeil Linnenlook Grijs 140 140 - PVC - Afwasbaar",
+      "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/BqBOGmDD0mZx/qjWoBnG/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000193285874",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285704",
+          "name": "Raved Tafelzeil Linnen Grijs 140 cm x 290 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-pvc-afwasbaar/9300000193285704/",
+          "productID": "9300000193285704",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent. dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in. voor een volgend gebruik!</p> <h3>Panterprint design</h3> <p>Dit tafelkleed/tafelzeil, met een panterprint en neutrale kleuren, past perfect bij ieder interieur. Het ontwerp bestaat uit bruine panterprint op een zwart ondergrond. Het geeft de tafel een rustige en moderne uitstraling en sfeer aan uw interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 280 x 140 cm <br /> Kleur: Bruin / bruin<br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien. je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Musthaves, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kunt u altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xWpj7lXQX493/jRJKyDP/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Grijs",
+          "gtin13": "9501122983826",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285715",
+          "name": "Raved Tafelzeil 140x260 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285715/",
+          "productID": "9300000193285715",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5Z8WjJ3gEkn/mwWkxjr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Grijs",
+          "gtin13": "9503189876295",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285718",
+          "name": "Raved Tafelzeil 140x280 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285718/",
+          "productID": "9300000193285718",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDrzly3wNkXG/zmgAOwm/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Grijs",
+          "gtin13": "9503596619720",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285723",
+          "name": "Raved Tafelzeil 140x320 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285723/",
+          "productID": "9300000193285723",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkXoBljq4Dv/oYWmzl3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Grijs",
+          "gtin13": "9502841581867",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285729",
+          "name": "Raved Tafelzeil 140x220 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-220-cm-katoen-uitwasbaar/9300000193285729/",
+          "productID": "9300000193285729",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8WER9XBKk/pgWnAmN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Grijs",
+          "gtin13": "9504113415696",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285748",
+          "name": "Raved Tafelzeil 140x50 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285748/",
+          "productID": "9300000193285748",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qWg8AJPPNprp/9rXNn4B/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Grijs",
+          "gtin13": "9508815313571",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285757",
+          "name": "Raved Tafelzeil 140x300 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnenlook-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285757/",
+          "productID": "9300000193285757",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKYLpD3mN1yB/nZWlykE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Grijs",
+          "gtin13": "9504952364841",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285783",
+          "name": "Raved Tafelzeil 140x200 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285783/",
+          "productID": "9300000193285783",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8ErDm2PVKMK/y8WzNvP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Grijs",
+          "gtin13": "9506639752392",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285784",
+          "name": "Raved Tafelzeil 140x140 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285784/",
+          "productID": "9300000193285784",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBOGmDD0mZx/qjWoBnG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Grijs",
+          "gtin13": "9501913979175",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "21.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285795",
+          "name": "Raved Tafelzeil 140x180 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285795/",
+          "productID": "9300000193285795",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6zkx3vMjDK/BgGvZYN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Grijs",
+          "gtin13": "9505222839861",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285798",
+          "name": "Raved Tafelzeil 140x160 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285798/",
+          "productID": "9300000193285798",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8WEzZE6E6/r0WpDoK/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Grijs",
+          "gtin13": "9505947638565",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285800",
+          "name": "Raved Tafelzeil 140x240 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-240-cm-katoen-uitwasbaar/9300000193285800/",
+          "productID": "9300000193285800",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Grijs",
+          "gtin13": "9504969273310",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285804",
+          "name": "Raved Tafelzeil 140x230 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285804/",
+          "productID": "9300000193285804",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgk8WxDom26n/DRKxjVq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Grijs",
+          "gtin13": "9506693674746",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285806",
+          "name": "Raved Tafelzeil 140x350 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285806/",
+          "productID": "9300000193285806",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6zk9Dyzv5J/xGWyMrq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Grijs",
+          "gtin13": "9504487828269",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285814",
+          "name": "Raved Tafelzeil 140x270 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-290-cm-katoen-uitwasbaar/9300000193285814/",
+          "productID": "9300000193285814",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5Z8Wjv0PY03/wj6xLwM/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Grijs",
+          "gtin13": "9505777445586",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285815",
+          "name": "Raved Tafelzeil 140x100 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-100-cm-katoen-uitwasbaar/9300000193285815/",
+          "productID": "9300000193285815",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3Yq05ZmzGG/JZk1p9P/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Grijs",
+          "gtin13": "9507725383452",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285818",
+          "name": "Raved Tafelzeil 140x310 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-310-cm-katoen-uitwasbaar/9300000193285818/",
+          "productID": "9300000193285818",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkXoBqXzM6K/ElLykV0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Grijs",
+          "gtin13": "9506428571562",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000193285824",
+          "name": "Raved Tafelzeil 140x250 cm - Grijs Linnenlook - Katoen - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-linnen-grijs-140-cm-x-250-cm-katoen-uitwasbaar/9300000193285824/",
+          "productID": "9300000193285824",
+          "description": "<p>Geef je eettafel een <strong>stijlvolle linnenlook</strong> met dit <strong>grijze Raved tafelzeil</strong> van <strong>140x290 cm</strong>. Het is gemaakt van een <strong>katoenmix met afwasbare coating</strong>, waardoor het niet alleen duurzaam en praktisch is, maar ook gemakkelijk schoon te maken. Perfect voor dagelijks gebruik én speciale gelegenheden.</p> <p>Zoek je een manier om je eettafel zowel te beschermen als sfeervol aan te kleden? Dan is het <strong>Raved tafelzeil linnen grijs 140x290 cm</strong> precies wat je nodig hebt. Dit tafelzeil combineert de <strong>natuurlijke uitstraling van linnen</strong> met het praktische gemak van een <strong>afwasbare katoencoating</strong>. Zo haal je het beste van twee werelden in huis: elegantie én gebruiksgemak.</p> <h3>Natuurlijk & stijlvol</h3> <p>De <strong>linnenlook in grijs</strong> past moeiteloos in vrijwel elk interieur: van modern en strak tot landelijk en warm. De subtiele textuur geeft je tafel een luxe uitstraling zonder te overheersen. Of het nu gaat om een doordeweekse maaltijd of een feestelijk diner, dit tafelzeil zorgt altijd voor de juiste sfeer.</p> <h3>Praktisch in gebruik</h3> <p>Naast de uitstraling draait het bij een tafelzeil natuurlijk ook om gemak. Dit Raved zeil is <strong>afwasbaar én uitwasbaar</strong>, waardoor vlekken en kruimels geen enkel probleem zijn. Even afnemen met een doekje en je tafel is weer als nieuw. Bovendien is de stof stevig en duurzaam, zodat je er jarenlang plezier van hebt.</p> <h3>Ideaal voor dagelijks gebruik en feestjes</h3> <p>Met een royale maat van <strong>140x290 cm</strong> is dit tafelzeil geschikt voor grotere tafels. Perfect voor gezinnen die dagelijks aan tafel eten, maar ook ideaal bij etentjes en feestjes waarbij je tafel intensief gebruikt wordt. Dankzij de <strong>duurzame katoenmix</strong> blijft het zeil mooi, ook na veelvuldig wassen en gebruik.</p> <h3>Belangrijkste voordelen</h3> <ul> <li> <p><strong>Stijlvolle linnenlook in grijs</strong>: tijdloos en elegant</p> </li> <li> <p><strong>140x290 cm</strong>: geschikt voor grotere eettafels</p> </li> <li> <p><strong>Katoenmix met coating</strong>: duurzaam, stevig en praktisch</p> </li> <li> <p><strong>Afwasbaar & uitwasbaar</strong>: eenvoudig schoon te maken</p> </li> <li> <p><strong>Voor dagelijks gebruik én gelegenheden</strong></p> </li> </ul> <p>Maak je eettafel compleet met dit <strong>grijze Raved tafelzeil in linnenlook</strong> en geniet elke dag van de perfecte combinatie tussen stijl en gemak. Bestel nu en ervaar zelf het verschil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3Yq0lLp0EA/vg6w0vX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Grijs",
+          "gtin13": "9507786993119",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "21.95",
+        "highPrice": "32.95",
+        "offerCount": "2"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/BqBOGmDD0mZx/qjWoBnG/550x550.jpg",
+    "https://media.s-bol.com/RN6kvJ3pQZ4V/qjWoBnG/550x550.jpg",
+    "https://media.s-bol.com/j1R5WKDZKLK5/qjWoBnG/550x495.jpg",
+    "https://media.s-bol.com/m5Z8WjBOM37E/qjWoBnG/550x550.jpg",
+    "https://media.s-bol.com/8V2WrNGNXVm3/qjWoBnG/550x550.jpg",
+    "https://media.s-bol.com/RN6kvJEE5xEY/qjWoBnG/550x178.jpg"
+  ]
+}

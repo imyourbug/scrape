@@ -1,0 +1,298 @@
+{
+  "ean": "8720387517732",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000111015932",
+      "name": "Raved Zwart Tafelkleed/Tafellaken Elof - 100% katoen - Uitwasbaar",
+      "description": "<p>Met het <strong>uitwasbare katoenen tafelkleed</strong> van Raved in stijlvol zwart geef je direct een chique uitstraling aan je tafel, terwijl je tafel beschermd wordt tegen knoeien en kringen. Ideaal voor binnen én buiten – sfeer zonder zorgen.</p> <p><strong>Tafelkleed</strong> dat stijl en functionaliteit combineert: het zwarte <strong>Raved tafelkleed Katoen 140 × 300 cm</strong> is de slimme keuze voor iedereen die van mooi én praktisch houdt. Of je nu gaat voor een sfeervol diner met vrienden, een gezellige lunch op het terras of een feestelijke kersttafel – dit tafelkleed brengt de juiste ambiance én houdt je tafel netjes.</p> <h3>Sfeervol & veelzijdig</h3> <p>Met de royale afmeting 140 × 300 cm is dit tafelkleed geschikt voor grote gezelschappen en lange tafels, en past tegelijkertijd perfect in een standaard eetkamer. De effen zwarte kleur geeft een tijdloze, chique uitstraling – combineer met lichte servetten of juist een knallende accentkleur voor contrast. Dankzij het materiaal <strong>katoen</strong> voelt het textiel zacht en natuurlijk aan, wat warmte toevoegt in je interieur.</p> <h3>Bescherming voor jouw tafel</h3> <p>Knijp jij je ogen soms dicht bij het serveren van een warme pan? Dankzij het stevige katoenen materiaal biedt dit tafelkleed bescherming tegen kringen, hitteplekken en knoeien. Door te kiezen voor deze <strong>praktische oplossing</strong> voorkom je vervelende schade en verleng je de levensduur van je tafel. Zo kun je met een gerust hart genieten van familie- of vriendenavond.</p> <h3>Onderhoudsgemak</h3> <p>Een van de grootste voordelen is het <strong>uitwasbare karakter</strong> – simpel in de wasmachine op 30 °C (zie voorschriften) en je tafelkleed ziet er weer fris uit. Geen vlekkenstress meer na een middag knutselen met de kinderen of een barbecue op het terras. Binnen of buiten gebruikt? Geen probleem. Dankzij de degelijkheid van het materiaal is dit tafelkleed een all-round keuze.</p> <h3>Wanneer gebruik je het?</h3> <ul> <li> <p>Voor een stijlvolle eettafel binnen, bij dagelijks gebruik of speciale gelegenheden.</p> </li> <li> <p>Op het terras of balkon wanneer je buiten dineert: sfeervol én functioneel.</p> </li> <li> <p>Tijdens feestelijke momenten – kerst, verjaardag, jubileum – waarbij sfeer en bescherming samenkomen.</p> </li> </ul> <h3>Waarom deze keuze?</h3> <p>Door te kiezen voor dit tafelkleed kies je bewust voor een product dat meerdere behoeften vervult: stijl, bescherming, onderhoudsgemak én flexibiliteit. Je tafel wordt je podium: de ruimte krijgt direct sfeer, en je hoeft je minder zorgen te maken over knoeien of slijtage.</p> <h3>Call to action</h3> <p>Kies vandaag nog voor het Raved tafelkleed Katoen 140 × 300 cm in zwart en geef jouw tafel direct die complete upgrade – stijlvol, solide en zorgeloos. Bestel nu en begin direct met genieten van je maaltijd, in alle rust en comfort.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/RNgrmYOwvMPR/j2WjqpW/1200x1080.jpg",
+        "width": 1200,
+        "height": 1080
+      },
+      "productGroupID": "9300000111015932",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "Katoen"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000111015928",
+          "name": "Raved Tafelkleed Elof 140 cm x 300 cm - Zwart - Katoen - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelkleed-katoen-elof-140-cm-x-300-cm-zwart-uitwasbaar/9300000111015928/",
+          "productID": "9300000111015928",
+          "description": "<p>Met het <strong>uitwasbare katoenen tafelkleed</strong> van Raved in stijlvol zwart geef je direct een chique uitstraling aan je tafel, terwijl je tafel beschermd wordt tegen knoeien en kringen. Ideaal voor binnen én buiten – sfeer zonder zorgen.</p> <p><strong>Tafelkleed</strong> dat stijl en functionaliteit combineert: het zwarte <strong>Raved tafelkleed Katoen 140 × 300 cm</strong> is de slimme keuze voor iedereen die van mooi én praktisch houdt. Of je nu gaat voor een sfeervol diner met vrienden, een gezellige lunch op het terras of een feestelijke kersttafel – dit tafelkleed brengt de juiste ambiance én houdt je tafel netjes.</p> <h3>Sfeervol & veelzijdig</h3> <p>Met de royale afmeting 140 × 300 cm is dit tafelkleed geschikt voor grote gezelschappen en lange tafels, en past tegelijkertijd perfect in een standaard eetkamer. De effen zwarte kleur geeft een tijdloze, chique uitstraling – combineer met lichte servetten of juist een knallende accentkleur voor contrast. Dankzij het materiaal <strong>katoen</strong> voelt het textiel zacht en natuurlijk aan, wat warmte toevoegt in je interieur.</p> <h3>Bescherming voor jouw tafel</h3> <p>Knijp jij je ogen soms dicht bij het serveren van een warme pan? Dankzij het stevige katoenen materiaal biedt dit tafelkleed bescherming tegen kringen, hitteplekken en knoeien. Door te kiezen voor deze <strong>praktische oplossing</strong> voorkom je vervelende schade en verleng je de levensduur van je tafel. Zo kun je met een gerust hart genieten van familie- of vriendenavond.</p> <h3>Onderhoudsgemak</h3> <p>Een van de grootste voordelen is het <strong>uitwasbare karakter</strong> – simpel in de wasmachine op 30 °C (zie voorschriften) en je tafelkleed ziet er weer fris uit. Geen vlekkenstress meer na een middag knutselen met de kinderen of een barbecue op het terras. Binnen of buiten gebruikt? Geen probleem. Dankzij de degelijkheid van het materiaal is dit tafelkleed een all-round keuze.</p> <h3>Wanneer gebruik je het?</h3> <ul> <li> <p>Voor een stijlvolle eettafel binnen, bij dagelijks gebruik of speciale gelegenheden.</p> </li> <li> <p>Op het terras of balkon wanneer je buiten dineert: sfeervol én functioneel.</p> </li> <li> <p>Tijdens feestelijke momenten – kerst, verjaardag, jubileum – waarbij sfeer en bescherming samenkomen.</p> </li> </ul> <h3>Waarom deze keuze?</h3> <p>Door te kiezen voor dit tafelkleed kies je bewust voor een product dat meerdere behoeften vervult: stijl, bescherming, onderhoudsgemak én flexibiliteit. Je tafel wordt je podium: de ruimte krijgt direct sfeer, en je hoeft je minder zorgen te maken over knoeien of slijtage.</p> <h3>Call to action</h3> <p>Kies vandaag nog voor het Raved tafelkleed Katoen 140 × 300 cm in zwart en geef jouw tafel direct die complete upgrade – stijlvol, solide en zorgeloos. Bestel nu en begin direct met genieten van je maaltijd, in alle rust en comfort.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RNgrmYOwvMPR/j2WjqpW/1200x1080.jpg",
+            "width": 1200,
+            "height": 1080
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Zwart",
+          "gtin13": "8720387517732",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1.02",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000111015929",
+          "name": "Raved Elof Tafelkleed Rond 180 cm – Katoen – Zwart – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelkleed-katoen-elof-180-cm-o-zwart-uitwasbaar/9300000111015929/",
+          "productID": "9300000111015929",
+          "description": "<p>Geef je eetplek direct een stijlvolle upgrade met dit <strong>rond tafelkleed (Ø180 cm) van 100% katoen</strong>, in diep elegant zwart — <strong>uitwasbaar</strong>, geschikt voor zowel binnen als buiten, en ontworpen om zowel praktisch als luxe te zijn.</p> <p>Breng sfeer én kwaliteit naar je tafel met het <strong>primair zoekwoord “rond tafelkleed”</strong> — dit prachtige tafelkleed van het merk <strong>Raved</strong> in de serie <strong>Elof</strong> is vervaardigd uit <strong>100% katoen</strong>, uitgevoerd in een chique <strong>zwarte kleur</strong>, en uitgevoerd in de maat Ø 180 cm. Dankzij de zorgvuldig gekozen combinatie van stijl en functionaliteit is dit tafelkleed een uitstekende keuze voor wie wil verbinden: gezellig tafelen, een stijlvolle avond met vrienden, of een zomerse lunch buiten.</p> <h3>Elegant en tijdloos design</h3> <p>Het diepe zwart geeft een luxe uitstraling die moeiteloos past bij verschillende interieurstijlen — van modern minimalistisch tot klassiek landelijk. Een zwarte tafelsetting vormt meteen een warme en gastvrije sfeer. Dankzij de ronde vorm (Ø180 cm) benut je de tafelflate optimaal zonder hoekjes of overbodig textiel.</p> <h3>Hoogwaardig materiaal & onderhoudsgemak</h3> <p>Het tafelkleed is gemaakt van stevig <strong>katoen</strong>, een ademend en natuurlijk materiaal dat zacht aanvoelt en een luxe uitstraling heeft. Katoen heeft als voordeel dat het minder snel kreukt dan synthetische stoffen en goed te combineren is met verschillende accessoires. Bovendien is dit kleed <strong>uitwasbaar</strong>, wat betekent dat ongelukjes of kringen op tafel geen permanente impact hoeven te hebben — je kunt het eenvoudig wassen en weer gebruiken zonder verlies van schoonheid of kwaliteit. </p> <h3>Binnen en buiten inzetbaar</h3> <p>Of je nu binnen aan tafel zit of buiten in de tuin geniet van een maaltijd — dit tafelkleed is geschikt voor beide omgevingen. De stof heeft de stevigheid om netjes te blijven liggen en biedt tegelijk comfort. Hierdoor hoef je niet te kiezen tussen stijl in huis en praktische toepassing buiten.</p> <h3>Praktische details</h3> <ul> <li> <p>Vorm: rond (Ø 180 cm) </p> </li> <li> <p>Materiaal: 100% katoen </p> </li> <li> <p>Kleur: zwart, waardoor hij makkelijk combineert met servies, bestek en decoratie</p> </li> <li> <p>Onderhoud: machinewasbaar (bij voorkeur op max. 40 °C om krimpen te voorkomen) </p> </li> <li> <p>Geschikt voor dagelijkse gebruik, feestelijke gelegenheden of al-ledaagse gezelligheid</p> </li> </ul> <h3>Waarom dit tafelkleed voor jou?</h3> <p>Stel je voor: een avondje met vrienden, het kaarslicht weerkaatst in het zwart van je tafelkleed, en jouw servies komt fantastisch tot z’n recht. Of een zomerse brunch buiten, waar het kleed moeiteloos stijl toevoegt én bestand is tegen lichte wind of vlekjes. Als je de oude afbladderende tafelkleed zat bent, of gewoon een upgrade wilt die zowel elegant als praktisch is — dan biedt dit model precies dat. En door het comfortabele onderhoudsaspect — uitwasbaar — elimineer je zorgen over vlekken of vervaging.</p> <h3>Call-to-action</h3> <p>Kies voor elegantie en gemak: haal vandaag nog dit zwarte katoenen ronde tafelkleed in huis en transformeer je tafel tot de sfeervolle ontmoetingsplek die hij hoort te zijn. Bestel nu en maak van ieder moment aan tafel iets om naar uit te kijken!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o1Y91JNonlm3/nZW0xNR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "180 cm x 180 cm",
+          "color": "Zwart",
+          "gtin13": "8720387517756",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1.09",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Ravedfabrics.nl"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000111015930",
+          "name": "Raved Tafelkleed Elof 140 cm x 200 cm - Zwart - Katoen - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelkleed-katoen-elof-140-cm-x-200-cm-zwart-uitwasbaar/9300000111015930/",
+          "productID": "9300000111015930",
+          "description": "<p>Geef je eettafel direct een <strong>stijlvolle upgrade</strong> met dit effen zwarte <strong>katoenen tafelkleed</strong>, speciaal ontworpen voor dagelijks gebruik én speciale momenten. Dankzij het <strong>uitwasbare materiaal</strong> bescherm je je tafel moeiteloos tegen vlekken en hitte zonder in te leveren op sfeer.</p> <p>Verwelkom een nieuwe standaard in tafeltextiel met dit <strong>katoenen tafelkleed</strong> van Raved – ontworpen voor mensen die kwaliteit én stijl willen combineren. Of je nu een elegant diner organiseert, gezellig tafelt met familie of buiten een zomerse lunch hebt: dit kleed bewijst zijn waarde.</p> <h3>Elegant & veelzijdig</h3> <p>Met de afmeting <strong>140 cm × 200 cm</strong> past dit kleed perfect op veel standaard rechthoekige tafels. De effen <strong>zwarte kleur</strong> geeft een tijdloze uitstraling en vormt de ideale basis voor je servies, decoraties en diners. Dankzij de neutrale kleur kun je het zowel bij een modern interieur als een klassiek interieur inzetten.</p> <h3>Praktisch in gebruik</h3> <p>Het kleed is vervaardigd uit <strong>100% katoen</strong>, wat zorgt voor een luxe gevoel, ademend vermogen en een natuurlijke look. Tegelijkertijd is het <strong>uitwasbaar</strong>, waardoor je knoeien, vetspatten of hitte van schalen moeiteloos kunt aanpakken. Het kleed is geschikt voor <strong>binnen én buitengebruik</strong> — perfect voor de tuin, het balkon of een serre.</p> <h3>Bescherming & comfort</h3> <p>Je tafel krijgt niet alleen een stijlvolle upgrade, maar blijft ook beschermd tegen brandplekken door hete pannen en ongewenste vlekken van drank of eten. Dankzij het materiaal en de afwerking kun je met gerust hart aanschuiven, zelfs met kinderen of gezelligheid.</p> <h3>Waarom dit kleed kiezen?</h3> <ul> <li> <p><strong>Materiaal</strong>: 100% katoen voor comfort én kwaliteit.</p> </li> <li> <p><strong>Kleur/design</strong>: Effenkleurig zwart – stijlvol, tijdloos en gemakkelijk te combineren.</p> </li> <li> <p><strong>Maat</strong>: 140 × 200 cm – groot genoeg voor standaard tafels, met goede overhang.</p> </li> <li> <p><strong>Gebruiksgemak</strong>: Uitwasbaar en geschikt voor binnen én buiten.</p> </li> <li> <p><strong>Merk</strong>: Raved – betrouwbaar in tafelt­extiel en woonaccessoires.</p> </li> </ul> <h3>Stel je voor</h3> <p>Een diner onder kaarslicht, het zachte doek dat je tafel omhult, je servies komt beter tot zijn recht – dit is geen gewoon tafelkleed, het creëert sfeer. En na afloop? De wasmachine doet het werk. Geen paniek bij vlekken. Geen compromis tussen stijl en praktische bescherming.</p> <p><strong>Laat je tafel spreken</strong> met dit zwarte katoenen tafelkleed van Raved. Bescherm, verfraai en geniet – bestel vandaag nog en ervaar direct het verschil.</p> <p><strong>Call-to-action:</strong> Kies nu voor stijl én functionaliteit en maak je eettafel tot het hart van je huis.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r10Nrr1LopmK/76qmLPw/1200x1080.jpg",
+            "width": 1200,
+            "height": 1080
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Zwart",
+          "gtin13": "8720387517725",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "24.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Ravedfabrics.nl"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000111015936",
+          "name": "Raved Elof Tafelkleed – 140x250 cm – Katoen – Zwart – Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelkleed-katoen-elof-140-cm-x-250-cm-zwart-uitwasbaar/9300000111015936/",
+          "productID": "9300000111015936",
+          "description": "<p>Met dit <strong>uitwasbare katoenen tafelkleed</strong> creëer je direct een <strong>stijlvolle en onderhoudsvriendelijke eettafel</strong>. De diepe <strong>zwart-effen kleur</strong> combineert moeiteloos met elk interieur, terwijl het hoogwaardige <strong>katoenmateriaal</strong> bescherming biedt tegen vlekken en brandplekken.</p> <p>Met het <strong>tafelkleed</strong> van de merknaam Raved uit de Elof-collectie kies je voor een combinatie van <strong>stijl, comfort en duurzaamheid</strong> die jouw eettafel direct transformeert. Dit effen zwarte kleed in hoogwaardig <strong>katoen</strong> is ontworpen voor wie wél sfeer wil, maar geen compromis wil op onderhoudsgemak.</p> <h3>Sfeervolle uitstraling voor iedere gelegenheid</h3> <p>De kleur <strong>zwart</strong> zorgt voor een elegante, tijdloze uitstraling die past in moderne, klassieke of landelijke interieurs. Of je nu een gezellig diner organiseert, met vrienden borrelt of buiten luncht op het terras: dit tafelkleed voegt direct warmte toe zonder opdringerig te zijn. Omdat het effen is (geen druk patroon), blijft de tafel rustig ogen en kun je je servies of bloemenaccenten maximaal laten spreken.</p> <h3>Hoogwaardige kwaliteit en comfort</h3> <p>Dankzij het gebruik van <strong>100 % katoen</strong> profiteer je van een zacht gevoel, natuurlijke textuur en ademend vermogen. Dit materiaal voelt direct goed aan en geeft een luxe indruk. Het tafelkleed is geschikt voor <strong>binnen én buitengebruik</strong> — ideaal voor zowel je eetkamer als de tuin of veranda.</p> <h3>Praktisch en onderhoudsvriendelijk</h3> <p>Een van de grootste pluspunten is dat het kleed <strong>uitwasbaar</strong> is: je gooit het gewoon in de wasmachine (volg wasvoorschriften), en het blijft mooi zonder teveel gedoe. Dit maakt het uitermate geschikt voor gezinnen met kinderen, etentjes of intensief gebruik. Daarnaast beschermt het je tafel tegen <strong>vlekken of brandplekken</strong> door hete pannen — zo kun je met een gerust hart aanschuiven.</p> <h3>Optimale maat & veelzijdigheid</h3> <p>Met een breedte van 140 cm (langte in deze variant: 250 cm) biedt het kleed een royale overhang voor veel standaardtafels. Het zorgt voor een verzorgde afwerking en laat ruimte om creatief te stylen. Wil je een langere variant? Er zijn ook uitvoeringen verkrijgbaar tot 300 cm. </p> <h3>Waarom juist dit tafelkleed kiezen?</h3> <ul> <li> <p><strong>Effen zwart</strong> = tijdloos, makkelijk te combineren en chic.</p> </li> <li> <p><strong>Katoen</strong> = comfort, kwaliteit, natuurlijke uitstraling.</p> </li> <li> <p><strong>Uitwasbaar</strong> = minder stress, meer genieten.</p> </li> <li> <p><strong>Merk Raved</strong> = betrouwbare woontextielspecialist, goed beoordeeld (bijv. 4,9/5 op vergelijkbare maat) </p> </li> <li> <p><strong>Alles-in-één keuze</strong> = geen patroon dat snel verveelt, geen synthetisch gevoel, gewoon strak en solide.</p> </li> </ul> <h3>Call-to-action</h3> <p>Maak van jouw eettafel het hart van het huis met dit stijlvolle en praktische tafelkleed van Raved — bestel vandaag nog en geniet morgen al van meer sfeer én minder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5wVmm5DjVGR/8qrn6Ql/1200x1080.jpg",
+            "width": 1200,
+            "height": 1080
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Zwart",
+          "gtin13": "8720387517718",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.94",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Ravedfabrics.nl"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000111069557",
+          "name": "Raved Rond Elof Tafelkleed Ø 160 cm - Katoen - Zwart - Uitwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-rond-tafelkleed-katoen-elof-160-cm-o-zwart-uitwasbaar/9300000111069557/",
+          "productID": "9300000111069557",
+          "description": "<p>Breng warmte en elegantie aan tafel met het <strong>Raved rond tafelkleed van zwart katoen</strong>. Dit <strong>uitwasbare tafellaken</strong> combineert stijl, kwaliteit en praktisch gemak – ideaal voor dagelijks gebruik én feestelijke momenten.</p> <p>Geef je eettafel een verfijnde uitstraling met het <strong>Raved rond tafelkleed van katoen in zwart</strong>. Dit stijlvolle kleed uit de Elof-serie is ontworpen voor wie houdt van een nette, gezellige tafel zonder zorgen over vlekken of onderhoud.</p> <h3>Luxe uitstraling – praktisch gemak</h3> <p>Het <strong>rond tafelkleed</strong> is gemaakt van hoogwaardig <strong>katoen</strong>, een natuurlijke vezel die sterk, ademend en duurzaam is. De effen <strong>zwarte kleur</strong> geeft een moderne, tijdloze uitstraling die past in elk interieur — van strak minimalistisch tot warm landelijk. Dankzij de subtiele weefstructuur oogt het kleed elegant, terwijl het stevig genoeg is voor dagelijks gebruik.</p> <h3>Uitwasbaar en onderhoudsvriendelijk</h3> <p>Een ongelukje met wijn, saus of koffie? Geen probleem. Het <strong>uitwasbare katoen</strong> laat zich eenvoudig reinigen in de wasmachine. Zo blijft je tafel altijd fris en verzorgd, zonder dure stomerij of wegwerptextiel. Dit maakt het tafelkleed bijzonder geschikt voor gezinnen, etentjes of mensen die graag met stijl dineren.</p> <h3>Bescherming met stijl</h3> <p>Naast zijn esthetische waarde biedt dit kleed uitstekende bescherming tegen <strong>vlekken, krassen en hitte</strong>. De zachte katoenen laag voelt prettig aan en voorkomt direct contact tussen servies en het tafelblad. Ideaal voor houten, gelakte of glazen tafels die je mooi wilt houden.</p> <h3>Perfecte pasvorm en veelzijdig gebruik</h3> <p>De ronde vorm sluit prachtig aan bij ronde eettafels voor vier tot zes personen. Gebruik het tafelkleed niet alleen voor dagelijkse maaltijden, maar ook voor brunches, verjaardagen of sfeervolle diners. Combineer het met lichte serviezen of houten accessoires voor een stijlvol contrast.</p> <h3>Waarom kiezen voor Raved?</h3> <ul> <li> <p><strong>100% katoen</strong> – natuurlijk en duurzaam</p> </li> <li> <p><strong>Uitwasbaar</strong> – eenvoudig schoon te houden</p> </li> <li> <p><strong>Zwart design</strong> – tijdloos en chic</p> </li> <li> <p><strong>Ronde vorm</strong> – past perfect op 4-6 persoons tafels</p> </li> <li> <p><strong>Merkkwaliteit van Raved Fabrics</strong> – gespecialiseerd in tafeldecoratie</p> </li> </ul> <p>Laat je tafel spreken met een combinatie van elegantie en gebruiksgemak. Bestel vandaag nog het <strong>Raved rond tafelkleed – katoen – zwart – uitwasbaar</strong> en ontdek hoe eenvoudig het is om dagelijks sfeer aan tafel te brengen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ApDXQ477npkl/qjW5pQG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "160 cm x 160 cm",
+          "color": "Zwart",
+          "gtin13": "8720387517749",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1.09",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Ravedfabrics.nl"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.9,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 12
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "24.99",
+        "highPrice": "37.99",
+        "offerCount": "4"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/RNgrmYOwvMPR/j2WjqpW/550x495.jpg"
+  ]
+}

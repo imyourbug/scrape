@@ -1,0 +1,99 @@
+{
+  "ean": "9504989938268",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000176743567",
+      "name": "Raved - Rond Tafelzeil Ø 140 cm - Groen Takken Design - PVC - Afwasbaar",
+      "productID": "9300000176743567",
+      "description": "<p>Geef je tafel een frisse en natuurlijke look met het <strong>Raved ronde tafelzeil Ø140 cm</strong>. Dankzij het <strong>afwasbare PVC</strong> blijft jouw tafel beschermd tegen vlekken en krassen, terwijl het <strong>groene takken design</strong> direct sfeer toevoegt aan elke ruimte.</p> <p>Maak van elke maaltijd of borrel een stijlvolle en zorgeloze ervaring met het <strong>Raved ronde tafelzeil Ø140 cm in groen takken design</strong>. Dit tafelzeil combineert het praktische van <strong>duurzaam PVC</strong> met de uitstraling van een natuurlijk en modern design. Zo geniet je van een tafel die altijd beschermd is én er tegelijkertijd gezellig uitziet.</p> <h3>Stijlvol én praktisch</h3> <p>Het <strong>groene takken design</strong> brengt een vleugje natuur in huis. Ideaal voor wie houdt van een frisse, sfeervolle uitstraling in de keuken, eetkamer of op het terras. Het ronde formaat Ø140 cm past perfect op kleinere tafels en zorgt voor een elegante look.</p> <h3>Bescherming zonder zorgen</h3> <p>Iedereen kent het probleem van vlekken, kringen en krassen op een tafelblad. Met dit <strong>afwasbare PVC tafelzeil</strong> voorkom je beschadigingen en houd je jouw tafel eenvoudig schoon. Een vochtige doek is genoeg om kruimels, vet of drankresten te verwijderen – ideaal voor gezinnen met kinderen of voor wie vaak gasten ontvangt.</p> <h3>Breed inzetbaar</h3> <ul> <li> <p>Geschikt voor <strong>binnen én buitengebruik</strong></p> </li> <li> <p>Perfect voor dagelijks gebruik of speciale gelegenheden</p> </li> <li> <p>Combineert praktisch gemak met een warme uitstraling</p> </li> </ul> <h3>Duurzaam materiaal</h3> <p>Het <strong>PVC</strong> is stevig, duurzaam en blijft lang mooi, ook bij intensief gebruik. Bovendien kreukt of verschuift het nauwelijks, waardoor het altijd netjes op de tafel ligt.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om stijlvolle home & living producten die jouw interieur nét dat beetje extra geven. Met dit tafelzeil haal je een product in huis dat <strong>praktisch, sfeervol en onderhoudsvriendelijk</strong> is.</p> <p>Geef jouw tafel een upgrade en geniet van zorgeloos tafelen. Bestel vandaag nog het <strong>Raved ronde tafelzeil Ø140 cm – Groen Takken Design – Afwasbaar PVC</strong> en ervaar het gemak zelf!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/NwG4MXNQnLr8/KO9gggM/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Groen",
+      "gtin13": "9504989938268",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/NwG4MXNQnLr8/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/NwG4MXPD6G8K/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/Jp150zJGjNBl/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/OxG4NLOVoMvE/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/OxG4NpJAAEnr/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/Jp150kEvv7mv/KO9gggM/550x550.jpg",
+    "https://media.s-bol.com/NwG4Mo7zzEmv/KO9gggM/550x550.jpg"
+  ]
+}

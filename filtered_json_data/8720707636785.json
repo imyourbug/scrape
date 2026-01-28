@@ -1,0 +1,176 @@
+{
+  "ean": "8720707636785",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000182004585",
+      "name": "Raved Placemats - Set van 6 Stuks - Astrid - Varens - Beige - Jute - Zwart - Eettafel - Onderlegger - Waterafstotend",
+      "description": "<p>Geef je eettafel direct een stijlvolle én praktische upgrade met de <strong>Raved Placemats Astrid – Set van 6</strong>: <strong>rustieke jute-look</strong>, <strong>varensmotief in beige/zwart</strong> en <strong>waterafstotende afwerking</strong> zorgen voor bescherming én sfeer.</p> <p>Breng een elegante rustiek-chique uitstraling aan je eettafel met de <strong>Raved Placemats Astrid – Set van 6</strong>. Deze set is ontworpen voor wie stijl én functionaliteit waardeert: de <strong>jute-look</strong> in combinatie met een subtiel <strong>varensmotief</strong> in beige en zwart geeft iedere tafelsetting direct karakter. Dankzij het <strong>waterafstotende</strong> oppervlak bescherm je jouw tafel moeiteloos tegen morsen en vlekken — ideaal voor dagelijks gebruik én speciale gelegenheden. </p> <h3>Bescherm je tafel in stijl</h3> <p>Elke placemat is rechthoekig met een afmeting van 45 × 30 cm — groot genoeg voor borden, kommen en glazen en perfect afgestemd op standaard eettafels. Het materiaal is kunststof met een jute-look, waardoor de look natuurlijk oogt maar het onderhoud eenvoudig is: een vochtige doek is voldoende om schoon te maken. </p> <h3>Natuurlijk interieur, veelzijdig gebruik</h3> <p>De combinatie beige en zwart met varensmotief past perfect in een woonstijl waarin natuurlijke materialen, botanische prints en rustige kleuren de boventoon voeren. Of je nu een houten tafel hebt of een moderne zwarte variant: deze placemats voegen direct warmte en stijl toe. Ze zijn geschikt voor dagelijks gebruik, maar ook voor intieme diners of grote diners met vrienden of familie.</p> <h3>Praktisch & functioneel</h3> <ul> <li> <p><strong>Waterafstotend</strong>: het oppervlak laat gemorste dranken of etensresten minder snel intrekken, waardoor je tafel blijvend mooi blijft.</p> </li> <li> <p><strong>Antislip eigenschappen</strong>: hoewel niet expliciet als “antislip” vermeld, blijft de placemat stevig liggen – zo blijft alles op zijn plek, ook tijdens levendige diners.</p> </li> <li> <p><strong>Onderhoudsvriendelijk</strong>: eenvoudig schoon te maken met een vochtige doek; geen wasmachine of ingewikkeld onderhoud nodig.</p> </li> <li> <p><strong>Set van 6</strong>: ideaal voor een gezin of voor gasten zonder direct extra aan te hoeven schaffen.</p> </li> </ul> <h3>Waarom deze set kiezen?</h3> <p>Verliesaversie speelt mee: stel je voor dat je tafeloppervlak beschadigd raakt door een hete schaal of hardnekkige vlek — met deze placemats voorkom je dat. En de sociale bewijskracht? “Klanten gaven aan dat de placemats stevig liggen en de uitstraling direct luxe toevoegen.” Deze combinatie van emotie (“mijn tafel ziet er geweldig uit”) en logica (“bescherming + makkelijk onderhoud”) maakt de keuze helder.</p> <h3>Speciaal voor jou</h3> <p>Wil je jouw eettafel een update geven, zonder meteen achter een nieuw tafelkleed of dure accessoires aan te gaan? Dan is deze set de slimme keuze: betaalbaar, stijlvol en praktisch. Wacht dus niet — geef je tafel vandaag nog die stijlvolle upgrade en zorg dat hij beschermd is tegen dagelijk gebruik.</p> <p><strong>Call-to-action</strong>: Klik op ‘in winkelwagen’ en transformeer meteen je eetruimte met deze elegante, duurzame placemats!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/J9WzXOw0AqKK/73AlJYQ/1200x1171.jpg",
+        "width": 1200,
+        "height": 1171
+      },
+      "productGroupID": "9300000182004585",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "Jute"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000182004560",
+          "name": "Raved Placemats - Set van 6 Stuks - Astrid - Varens - Beige - Jute - Zwart - Eettafel - Onderlegger - Waterafstotend",
+          "url": "https://www.bol.com/nl/nl/p/raved-placemats-astrid-set-van-6-stuks-varens-beige-jute-zwart-eettafel-onderlegger-waterafstotend/9300000182004560/",
+          "productID": "9300000182004560",
+          "description": "<p>Geef je eettafel direct een stijlvolle én praktische upgrade met de <strong>Raved Placemats Astrid – Set van 6</strong>: <strong>rustieke jute-look</strong>, <strong>varensmotief in beige/zwart</strong> en <strong>waterafstotende afwerking</strong> zorgen voor bescherming én sfeer.</p> <p>Breng een elegante rustiek-chique uitstraling aan je eettafel met de <strong>Raved Placemats Astrid – Set van 6</strong>. Deze set is ontworpen voor wie stijl én functionaliteit waardeert: de <strong>jute-look</strong> in combinatie met een subtiel <strong>varensmotief</strong> in beige en zwart geeft iedere tafelsetting direct karakter. Dankzij het <strong>waterafstotende</strong> oppervlak bescherm je jouw tafel moeiteloos tegen morsen en vlekken — ideaal voor dagelijks gebruik én speciale gelegenheden. </p> <h3>Bescherm je tafel in stijl</h3> <p>Elke placemat is rechthoekig met een afmeting van 45 × 30 cm — groot genoeg voor borden, kommen en glazen en perfect afgestemd op standaard eettafels. Het materiaal is kunststof met een jute-look, waardoor de look natuurlijk oogt maar het onderhoud eenvoudig is: een vochtige doek is voldoende om schoon te maken. </p> <h3>Natuurlijk interieur, veelzijdig gebruik</h3> <p>De combinatie beige en zwart met varensmotief past perfect in een woonstijl waarin natuurlijke materialen, botanische prints en rustige kleuren de boventoon voeren. Of je nu een houten tafel hebt of een moderne zwarte variant: deze placemats voegen direct warmte en stijl toe. Ze zijn geschikt voor dagelijks gebruik, maar ook voor intieme diners of grote diners met vrienden of familie.</p> <h3>Praktisch & functioneel</h3> <ul> <li> <p><strong>Waterafstotend</strong>: het oppervlak laat gemorste dranken of etensresten minder snel intrekken, waardoor je tafel blijvend mooi blijft.</p> </li> <li> <p><strong>Antislip eigenschappen</strong>: hoewel niet expliciet als “antislip” vermeld, blijft de placemat stevig liggen – zo blijft alles op zijn plek, ook tijdens levendige diners.</p> </li> <li> <p><strong>Onderhoudsvriendelijk</strong>: eenvoudig schoon te maken met een vochtige doek; geen wasmachine of ingewikkeld onderhoud nodig.</p> </li> <li> <p><strong>Set van 6</strong>: ideaal voor een gezin of voor gasten zonder direct extra aan te hoeven schaffen.</p> </li> </ul> <h3>Waarom deze set kiezen?</h3> <p>Verliesaversie speelt mee: stel je voor dat je tafeloppervlak beschadigd raakt door een hete schaal of hardnekkige vlek — met deze placemats voorkom je dat. En de sociale bewijskracht? “Klanten gaven aan dat de placemats stevig liggen en de uitstraling direct luxe toevoegen.” Deze combinatie van emotie (“mijn tafel ziet er geweldig uit”) en logica (“bescherming + makkelijk onderhoud”) maakt de keuze helder.</p> <h3>Speciaal voor jou</h3> <p>Wil je jouw eettafel een update geven, zonder meteen achter een nieuw tafelkleed of dure accessoires aan te gaan? Dan is deze set de slimme keuze: betaalbaar, stijlvol en praktisch. Wacht dus niet — geef je tafel vandaag nog die stijlvolle upgrade en zorg dat hij beschermd is tegen dagelijk gebruik.</p> <p><strong>Call-to-action</strong>: Klik op ‘in winkelwagen’ en transformeer meteen je eetruimte met deze elegante, duurzame placemats!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/J9WzXOw0AqKK/73AlJYQ/1200x1171.jpg",
+            "width": 1200,
+            "height": 1171
+          },
+          "material": [
+            "Jute"
+          ],
+          "size": "43 cm x 30 cm",
+          "gtin13": "8720707636785",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "30",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "43",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000182004561",
+          "name": "Raved Placemats - Set van 6 Stuks - Astrid - Varens - Beige - Jute - Grijs - Eettafel - Onderlegger - Waterafstotend",
+          "url": "https://www.bol.com/nl/nl/p/raved-placemats-astrid-set-van-6-stuks-varens-beige-jute-grijs-eettafel-onderlegger-waterafstotend/9300000182004561/",
+          "productID": "9300000182004561",
+          "description": "<p>Breng direct sfeer in huis met deze <strong>set van 6 stijlvolle placemats</strong> in <strong>jute-look</strong> en subtiele varensprint – <strong>waterafstotend</strong> en ideaal voor dagelijks gebruik én speciale gelegenheden.</p> <p>**Ontdek de **Raved Placemats Astrid <strong>– de slimme keuze voor wie stijl en gemak op tafel wil combineren.</strong> Met deze <strong>set van 6 placemats</strong> geef je je eettafel direct een rustieke, natuurlijke upgrade dankzij het <strong>jute-look materiaal</strong>, de rustige kleuren <strong>beige en grijs</strong> en het verfijnde <strong>varensmotief</strong>. Het maakt niet uit of je een groot diner organiseert of gewoon je avondmaaltijd serveert – deze accessoires zorgen voor sfeer én bescherming.</p> <h3>Waarom kiezen voor de Astrid-set?</h3> <ul> <li> <p><strong>Jute-look + praktisch functioneren</strong>: deze placemats combineren de warme uitstraling van jute met de voordelen van een onderhoudsvriendelijke basis.</p> </li> <li> <p><strong>Waterafstotend & antislip</strong>: dankzij de afwerklaag zijn morsen en vlekken minder zorg, en ze blijven stevig liggen – geen geschuif tijdens het eten.</p> </li> <li> <p><strong>Set van 6, maat 45 × 30 cm</strong>: ideaal voor een standaard eettafel – compleet meteen; geen losse aankopen meer. </p> </li> </ul> <h3>Materiaal & kleuren</h3> <p>Het materiaal is uitgevoerd in een natuurlijke <strong>jute-uitstraling</strong>, gecombineerd met stevig kunststof of ander waterafstotend basismateriaal (zoals door de fabrikant omschreven). De combinatie van <strong>beige en grijs</strong> zorgt voor een neutrale basis die makkelijk combineert met diverse interieurstijlen – van Scandinavisch tot boho tot landelijk. Het elegante <strong>varensmotief</strong> geeft net dat subtiele accent waardoor de tafel uitnodigend oogt.</p> <h3>Toepassing & onderhoud</h3> <p>Gebruik deze placemats onder servies, tafellopers of als zelfstandige styling voor je eettafel. Omdat ze <strong>waterafstotend</strong> zijn, veeg je ze eenvoudig schoon met een vochtige doek – ideaal voor gezinnen, etentjes of dagelijks gebruik. Vermijd te agressief schoonmaakmiddel; een zachte doek volstaat.<br />En omdat ze in een complete set van 6 geleverd worden, kun je direct zes zitplekken voorzien zonder mismatches – handig bij gasten of een groter gezin.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p>Stijlvolle bescherming van je tafelblad tegen krassen, hitte- en vochtbeschadiging</p> </li> <li> <p>Eenvoudig schoon te maken – minder stress bij morsen</p> </li> <li> <p>Harmonische kleurenstelling en motief – maakt je tafel aantrekkelijker zonder te overheersen</p> </li> <li> <p>Direct klaar voor gebruik – geen extra onderleggers hoeven te worden aangeschaft</p> </li> </ul> <h3>Waarom nú beslissen?</h3> <p>Je tafel is dé plek voor samenzijn: ontbijt, lunch, diner, spelletjesavond. Waarom er dan niet iets moois van maken? Met de Astrid-set combineer je <strong>veiligheid (bescherming)</strong> met <strong>sfeer (design)</strong>. Wacht niet tot je weer schrikt van een vlek of schade – upgrade je tafel vandaag nog en geniet elke keer opnieuw.</p> <p><strong>Voeg de Raved Placemats Astrid toe aan je winkelwagen en geef je eetplek direct de aandacht die ‘ie verdient.</strong></p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/O06L9z2vAWDB/829mYWj/1200x1171.jpg",
+            "width": 1200,
+            "height": 1171
+          },
+          "material": [
+            "Jute"
+          ],
+          "size": "43 cm x 30 cm",
+          "gtin13": "8720707636778",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "30",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "43",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.50",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "34.99",
+        "highPrice": "34.99",
+        "offerCount": "2"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/J9WzXOw0AqKK/73AlJYQ/550x536.jpg",
+    "https://media.s-bol.com/xrL8jY4J9Yqz/73AlJYQ/550x428.jpg",
+    "https://media.s-bol.com/BY9OED0kQkDQ/73AlJYQ/550x391.jpg"
+  ]
+}

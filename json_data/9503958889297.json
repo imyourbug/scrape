@@ -1,0 +1,817 @@
+{
+  "ean": "9503958889297",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000179023901",
+      "name": "Raved Tafelzeil Macarons 140 140 - Roze - PVC - Afwasbaar",
+      "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/m5ZGMyV4rknR/X6BPpoA/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000179023901",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023877",
+          "name": "Raved Tafelzeil 140 cm x 260 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-260-cm-roze-pvc-afwasbaar/9300000179023877/",
+          "productID": "9300000179023877",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kXM9vgNWjK/MjnXWQ5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9502345254243",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023878",
+          "name": "Raved Tafelzeil 140 cm x 230 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-230-cm-roze-pvc-afwasbaar/9300000179023878/",
+          "productID": "9300000179023878",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/k1RDO7PLN3Xx/98vjYQZ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9508483686342",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023879",
+          "name": "Raved Tafelzeil 140 cm x 140 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-140-cm-roze-pvc-afwasbaar/9300000179023879/",
+          "productID": "9300000179023879",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2OBX1BDMJ5/VmzWnPW/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9503122128450",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023880",
+          "name": "Raved Tafelzeil 140 cm x 240 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-240-cm-roze-pvc-afwasbaar/9300000179023880/",
+          "productID": "9300000179023880",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9509232995319",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023881",
+          "name": "Raved Tafelzeil 140 cm x 280 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-280-cm-roze-pvc-afwasbaar/9300000179023881/",
+          "productID": "9300000179023881",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZG7DB34PnR/58oMK9v/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9509416126577",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023882",
+          "name": "Raved Tafelzeil 140 cm x 300 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-300-cm-roze-pvc-afwasbaar/9300000179023882/",
+          "productID": "9300000179023882",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/PLNr5Q91wPEW/KOlG9ZY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9505471776924",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023883",
+          "name": "Raved Tafelzeil 140 cm x 320 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-320-cm-roze-pvc-afwasbaar/9300000179023883/",
+          "productID": "9300000179023883",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/p1Y7X2PW0XnN/0gjMDVK/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507146155157",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023884",
+          "name": "Raved Tafelzeil 140 cm x 290 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-290-cm-roze-pvc-afwasbaar/9300000179023884/",
+          "productID": "9300000179023884",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J6Q2GxMyNr/WnA1o7v/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9505658541697",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023885",
+          "name": "Raved Tafelzeil 140 cm x 160 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-160-cm-roze-pvc-afwasbaar/9300000179023885/",
+          "productID": "9300000179023885",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgk971BLPxK9/Q1rXg0L/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9503771925387",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023886",
+          "name": "Raved Tafelzeil 140 cm x 250 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-250-cm-roze-pvc-afwasbaar/9300000179023886/",
+          "productID": "9300000179023886",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZGMyV4rknR/X6BPpoA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9503958889297",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023887",
+          "name": "Raved Tafelzeil 140 cm x 100 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-100-cm-roze-pvc-afwasbaar/9300000179023887/",
+          "productID": "9300000179023887",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xDMZmV3ZDR/76qMVLr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9508946424412",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023888",
+          "name": "Raved Tafelzeil 140 cm x 220 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-220-cm-roze-pvc-afwasbaar/9300000179023888/",
+          "productID": "9300000179023888",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DvkPJ8l69zmx/LgmGW8A/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9503435869521",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023889",
+          "name": "Raved Tafelzeil 140 cm x 270 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-270-cm-roze-pvc-afwasbaar/9300000179023889/",
+          "productID": "9300000179023889",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xDMZ55w1Pk/RgvXjoK/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9502675578941",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023890",
+          "name": "Raved Tafelzeil 140 cm x 310 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-310-cm-roze-pvc-afwasbaar/9300000179023890/",
+          "productID": "9300000179023890",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RLO8kO9ogR/P1qGWZW/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9503746495228",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023891",
+          "name": "Raved Tafelzeil 140 cm x 180 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-180-cm-roze-pvc-afwasbaar/9300000179023891/",
+          "productID": "9300000179023891",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3OWXw0Ek51/3lm3V2x/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9507789692958",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023892",
+          "name": "Raved Tafelzeil 140 cm x 200 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-200-cm-roze-pvc-afwasbaar/9300000179023892/",
+          "productID": "9300000179023892",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZGMyn7VpRR/1jkM3rP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9507994577750",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023893",
+          "name": "Raved Tafelzeil 140 cm x 350 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-350-cm-roze-pvc-afwasbaar/9300000179023893/",
+          "productID": "9300000179023893",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZGMyg232kO/NxoGW9p/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9505563475933",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179023894",
+          "name": "Raved Tafelzeil 140 cm x 50 cm - Macarons Roze - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-macarons-140-cm-x-50-cm-roze-pvc-afwasbaar/9300000179023894/",
+          "productID": "9300000179023894",
+          "description": "<p>Maak van elke maaltijd een stijl­moment met dit <strong>afwasbare PVC tafelzeil</strong> in een vrolijke <strong>roze macarons-print</strong> – eenvoudig schoon te maken en direct sfeer aan tafel.</p> <p>**Maak indruk met het <strong>Raved Tafelzeil in roze macarons-design</strong>, de slimme keuze voor wie een tafelsetting wil die zowel mooi als functioneel is. Dit <strong>tafelzeil</strong> biedt <strong>bescherming én stijl</strong>: heeft een <strong>duurzaam PVC-materiaal</strong>, is <strong>afwasbaar</strong> met een vochtige doek en zorgt ervoor dat jouw tafel er elke dag fris uitziet.</p> <h3>Bescherming en styling in één</h3> <p>Met dit tafelzeil combineer je direct twee behoeften: bescherming van je tafel tegen kringen, knoeien, vlekken en slijtage, én een vrolijk design dat je eet- of tuintafel transformeert. De zachte roze achtergrond met speelse macarons zorgt voor een uitnodigende sfeer — perfect voor gezinsmaaltijden, gezellige borrels buiten, of als subtiel accent op je interieur.</p> <h3>Materiaal en onderhoud</h3> <p>Het tafelzeil is vervaardigd van hoogwaardig <strong>PVC</strong>, waardoor het flexibel, water- en vlekbestendig is. Dankzij de handige afneembare eigenschap (met een vochtige doek) houd je het simpel en snel schoon. Let erop dat bij langdurig gebruik buiten, het motief en de kleur het best behouden blijven als je het tafelzeil beschermt tegen extreme weersinvloeden.</p> <h3>Toepassingsmogelijkheden</h3> <p>Of je nu binnen eet of buiten op het terras aanschuift — dit tafelzeil is geschikt voor meerdere situaties: van een spontane kop koffie tot een uitgebreide barbecue met vrienden. Het maakt je tafel direct sfeervoller én praktischer. Dankzij de standaardmaat past het op de meeste tafels (controleer jouw afmetingen). Het vrolijke design haalt ook het beste in je servies en tafeldecor naar boven.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p>**Veelzijdig gebruik **: geschikt voor zowel binnen als buiten.</p> </li> <li> <p>**Onderhoudsgemak **: eenvoudig schoon te maken, geen ingewikkeld wasprogramma.</p> </li> <li> <p>**Stijlvol motief **: macarons-print voegt direct karakter toe in plaats van een standaard effen doek.</p> </li> <li> <p><strong>Hoge kwaliteit</strong> dankzij het PVC-materiaal: bestand tegen dagelijkse gebruik.</p> </li> </ul> <h3>Let op</h3> <p>Hoewel het tafelzeil buiten gebruikt kan worden, streven we naar optimale duurzaamheid door het te beschermen tegen langdurig zon- of weergebruik.<br />Verzeker je ervan dat jouw tafelvlak schoon en droog is voordat je het tafelzeil legt voor het beste resultaat.</p> <h3>Call-to-action</h3> <p>Kies nu voor bescherming én stijl aan tafel – geef jouw eet- of tuintafel direct een upgrade met het <strong>Raved tafelzeil in roze macarons-print</strong>. Bestel vandaag nog en maak van elk moment aan tafel iets bijzonders!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3OWX27PJZj/Z4EgrVR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9507746685696",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/m5ZGMyV4rknR/X6BPpoA/550x550.jpg"
+  ]
+}

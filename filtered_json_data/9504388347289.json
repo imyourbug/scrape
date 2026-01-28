@@ -1,0 +1,996 @@
+{
+  "ean": "9504388347289",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000167169634",
+      "name": "Raved Kerst Tafelzeil - Kersthulst 140 140 - Beige - PVC - Afwasbaar",
+      "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/NJkKOY1ODnZ6/76qzJZw/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000167169634",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026029",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-140-cm-beige-pvc-afwasbaar/9300000129026029/",
+          "productID": "9300000129026029",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/WV6KPQBQPJzJ/8qrAYZl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9502161951982",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026032",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-270-cm-beige-pvc-afwasbaar/9300000129026032/",
+          "productID": "9300000129026032",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VRO2v7Z7vGyM/mwW6Xxp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9503444596524",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026033",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-350-cm-beige-pvc-afwasbaar/9300000129026033/",
+          "productID": "9300000129026033",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKYXgPqQW56Q/P1qlJyz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 330 cm",
+          "gtin13": "9501399614713",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "330",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "43.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026035",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-290-cm-beige-pvc-afwasbaar/9300000129026035/",
+          "productID": "9300000129026035",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RgY0B0KN5z/g5WKXo9/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9507462976627",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "39.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026092",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-50-cm-beige-pvc-afwasbaar/9300000129026092/",
+          "productID": "9300000129026092",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/v12xQ8JwLQJ0/2RlrJZJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9501629813183",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026097",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-180-cm-beige-pvc-afwasbaar/9300000129026097/",
+          "productID": "9300000129026097",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgkz62LDj679/3lmvJ8r/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9507928447579",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026100",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-200-cm-beige-pvc-afwasbaar/9300000129026100/",
+          "productID": "9300000129026100",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1r6y3QE1Jn/VmzrZG5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9505158632758",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026107",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-250-cm-beige-pvc-afwasbaar/9300000129026107/",
+          "productID": "9300000129026107",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1r6yJjGpRR/98vBXZP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9503155328384",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.59",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026110",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-280-cm-beige-pvc-afwasbaar/9300000129026110/",
+          "productID": "9300000129026110",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/0KRo80M8pXJG/0gjp3Z7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9502588776311",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "38.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026111",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-310-cm-beige-pvc-afwasbaar/9300000129026111/",
+          "productID": "9300000129026111",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/9WrA9Dj9BGnx/xGW5jMJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9506336188340",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "41.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026112",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-320-cm-beige-pvc-afwasbaar/9300000129026112/",
+          "productID": "9300000129026112",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6KOxO4PApV/Z4EyXMv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9508386457377",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "42.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026197",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-100-cm-beige-pvc-afwasbaar/9300000129026197/",
+          "productID": "9300000129026197",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgkz62j5NjJ3/j2WMJrW/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9505583732719",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026207",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-160-cm-beige-pvc-afwasbaar/9300000129026207/",
+          "productID": "9300000129026207",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gGZN40KQYpvl/zLw4o2/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9505853332731",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026209",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-220-cm-beige-pvc-afwasbaar/9300000129026209/",
+          "productID": "9300000129026209",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Z16G8zGzkwxv/nZWXJy4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9501949522154",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026210",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-230-cm-beige-pvc-afwasbaar/9300000129026210/",
+          "productID": "9300000129026210",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VRO2v72740EW/lOWL6wl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9507858486518",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026211",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-240-cm-beige-pvc-afwasbaar/9300000129026211/",
+          "productID": "9300000129026211",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RgY0JJqmBP/k5WKMvx/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9502833478854",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026213",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-260-cm-beige-pvc-afwasbaar/9300000129026213/",
+          "productID": "9300000129026213",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/w1py0KgZQ07R/66pyV17/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9506547468514",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.09",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000129026218",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Kersthulst Beige – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-kerst-tafelzeil-kersthulst-140-cm-x-300-cm-beige-pvc-afwasbaar/9300000129026218/",
+          "productID": "9300000129026218",
+          "description": "<p>Breng <strong>direct kerstsfeer</strong> op tafel met dit <strong>praktische en stijlvolle tafelzeil</strong> van PVC dat eenvoudig schoon te maken is. Het elegante <strong>hulst-motief in warm beige</strong> geeft uw eettafel een feestelijke uitstraling zonder zorgen — <strong>beschermt tegen knoeien, vlekken en brandplekken</strong>.</p> <p>Met het <strong>primair zoekwoord</strong> <strong>tafelzeil kersthulst</strong> stel ik onderstaande tekst op.</p> <p>Maak van uw eettafel dé sfeerpunt tijdens de feestdagen met dit prachtige <strong>tafelzeil kersthulst</strong> van <strong>Raved</strong>. Het subtiele beige ontwerp met sfeervolle hulstprint past perfect in een warme kerstatmosfeer én is vervaardigd van <strong>PVC</strong>, wat betekent dat u zich geen zorgen hoeft te maken over knoeien tijdens het diner of de borrel.<br />Het <strong>materiaal</strong> is duurzaam, slijtvast en dankzij de <strong>afwasbare afwerking</strong> veegt u een glas rode wijn of een gemorst dessert eenvoudig weg met een doek — geen stress, alleen genieten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming én decoratie</strong>: dit tafelzeil biedt bescherming tegen vlekken, kringen en zelfs brandplekken door warme pannen, en zorgt tegelijk voor een stijlvolle uitstraling van uw tafel.</p> </li> <li> <p><strong>Feestelijke uitstraling</strong>: het classic hulst-motief brengt het kerstgevoel direct naar binnen, of het nu gaat om een avondje met familie, een kerstontbijt of een gezellige borrel.</p> </li> <li> <p><strong>Eenvoudig in onderhoud</strong>: dankzij het PVC-materiaal en afwasbare laag is schoonmaken kinderspel, wat rust geeft tijdens drukke dagen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor zowel dagelijks gebruik in de winterperiode als voor het hoogtepunt van de kerstdagen.</p> </li> </ul> <h3>Specificaties & praktische details</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: <strong>PVC</strong> — stevig, slijtvast en makkelijk te reinigen</p> </li> <li> <p>Kleur: <strong>Beige</strong> met hulst-print (groen/rood accenten)</p> </li> <li> <p>Gebruik: binnen én buiten (op veranda of tuinfeest), perfect voor tafels tijdens feestelijke momenten</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met vochtige doek; geen machinewas vereist</p> </li> </ul> <h3>Voor wie?</h3> <p>Of u nu een feestelijk diner organiseert met vrienden of ervoor wilt zorgen dat het kerstontbijt voor de kinderen zo soepel mogelijk verloopt: dit tafelzeil is ideaal. Het combineert stijl, gemak en functionaliteit — een zeldzame combinatie die indruk maakt én ontzorgt.</p> <h3>Letselvrij en zorgeloos genieten</h3> <p>Wacht niet tot er een vlek is gemorst of een brandplekje is ontstaan — met dit tafelzeil neemt u de stress weg vóórdat het begint. Een kleine investering in uw kerstsfeer levert veel ontspanning op tijdens het diner.</p> <p><strong>Call-to-action</strong>: Maak uw tafel feestklaar en bestel dit stijlvolle tafelzeil vandaag nog zodat u met een gerust hart aan de kerstdagen begint!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkKOY1ODnZ6/76qzJZw/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9504388347289",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "40.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "43.89",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/NJkKOY1ODnZ6/76qzJZw/550x550.jpg",
+    "https://media.s-bol.com/WV6KPQBqWk6x/76qzJZw/550x550.jpg",
+    "https://media.s-bol.com/RN6KlPBPlArq/76qzJZw/550x503.jpg",
+    "https://media.s-bol.com/3N1r6yJwY44M/76qzJZw/550x178.jpg",
+    "https://media.s-bol.com/kjmKpjAmmo66/WK1k6v/550x550.jpg",
+    "https://media.s-bol.com/Y8EY7yX5V22K/76qzJZw/550x550.jpg",
+    "https://media.s-bol.com/OKYXgP9Pgw0r/76qzJZw/550x550.jpg"
+  ]
+}

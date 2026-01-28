@@ -1,0 +1,999 @@
+{
+  "ean": "9507334322392",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000092104528",
+      "name": "Raved Tafelzeil Blokken Design Grijs 140 140 - PVC - Afwasbaar",
+      "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/NJkWLORmjRR2/Z4Eg7q8/1200x1182.jpg",
+        "width": 1200,
+        "height": 1182
+      },
+      "productGroupID": "9300000092104528",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104481",
+          "name": "Raved Tafelzeil Blokken  140 cm x  100 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-100-cm-grijs-pvc-afwasbaar/9300000092104481/",
+          "productID": "9300000092104481",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JMZpGzDykD/qjWozPk/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9503652492533",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104482",
+          "name": "Raved Tafelzeil Blokken  140 cm x  290 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-290-cm-grijs-pvc-afwasbaar/9300000092104482/",
+          "productID": "9300000092104482",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6Wy8kqRgPo/y8WzL1g/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9502437619622",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "39.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104485",
+          "name": "Raved Tafelzeil Blokken  140 cm x  240 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-240-cm-grijs-pvc-afwasbaar/9300000092104485/",
+          "productID": "9300000092104485",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9502596173492",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104486",
+          "name": "Raved Tafelzeil Blokken  140 cm x  250 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-250-cm-grijs-pvc-afwasbaar/9300000092104486/",
+          "productID": "9300000092104486",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VQ6mwoq6Q/GZNA3P3/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9504896968631",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.59",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104487",
+          "name": "Raved Tafelzeil Blokken  140 cm x  160 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-160-cm-grijs-pvc-afwasbaar/9300000092104487/",
+          "productID": "9300000092104487",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/r1kV82WZ2Jw6/nZWlwMP/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9502957948677",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104488",
+          "name": "Raved Tafelzeil Blokken  140 cm x  200 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-200-cm-grijs-pvc-afwasbaar/9300000092104488/",
+          "productID": "9300000092104488",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1V2ZA006nA/66pMOLz/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9508925215888",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104489",
+          "name": "Raved Tafelzeil Blokken  140 cm x  140 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-140-cm-grijs-pvc-afwasbaar/9300000092104489/",
+          "productID": "9300000092104489",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3V192KA8K1/zmgAM2O/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9504269167999",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104490",
+          "name": "Raved Tafelzeil Blokken  140 cm x  310 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-310-cm-grijs-pvc-afwasbaar/9300000092104490/",
+          "productID": "9300000092104490",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqB9NrYNKmVn/VmzW3gO/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9507884559545",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "41.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104492",
+          "name": "Raved Tafelzeil Blokken  140 cm x  230 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-230-cm-grijs-pvc-afwasbaar/9300000092104492/",
+          "productID": "9300000092104492",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDr918vg8g7n/3lm3LB9/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9507421872519",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104494",
+          "name": "Raved Tafelzeil Blokken  140 cm x  180 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-180-cm-grijs-pvc-afwasbaar/9300000092104494/",
+          "productID": "9300000092104494",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL7QWRQGvr/oYWmxNk/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9503861999496",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104495",
+          "name": "Raved Tafelzeil Blokken  140 cm x  220 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-220-cm-grijs-pvc-afwasbaar/9300000092104495/",
+          "productID": "9300000092104495",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3V19w7QDg1/8qrgQPW/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9508793572687",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.39",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104496",
+          "name": "Raved Tafelzeil Blokken  140 cm x  350 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-350-cm-grijs-pvc-afwasbaar/9300000092104496/",
+          "productID": "9300000092104496",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL7QmNNlJr/vg6wGXM/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9501627676995",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "43.89",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104498",
+          "name": "Raved Tafelzeil Blokken  140 cm x  280 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-280-cm-grijs-pvc-afwasbaar/9300000092104498/",
+          "productID": "9300000092104498",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL7QrnZPDp/48n2MEk/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9506491227281",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "38.49",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104499",
+          "name": "Raved Tafelzeil Blokken  140 cm x  300 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-300-cm-grijs-pvc-afwasbaar/9300000092104499/",
+          "productID": "9300000092104499",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL7QmzOXn0/Y6DZ3oW/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9507683377920",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "40.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104501",
+          "name": "Raved Tafelzeil Blokken  140 cm x  320 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-320-cm-grijs-pvc-afwasbaar/9300000092104501/",
+          "productID": "9300000092104501",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xL7QmrA7yp/AnEr3Jp/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9505469783248",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "42.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104502",
+          "name": "Raved Tafelzeil Blokken  140 cm x  270 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-270-cm-grijs-pvc-afwasbaar/9300000092104502/",
+          "productID": "9300000092104502",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNOqgJJ2w9/WnA13kn/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9506864223117",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.79",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000092104504",
+          "name": "Raved Tafelzeil Blokken  140 cm x  260 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-260-cm-grijs-pvc-afwasbaar/9300000092104504/",
+          "productID": "9300000092104504",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/k1RX82lN5myK/P1qG322/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9503996441358",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.09",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124899995",
+          "name": "Raved Tafelzeil Blokken  140 cm x  50 cm - Grijs - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-blokken-140-cm-x-50-cm-grijs-pvc-afwasbaar/9300000124899995/",
+          "productID": "9300000124899995",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Blokken design</h3> <p>Dit tafelkleed/tafelzeil, met een subtiele print en neutrale kleur, past perfect binnen een modern en klassiek interieur. Het ontwerp bestaat uit een stijlvolle blokken print in de kleuren grijs en wit en maakt uw eetkamer nog completer.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Wit/Grijs <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Frabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkWLORmjRR2/Z4Eg7q8/1200x1182.jpg",
+            "width": 1200,
+            "height": 1182
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9507334322392",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 2.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "43.89",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/NJkWLORmjRR2/Z4Eg7q8/550x541.jpg",
+    "https://media.s-bol.com/r1kV82nvg8zp/Z4Eg7q8/550x550.jpg",
+    "https://media.s-bol.com/7w12ryAlQ5VA/mr9kyG/550x467.jpg",
+    "https://media.s-bol.com/JB6Wy8rxkv7g/Z4Eg7q8/550x480.jpg",
+    "https://media.s-bol.com/3pQPnr97ML0O/mr9kyG/550x550.jpg",
+    "https://media.s-bol.com/m5ZNOqPgr8OR/Z4Eg7q8/550x178.jpg",
+    "https://media.s-bol.com/4K5p6OW72pR0/qVRwX7/550x550.jpg",
+    "https://media.s-bol.com/xgkLn6wBoGg9/Z4Eg7q8/550x550.jpg",
+    "https://media.s-bol.com/Y8EqW7RPmP1n/Z4Eg7q8/550x550.jpg"
+  ]
+}

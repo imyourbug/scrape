@@ -1,0 +1,99 @@
+{
+  "ean": "9503645181345",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000124782293",
+      "name": "Raved Tafelzeil – 140 cm x 50 cm – Hout Celadon – PVC – Afwasbaar",
+      "productID": "9300000124782293",
+      "description": "<p>Bescherm je tafel stijlvol met dit <strong>PVC-tafelzeil in houtlook (Celadon)</strong> dat direct <strong>sfeervolle uitstraling, een afwasbare laag en duurzame houtprint</strong> biedt. Ideaal voor binnen én buiten, zodat jij ontspannen kunt genieten zonder zorgen om vlekken of brandplekken.</p> <p>Maak kennis met het <strong>premium tafelzeil</strong> van Raved — speciaal ontworpen voor wie zijn tafel wil beschermen én verfraaien. Met het <strong>primair zoekwoord “tafelzeil”</strong> voeren we meteen het gesprek over de directe oplossing voor jouw verzorgde woonstijl.</p> <h3>Sfeervolle houtlook-stijl</h3> <p>Het tafelzeil is uitgevoerd in de trendy kleur <strong>Celadon</strong>, gecombineerd met een elegante <strong>houtlookprint</strong> waardoor de uitstraling luxe én natuurlijk is. Het geeft jouw eet- of tuintafel een frisse upgrade zonder dat je een compleet nieuw tafelblad hoeft te kopen.</p> <h3>Duurzaam materiaal & eenvoudig onderhoud</h3> <p>Gemaakt van <strong>PVC</strong>, dit tafelzeil is volledig <strong>afwasbaar</strong> – ideaal bij koffiekringen, kinderspetters of een barbecue op het terras. Dankzij de beschermende laag hoef je je geen zorgen meer te maken over brandplekken of randen van een hete pan; het tafelzeil houdt stand in het dagelijks gebruik. </p> <h3>Voor binnen én buiten</h3> <p>Of je nu een diner hebt in de gezellige eetkamer of een borrel op het balkon, dit tafelzeil is gemaakt voor veelzijd gebruik. De breedte van 140 cm past op veel standaard tafels, waardoor hij zeer geschikt is voor zowel kleinere als middelgrote tafels. </p> <h3>Praktische voordelen in één oogopslag</h3> <ul> <li> <p>Beschermt tegen vlekken, krassen en hitte – ideaal bij gezinsgebruik of bezoek.</p> </li> <li> <p>Lichtgewicht én snel te bevestigen – perfect voor een spontaan etentje buiten.</p> </li> <li> <p>Stijlvol houtlook-design in Celadon – past bij moderne én klassieke interieurstijlen.</p> </li> <li> <p>Afwasbaar en gemakkelijk schoon te maken – minder schoonmaakkosten, meer tijd voor samenzijn.</p> </li> </ul> <h3>Beschrijf het materiaal, maat en merk</h3> <p>Het product komt van merk Raved, in de maat 140 cm x 160 cm, gemaakt van hoogwaardig PVC met een afwasbare toplaag. De houtlookprint in Celadon zorgt voor een rustige en natuurlijke uitstraling bovenop de praktische eigenschappen.</p> <h3>Verliesaversie + sociale bewijskracht</h3> <p>Stel je voor: een mooie stoel, familie of vrienden aan tafel… en dan een glas rode wijn zakt over het tafelblad. Zonder goed bescherming-tafelzeil kun je reparaties of vervanging overwegen. Met dit tafelzeil voel je jezelf gerust—je tafel blijft zoals nieuw. Laat je tafel niet zijn uitstraling verliezen. Kies voor bescherming én stijl zoals al veel tevreden klanten doen.</p> <h3>Call-to-action</h3> <p>Til je tafel naar een hoger niveau van stijl én functioneel gemak — kies nu voor dit afwasbare PVC-tafelzeil in houtlook Celadon en geniet direct van rust, sfeer en onderhoudsgemak. Bestel vandaag nog en geef je tafel de bescherming die hij verdient!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/B28PJWqJ8qXX/vEyQ5L/1200x595.jpg",
+        "width": 1200,
+        "height": 595
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 50 cm",
+      "color": "Celadon",
+      "gtin13": "9503645181345",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "50",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "2",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "23.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/B28PJWqJ8qXX/vEyQ5L/550x272.jpg",
+    "https://media.s-bol.com/N2LyrJQp2Rpv/8RDgvr/550x467.jpg",
+    "https://media.s-bol.com/J2yrnBGl2x1v/8RDgvr/550x550.jpg",
+    "https://media.s-bol.com/xmz7pPkXPJmJ/7j1qYQ/550x488.jpg",
+    "https://media.s-bol.com/O2MzvKVq2Rqr/8RDgvr/550x500.jpg",
+    "https://media.s-bol.com/P97AwLXr98r4/8RDgvr/550x399.jpg",
+    "https://media.s-bol.com/K21voDKm2yGJ/8RDgvr/550x550.jpg"
+  ]
+}

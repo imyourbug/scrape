@@ -1,0 +1,99 @@
+{
+  "ean": "9503636925392",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000067087010",
+      "name": "Raved Tafelzeil – 140 cm x 140 cm – Kerst Metallic Grijs – PVC – Afwasbaar",
+      "productID": "9300000067087010",
+      "description": "<p>Ontdek het elegante <strong>metallic grijs tafelzeil</strong> van Raved – gemaakt van <strong>duurzaam PVC</strong>, <strong>afwasbaar</strong> en direct klaar voor uw feesttafel. Bescherm uw tafel tegen knoeien, kringen en brandplekken, én creëer direct een sfeervolle setting voor kerst of nieuwjaar.</p> <p>Breng luxueuze sfeer en zorgeloze functionaliteit samen met het <strong>Raved tafelzeil in Metallic Grijs</strong>, vervaardigd uit hoogwaardig <strong>PVC</strong> en volledig <strong>afwasbaar</strong>. Dit tafelzeil is speciaal ontworpen voor feestelijke gelegenheden — denk aan kerst, oud & nieuw of een stijlvolle diner-avond — maar is ook perfect voor dagelijks gebruik wanneer u een elegante basis wilt zonder permanent risico op vlekken of beschadiging.</p> <h3>Bescherm en decoreer</h3> <p>past dit tafelzeil uitstekend op kleinere of gemiddelde eettafels, waardoor u direct een verzorgde look creëert. Het metallic grijze design reflecteert licht subtiel en voegt een feestelijk, modern accent toe aan uw interieur. Tegelijkertijd voorkomt het tafelzeil knoeien, kringen van hete pannen of brandplekken — zo hoeft u zich minder zorgen te maken en kunt u gerust aanschuiven.</p> <h3>Materialen & onderhoud</h3> <p>Het tafelzeil is vervaardigd uit <strong>PVC</strong>, een materiaal dat bekend staat om zijn duurzaamheid, water- en vuilbestendigheid en eenvoudige reiniging. Dankzij de afwasbare afwerking veegt u het schoon met een vochtige doek — geen gedoe met wassen of langdurig onderhouden. Dankzij deze praktische eigenschappen wordt het tafelzeil zowel functioneel als stijlvol onderdeel van uw inrichting.</p> <h3>Veelzijdig gebruik</h3> <p>Of u nu een intieme kerstlunch organiseert, een glamour-avond met vrienden of gewoon iedere dag een nettere tafel wenst — dit tafelzeil past perfect. Het metallic grijs combineert uitstekend met warme houttinten, glanzende accessoires of feestelijke decoraties. Dankzij het beschermende karakter is het bovendien ideaal voor gezinnen met kinderen, huisdieren of gasten.</p> <h3>Waarom dit tafelzeil?</h3> <ul> <li> <p><strong>Elegant design</strong>: metallic grijs brengt feestelijke luxe naar uw tafel</p> </li> <li> <p><strong>Bescherming & gemak</strong>: vermijdt brandplekken, vlekken en knoeien</p> </li> <li> <p><strong>Gebruiksvriendelijk</strong>: eenvoudig schoon te maken en direct in gebruik</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor feestdagen én dagelijks gebruik</p> </li> </ul> <p>Aarzel niet en geef uw eettafel de upgrade die hij verdient. Bestel vandaag nog het <strong>Raved tafelzeil – Metallic Grijs</strong> en geniet van stijl, huiselijke warmte en gemoedsrust tijdens elke maaltijd <strong>— klik op ‘In winkelwagen’ en maak uw tafel klaar voor de spotlight</strong>.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/jkZNjPoE8GLB/nv9XQ4/1200x1019.jpg",
+        "width": 1200,
+        "height": 1019
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Grijs",
+      "gtin13": "9503636925392",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "2",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "26.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/jkZNjPoE8GLB/nv9XQ4/550x467.jpg",
+    "https://media.s-bol.com/V9204RWWzo0o/45QnMJ/550x488.jpg",
+    "https://media.s-bol.com/noxj0PvLOBO7/nv9XQ4/550x550.jpg",
+    "https://media.s-bol.com/gGZNOPlA2B6D/nv9XQ4/550x500.jpg",
+    "https://media.s-bol.com/mnOgmPrKyAyG/nv9XQ4/550x399.jpg",
+    "https://media.s-bol.com/BOYl6ZplpjPW/nv9XQ4/550x550.jpg",
+    "https://media.s-bol.com/1nYGAvDWz3Po/nv0grP/550x257.jpg"
+  ]
+}

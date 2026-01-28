@@ -1,0 +1,1004 @@
+{
+  "ean": "9508699324786",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000177253128",
+      "name": "Raved Tafelzeil Gekleurde Ruitjes 140 140 - PVC - Afwasbaar",
+      "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/1Lw77PVAnPy0/GZNxYq5/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000177253128",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253097",
+          "name": "Raved – Tafelzeil – 140 × 250 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-250-cm-pvc-afwasbaar/9300000177253097/",
+          "productID": "9300000177253097",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gEyXZLqxXr26/zp6jG9m/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9502641366183",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253098",
+          "name": "Raved – Tafelzeil – 140 × 300 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-300-cm-pvc-afwasbaar/9300000177253098/",
+          "productID": "9300000177253098",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RJJNA1ryWy/DRKrYnk/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9503814191151",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253099",
+          "name": "Raved – Tafelzeil – 140 × 280 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-280-cm-pvc-afwasbaar/9300000177253099/",
+          "productID": "9300000177253099",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2YY0XZr5X2/zmg5BJ2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9504484577474",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253100",
+          "name": "Raved – Tafelzeil – 140 × 310 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-310-cm-pvc-afwasbaar/9300000177253100/",
+          "productID": "9300000177253100",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VROZZKJMkKEB/JZkAYwy/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9504511793396",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253101",
+          "name": "Raved – Tafelzeil – 140 × 220 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-220-cm-pvc-afwasbaar/9300000177253101/",
+          "productID": "9300000177253101",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2YY0XVZmrj/LgmDYyv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9505186877626",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253102",
+          "name": "Raved – Tafelzeil – 140 × 240 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-240-cm-pvc-afwasbaar/9300000177253102/",
+          "productID": "9300000177253102",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Z16XXNwXpV18/xGW5VEP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9504955919239",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253103",
+          "name": "Raved – Tafelzeil – 140 × 100 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-100-cm-pvc-afwasbaar/9300000177253103/",
+          "productID": "9300000177253103",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3JJAjP61ZB/vg65YBn/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9505327197644",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253104",
+          "name": "Raved – Tafelzeil – 140 × 160 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-160-cm-pvc-afwasbaar/9300000177253104/",
+          "productID": "9300000177253104",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/6Q8VV4YJvvlO/r0W5ExL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9506545529712",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253105",
+          "name": "Raved – Tafelzeil – 140 × 350 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-350-cm-pvc-afwasbaar/9300000177253105/",
+          "productID": "9300000177253105",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/XWDVV27XPpMo/y8W56GR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9505656694395",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253106",
+          "name": "Raved – Tafelzeil – 140 × 230 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-230-cm-pvc-afwasbaar/9300000177253106/",
+          "productID": "9300000177253106",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VROZZKJxZl0B/Q1rmNE5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9507229911762",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253107",
+          "name": "Raved – Tafelzeil – 140 × 50 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-50-cm-pvc-afwasbaar/9300000177253107/",
+          "productID": "9300000177253107",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXXNVPnNKO/AnEoQGj/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9507694332925",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253108",
+          "name": "Raved – Tafelzeil – 140 × 180 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-180-cm-pvc-afwasbaar/9300000177253108/",
+          "productID": "9300000177253108",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/6Q8VV4Y1pQXO/P1qlMD6/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9508427599479",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253109",
+          "name": "Raved – Tafelzeil – 140 × 320 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-320-cm-pvc-afwasbaar/9300000177253109/",
+          "productID": "9300000177253109",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/QMWLLBNKXKj7/ElLvZol/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507933479794",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253110",
+          "name": "Raved – Tafelzeil – 140 × 270 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-270-cm-pvc-afwasbaar/9300000177253110/",
+          "productID": "9300000177253110",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKY99zEXGXLg/KOlBYx8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9505453874358",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253111",
+          "name": "Raved – Tafelzeil – 140 × 290 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-290-cm-pvc-afwasbaar/9300000177253111/",
+          "productID": "9300000177253111",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/1Lw77PVAnPy0/GZNxYq5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9508699324786",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253112",
+          "name": "Raved – Tafelzeil – 140 × 260 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-260-cm-pvc-afwasbaar/9300000177253112/",
+          "productID": "9300000177253112",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BBDMKXKkL/NxojEA8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 20 cm",
+          "gtin13": "9509137796981",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "20",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253113",
+          "name": "Raved – Tafelzeil – 140 × 140 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-140-cm-pvc-afwasbaar/9300000177253113/",
+          "productID": "9300000177253113",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BBDLlVA3q/BgGp80o/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9508959452822",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000177253114",
+          "name": "Raved – Tafelzeil – 140 × 200 cm – Gekleurde ruitjes – PVC – Afwasbaar – binnen/buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-gekleurde-ruitjes-140-cm-x-200-cm-pvc-afwasbaar/9300000177253114/",
+          "productID": "9300000177253114",
+          "description": "<p>Bescherm je tafel in stijl met het <strong>duurzame PVC-tafelzeil van Raved</strong> uitgevoerd in een vrolijk <strong>gekleurde ruitjes-print</strong>. Dankzij de <strong>afwasbare afwerking</strong> is het perfect voor drukke gezinnen of gezellige buitenmaaltijden — direct klaar voor je volgende samenkomst!</p> <p>**Ontdek het veelzijdige en stijlvolle <strong>Raved tafelzeil in dé combinatie van <strong>functionaliteit</strong>, <strong>sfeer</strong> en gemak voor jouw eetplek.</strong></p> <h3>Bescherming en gemak in één</h3> <p>Met dit <strong>PVC-tafelzeil</strong> ben je verzekerd van een stevige, afwasbare laag die je tafel effectief beschermt tegen <strong>vlekken, krassen en vloeistoffen</strong>. Ideaal voor dagelijks gebruik met kinderen of huisdieren, maar ook voor buiten op het terras: geen zorgen meer over knoeien of regenplasjes.</p> <h3>Een vrolijk design dat uitnodigt</h3> <p>Het patroon met <strong>gekleurde ruitjes</strong> geeft direct een gezellige, warme uitstraling aan je tafel — of je nu binnen een familiediner hebt of ’s zomers een barbecue organiseert. Het ontwerp is tijdloos maar toch speels: perfect als blikvanger zonder dat het overheersend wordt.</p> <h3>Geschikt voor binnen én buiten</h3> <p>Dankzij het duurzame materiaal is het tafelzeil geschikt voor zowel binnengebruik in de keuken of eetkamer, als buiten op balkon, terras of veranda. Je kiest voor comfort en rust: lekker samen aan tafel zonder stil te staan bij beschadigingen.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p><strong>Materiaal</strong>: PVC — waterafstotend, snel schoon te maken.</p> </li> <li> <p><strong>Print/kleur</strong>: Gekleurde ruitjes — vrolijk, huiselijk, en passend in veel interieurstijlen.</p> </li> <li> <p>Onderhoud: eenvoudig schoon te vegen met een vochtige doek — geen dure reinigingsmiddelen nodig.</p> </li> <li> <p>Gebruik: geschikt voor dagelijks gebruik binnen en buiten.</p> </li> </ul> <h3>Waarom deze keuze maken?</h3> <p>Door dit tafelzeil kies je voor een doordachte investering: een prachtig accessoire op tafel <strong>én</strong> bescherming voor je meubel. Je voorkomt frustraties over vlekken of slijtage én creëert direct een uitnodigende sfeer. En als je onverwacht bezoek hebt of snel wilt omschakelen van binnen- naar buitengebruik — dit zeil staat paraat.</p> <h3>Actiegerichte tip</h3> <p>Wacht niet tot je tafel beschadigd is of knoei­problemen hebt: kies nu voor direct gemak en stijl. Transformeer je eetplek vandaag nog met het <strong>Raved tafelzeil – PVC afwasbaar – gekleurde ruitjes</strong> en ervaar elke keer weer de combinatie van comfort en sfeer. <strong>Bestel direct</strong> en geniet van je tafel zonder zorgen!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6BBD8qB8PV/MjngEz1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9509513465425",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.40",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/1Lw77PVAnPy0/GZNxYq5/550x550.jpg",
+    "https://media.s-bol.com/j1RJJNArW1Zy/GZNxYq5/550x550.jpg",
+    "https://media.s-bol.com/2MkJJQGZl5gj/GZNxYq5/550x471.jpg",
+    "https://media.s-bol.com/NBG1OE183m5m/mZq4oMr/550x550.jpg",
+    "https://media.s-bol.com/VjWZv5Z0mQn1/mZq4oMr/550x488.jpg",
+    "https://media.s-bol.com/RN6BBD8qBw5z/GZNxYq5/550x550.jpg",
+    "https://media.s-bol.com/Z16XXNZQooxQ/GZNxYq5/550x550.jpg",
+    "https://media.s-bol.com/xgkjjw8zvgN9/GZNxYq5/550x178.jpg"
+  ]
+}

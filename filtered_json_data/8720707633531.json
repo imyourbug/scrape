@@ -1,0 +1,51 @@
+{
+  "ean": "8720707633531",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000130596360",
+      "name": "Raved Rond Tafelzeil - 160 cm ø Bloemen Design - Paardenbloem - Grijs - PVC - Afwasbaar",
+      "productID": "9300000130596360",
+      "description": "<p>Geef je tafel direct een <strong>verrassende bloemenlook</strong> én een slimme bescherming met dit <strong>afwasbare PVC-tafelzeil</strong>. Het ronde formaat en frisse grijze paardenbloemprint zijn perfect voor binnen en buiten — stijlvol, praktisch en onderhoudsvriendelijk.</p> <p>Geef je tafel een frisse uitstraling en bescherm ‘m tegelijkertijd tegen knoeien, kringen en kleurverschil met dit <strong>rond tafelzeil Ø160 cm</strong> van Raved. Dankzij het <strong>primair zoekwoord “tafelzeil”</strong> in deze tekst is je pagina direct geoptimaliseerd voor mensen die een praktisch én stijlvol tafelkleed zoeken.</p> <h3>Sfeervolle look met bloemenmotief</h3> <p>Het bloemen-design met paardenbloemen op een subtiele grijze achtergrond geeft je eettafel of tuintafel een zachte, natuurlijke uitstraling. Of je nu een gezellig diner hebt, een knutselmiddag met de kinderen of gewoon wilt genieten van z’n tweeën — dit tafelzeil maakt het plaatje compleet.</p> <h3>Duurzaam materiaal & slimme bescherming</h3> <p>Gemaakt van hoogwaardig <strong>PVC</strong>, is dit tafelzeil bestand tegen dagelijk gebruik. Het stevige, afwasbare oppervlak is ideaal voor gezinnen met kinderen of voor buitengebruik. Het beschermt je tafel effectief tegen gemorste drankjes, etensresten, potlood- of knutselschade — zo kun je relaxed aan tafel zitten.</p> <h3>Passend voor ronde tafels</h3> <p>Met een diameter van Ø160 cm is dit ronde tafelzeil perfect afgestemd op ronder tafels: het valt mooi over de rand heen voor een verzorgde uitstraling. Ideaal voor in de keuken, eetkamer of op het terras.</p> <h3>Binnen én buiten te gebruiken</h3> <p>Of de setting nu binnen is of buiten op het balkon of terras: dit tafelzeil past zich moeiteloos aan. Let er wel op dat bij regen of felle zon het zeil naar binnen wordt gehaald om verkleuring of verwering te voorkomen. </p> <h3>Onderhoud in een handomdraai</h3> <p>Het afwasbare oppervlak maakt schoonmaken snel en simpel: veeg af met een vochtige doek — geen gedoe met wassen of strijken. Vermijd contact met intense hitte (zoals hete pannen direct op het zeil) of scherpe voorwerpen — zo verleng je de levensduur aanzienlijk. </p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Sfeervol design</strong>: bloemenprint brengt direct sfeer.</p> </li> <li> <p><strong>Beschermt je tafel</strong>: minder zorgen over vlekken of beschadigingen.</p> </li> <li> <p><strong>Onderhoudsvriendelijk & afwasbaar</strong>: ideaal voor kinderen of buitengebruik.</p> </li> <li> <p><strong>Merk kwaliteit</strong>: Raved staat voor betrouwbare tafelkleden en tafelzeilen die zorgvuldig geselecteerd zijn. </p> </li> </ul> <p>Maak dus vandaag nog een stijlvolle én verstandige keuze — kies voor dit ronde tafelzeil van Raved en geniet elke dag van een verzorgde tafel zonder stress. Voeg ‘m direct toe aan je winkelwagen en begin met ontspannen aan tafel!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/g0J6kVk8yQvZ/nZWl84Y/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "160 cm x 160 cm",
+      "gtin13": "8720707633531",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "160",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.00",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/g0J6kVk8yQvZ/nZWl84Y/550x550.jpg"
+  ]
+}

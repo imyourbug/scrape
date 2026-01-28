@@ -1,0 +1,951 @@
+{
+  "ean": "9502553786437",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000145692848",
+      "name": "Raved Tafelzeil - Paardenbloem 140 140 - PVC - Afwasbaar",
+      "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/JB6KqY54VAzJ/y8W5kvP/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000145692848",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416753",
+          "name": "Raved Tafelzeil - 140 cm x 270 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-270-cm-groen-pvc-afwasbaar/9300000091416753/",
+          "productID": "9300000091416753",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6KqY54VKPo/DRKrEVq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9509532874550",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416756",
+          "name": "Raved Tafelzeil - 140 cm x 310 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-310-cm-groen-pvc-afwasbaar/9300000091416756/",
+          "productID": "9300000091416756",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JDLx3wV8wG/lOWL6gr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9507485625656",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416757",
+          "name": "Raved Tafelzeil - 140 cm x 180 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-180-cm-groen-pvc-afwasbaar/9300000091416757/",
+          "productID": "9300000091416757",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBXL84ww6kk/mwW6Xjr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9504171735613",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416759",
+          "name": "Raved Tafelzeil - 140 cm x 300 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-300-cm-groen-pvc-afwasbaar/9300000091416759/",
+          "productID": "9300000091416759",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBXL84VKpOk/ElLvQV0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9508135697856",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416761",
+          "name": "Raved Tafelzeil - 140 cm x 260 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-260-cm-groen-pvc-afwasbaar/9300000091416761/",
+          "productID": "9300000091416761",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ApDXPQVywWRj/BgGpEYN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9509223567655",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416762",
+          "name": "Raved Tafelzeil - 140 cm x 320 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-320-cm-groen-pvc-afwasbaar/9300000091416762/",
+          "productID": "9300000091416762",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/zkp4KBZWWXLZ/k5WKMLE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9502598369343",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416764",
+          "name": "Raved Tafelzeil - 140 cm x 200 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-200-cm-groen-pvc-afwasbaar/9300000091416764/",
+          "productID": "9300000091416764",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xpYV3qpZn0/g5WKXE3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9501549567432",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416766",
+          "name": "Raved Tafelzeil - 140 cm x 160 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-160-cm-groen-pvc-afwasbaar/9300000091416766/",
+          "productID": "9300000091416766",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/PLNKZMvNrNW6/AnEoOYP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9509245751490",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416767",
+          "name": "Raved Tafelzeil - 140 cm x 280 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-280-cm-groen-pvc-afwasbaar/9300000091416767/",
+          "productID": "9300000091416767",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkK9E4lZK8z/j2WMJKl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9505169289170",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416769",
+          "name": "Raved Tafelzeil - 140 cm x 350 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-350-cm-groen-pvc-afwasbaar/9300000091416769/",
+          "productID": "9300000091416769",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPAr63R07qR/vg65JvX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9504665786473",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416770",
+          "name": "Raved Tafelzeil - 140 cm x 240 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-240-cm-groen-pvc-afwasbaar/9300000091416770/",
+          "productID": "9300000091416770",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkK9Eq1z9np/pgWKVmN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9503862343588",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416772",
+          "name": "Raved Tafelzeil - 140 cm x 100 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-100-cm-groen-pvc-afwasbaar/9300000091416772/",
+          "productID": "9300000091416772",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1r2jAL9MkO/oYWKJl3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9502264541622",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416774",
+          "name": "Raved Tafelzeil - 140 cm x 230 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-230-cm-groen-pvc-afwasbaar/9300000091416774/",
+          "productID": "9300000091416774",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/PLNKZMvJBZpW/nZWXJkE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9505781134186",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416776",
+          "name": "Raved Tafelzeil - 140 cm x 140 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-140-cm-groen-pvc-afwasbaar/9300000091416776/",
+          "productID": "9300000091416776",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3yLnP3KgAy/wj65gwM/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9508539959383",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416779",
+          "name": "Raved Tafelzeil - 140 cm x 250 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-250-cm-groen-pvc-afwasbaar/9300000091416779/",
+          "productID": "9300000091416779",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/EwRX9Z4zzqwk/xGW5jrq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9509181194184",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000091416780",
+          "name": "Raved Tafelzeil - 140 cm x 220 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-220-cm-groen-pvc-afwasbaar/9300000091416780/",
+          "productID": "9300000091416780",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/MG8KQE4MQl4O/qjW58nG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9507513791162",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124905017",
+          "name": "Raved Tafelzeil - 140 cm x 50 cm - Paardenbloem - Groen PVC Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-paardenbloem-140-cm-x-50-cm-groen-pvc-afwasbaar/9300000124905017/",
+          "productID": "9300000124905017",
+          "description": "<p>Breng direct sfeer aan je tafel met het <strong>stijlvolle groene paardenbloem-motief</strong> van dit <strong>afwasbare PVC tafelzeil</strong>, dat jouw tafel optimaal <strong>beschermt tegen knoeien en vlekken</strong> – ideaal voor dagelijks gebruik binnen én buiten.</p> <p>Ontdek het veelzijdige <strong>tafelzeil van het merk Raved</strong> met een fris motief van groene paardenbloemen – een slimme combinatie van stijl én functionaliteit. Dit <strong>tafelzeil (het primair zoekwoord)</strong> is vervaardigd uit hoogwaardig <strong>PVC-materiaal</strong>, wat betekent dat uw tafel direct wordt beschermd tegen vlekken, krassen, vocht en knoeien – zonder in te boeten op uitstraling.</p> <h3>Bescherming voor iedere tafel</h3> <p>Of het nu gaat om een gezinsdiner, borrel op het terras of knutselmoment met de kinderen: dit tafelzeil biedt betrouwbare bescherming. De gladde bovenlaag is eenvoudig schoon te maken met een vochtig doekje, waardoor u kostbare tijd bespaart en uw tafel er netjes blijft uitzien. Volgens specialisten heeft PVC-tafelzeil als groot voordeel dat het “makkelijk schoon te vegen” is dankzij het gladde oppervlak. </p> <h3>Sfeervol design</h3> <p>Het motief met paardenbloemen in een groene tint brengt een natuurlijke en frisse sfeer in huis of buitenomgeving. Dankzij het subtiele patroon oogt het tafelzeil niet alleen praktisch maar ook decoratief – een perfecte match voor wie leeft in een interieur waar stijl telt.</p> <h3>Materiaal & onderhoud</h3> <p>Het materiaal is <strong>PVC</strong>, wat zorgt voor een water- en vlekbestendige bovenlaag. Het tafelzeil is geschikt voor gebruik <strong>binnen en buiten</strong>, waardoor u flexibel bent in de toepassing. Houd er wel rekening mee dat bepaalde intensieve kleurstoffen (zoals tomatensaus of kerrie) na verloop van tijd kunnen intrekken in PVC-materialen. Voor optimaal onderhoud: veeg vlekken direct weg en vermijd langdurige blootstelling aan direct zonlicht.</p> <h3>Waarom kiezen voor dit tafelzeil</h3> <ul> <li> <p><strong>Afwasbaar en onderhoudsvriendelijk</strong>: een vochtig doekje is voldoende.</p> </li> <li> <p><strong>Stijlvol motief en kleur</strong>: de paardenbloemprint en groene tint geven sfeer.</p> </li> <li> <p><strong>Veelzijdig inzetbaar</strong>: geschikt voor voorgaande tafelmomenten én buitengebruik.</p> </li> <li> <p><strong>Bescherming voor uw tafel</strong>: voorkomt schade, vlekken en slijtage – hierdoor behoudt uw meubel zijn waarde.</p> </li> </ul> <h3>Maak het compleet</h3> <p>Kies de juiste maat voor uw tafel (breedte × lengte) en knip of werk afhangende delen netjes bij. Zet misschien een schaal of plant in het midden om het design extra te accentueren. Zo combineert u gemak met stijl.</p> <p><strong>Wacht niet langer</strong>: geef uw tafel direct de bescherming én uitstraling die het verdient. Voeg dit Raved tafelzeil toe aan uw winkelmand en ervaar het gemak én de sfeer – uw tafel zal er meteen verzorgd uitzien.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6KqY54VAzJ/y8W5kvP/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9502553786437",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.5,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 2
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "17"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/JB6KqY54VAzJ/y8W5kvP/550x550.jpg",
+    "https://media.s-bol.com/yjPAr6YVVXKE/y8W5kvP/550x486.jpg",
+    "https://media.s-bol.com/3N1r2j5pE2pA/y8W5kvP/550x550.jpg",
+    "https://media.s-bol.com/7JjN1WJDz9Ej/X7Dk6m/550x550.jpg",
+    "https://media.s-bol.com/v12xoYAYl04n/y8W5kvP/550x550.jpg",
+    "https://media.s-bol.com/PLNKZM4PZo31/y8W5kvP/550x178.jpg"
+  ]
+}

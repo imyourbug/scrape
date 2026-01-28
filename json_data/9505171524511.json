@@ -1,0 +1,1018 @@
+{
+  "ean": "9505171524511",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000175622777",
+      "name": "Raved Tafelzeil Hortensia 140 140 - Paars - PVC - Afwasbaar",
+      "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/mjZ9Av4PN4YA/jRZw6RY/1200x586.jpg",
+        "width": 1200,
+        "height": 586
+      },
+      "productGroupID": "9300000175622777",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622752",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-280-cm-roze-pvc-afwasbaar/9300000175622752/",
+          "productID": "9300000175622752",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBXoGPwXvw2/j2WMJJ4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Roze",
+          "gtin13": "9505757258649",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622753",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-350-cm-roze-pvc-afwasbaar/9300000175622753/",
+          "productID": "9300000175622753",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JDYW24kJkD/76qzJJB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Roze",
+          "gtin13": "9502712776446",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622754",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-270-cm-roze-pvc-afwasbaar/9300000175622754/",
+          "productID": "9300000175622754",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5Z0RWyXo290/58ox00X/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Roze",
+          "gtin13": "9501836591171",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622755",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-100-cm-roze-pvc-afwasbaar/9300000175622755/",
+          "productID": "9300000175622755",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JDYkJWDDzr/pgWKVVy/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Roze",
+          "gtin13": "9509448362677",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622758",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-50-cm-roze-pvc-afwasbaar/9300000175622758/",
+          "productID": "9300000175622758",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/EwRXOLx031wk/2RlrJJA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Roze",
+          "gtin13": "9508983489764",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622759",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-260-cm-roze-pvc-afwasbaar/9300000175622759/",
+          "productID": "9300000175622759",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPAlWXDpwkg/48nwKKJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Roze",
+          "gtin13": "9507498272953",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622760",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-310-cm-roze-pvc-afwasbaar/9300000175622760/",
+          "productID": "9300000175622760",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPAlW9VAO1W/lOWL661/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Roze",
+          "gtin13": "9506527562157",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622761",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-180-cm-roze-pvc-afwasbaar/9300000175622761/",
+          "productID": "9300000175622761",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6KDkQr2nzv/nZWXJJp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Roze",
+          "gtin13": "9501524224534",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622762",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-140-cm-roze-pvc-afwasbaar/9300000175622762/",
+          "productID": "9300000175622762",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/2Mkq4l7P22mK/8qrAYYr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Roze",
+          "gtin13": "9507778992960",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622763",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-220-cm-roze-pvc-afwasbaar/9300000175622763/",
+          "productID": "9300000175622763",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBXoGPyqLPn/k5WKMMv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Roze",
+          "gtin13": "9503173462930",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622764",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-320-cm-roze-pvc-afwasbaar/9300000175622764/",
+          "productID": "9300000175622764",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RJ6VZWqQWK4L/qx7ELxD/1200x586.jpg",
+            "width": 1200,
+            "height": 586
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Roze",
+          "gtin13": "9501139276232",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622765",
+          "name": "Raved Tafelzeil 140 × 230 cm - Hortensia Roze - PVC - afwasbaar - binnen-buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-230-cm-paars-pvc-afwasbaar/9300000175622765/",
+          "productID": "9300000175622765",
+          "description": "<p>Geef je tafel <strong>stijlvolle bescherming</strong> met dit <strong>afwasbare PVC tafelzeil</strong> van Raved – in een fris <strong>hortensia-bloemenmotief</strong> en geschikt voor <strong>binnen én buitengebruik</strong>, zodat je in een handomdraai een gezellige én handige tafelsetting creëert.</p> <p>Breng elegantie en gemak samen op je eettafel met het <strong>Raved Tafelzeil Hortensia</strong> – het ideale mix van stijl en functionaliteit. Dit stijlvolle tafelzeil is ontworpen met het oog op mensen die genieten van gezellige diners zonder constant zorgen te maken over vlekken of beschadigingen. Het premium <strong>PVC-materiaal</strong> biedt een beschermlaag die moeiteloos vegen en morsen aankan, terwijl het prachtige <strong>hortensia-bloemenmotief</strong> in zachte roze-/paarstinten een frisse, natuurlijk sfeervolle uitstraling geeft.</p> <h3>Bescherming + stijl</h3> <p>Dankzij het robuuste afwasbare PVC is je tafel optimaal beschermd – tegen vocht, krassen en dagelijkse gebruikssporen. Daardoor hoef je je geen zorgen te maken over kwetsbare tafellak of fouten tijdens het eten met kinderen of vrienden. Tegelijkertijd voegt het bloemenpatroon een subtiel decoratief element toe: je tafel ziet er direct uitnodigend uit, of je nu binnen eet of buiten op het terras zit.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu een gezellige familiedag organiseert of een zomerse barbecue op het terras hebt gepland: het tafelzeil is geschikt voor beide situaties. Het is eenvoudig af te nemen, snel weer klaar voor gebruik en draagt bij aan een ontspannen sfeer – zonder het gevoel van een “plastic” afdekking. De combinatie van bruikbaarheid en esthetiek maakt het ideaal voor de moderne huishouden.</p> <h3>Specificaties & gebruik</h3> <ul> <li> <p>Materiaal: hoogwaardig <strong>PVC</strong>, water- en vuilafstotend</p> </li> <li> <p>Design: <strong>hortensia-bloemenprint</strong> in roze/paars tinten</p> </li> <li> <p>Geschikt voor: binnen- en buitengebruik</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met een vochtige doek, geen ingewikkeld wasprogramma</p> </li> <li> <p>Extra: beschermt tegen krassen & vlekken – dus minder stress bij gasten of kinderen</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel mensen onderschatten hoe vervelend het is als een mooie tafel beschadigd of vuil wordt. Door te kiezen voor dit tafelzeil voorkom je dat <strong>“straks mijn tafel er weer uitziet”</strong>-gevoel. Je investeert in gemoedsrust én stijl. Gebruik ‐ klanten geven aan dat hun tafel direct een upgrade krijgt, terwijl opruimen makkelijker wordt.</p> <h3>Call-to-action</h3> <p>Wacht niet tot je tafel weer beschadigd is of je weer staat te schrobben – bestel vandaag nog het <strong>Raved Tafelzeil Hortensia</strong>, en transformeer jouw eetruimte in één simpele stap: mooi, beschermd en klaar voor elk moment. Klik op ‘In winkelwagen’ en geniet binnenkort van een tafelsetting die zowel praktisch als prachtig is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mjZ9Av3q5Pqn/OYMv6YB/1200x586.jpg",
+            "width": 1200,
+            "height": 586
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Paars",
+          "gtin13": "9506278236680",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622766",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-300-cm-roze-pvc-afwasbaar/9300000175622766/",
+          "productID": "9300000175622766",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mjZ9Av4PN4YA/jRZw6RY/1200x586.jpg",
+            "width": 1200,
+            "height": 586
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Roze",
+          "gtin13": "9505171524511",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622767",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-290-cm-roze-pvc-afwasbaar/9300000175622767/",
+          "productID": "9300000175622767",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6KYvPyLo1q/0gjp33N/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Roze",
+          "gtin13": "9505762649227",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622768",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-240-cm-roze-pvc-afwasbaar/9300000175622768/",
+          "productID": "9300000175622768",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3y8qXr64RO/66pyVVN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Roze",
+          "gtin13": "9502821882731",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622769",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-250-cm-roze-pvc-afwasbaar/9300000175622769/",
+          "productID": "9300000175622769",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/EwRXOLxjpjE4/98vBXXz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Roze",
+          "gtin13": "9504119559134",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622770",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Hortensia Roze – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-200-cm-roze-pvc-afwasbaar/9300000175622770/",
+          "productID": "9300000175622770",
+          "description": "<p>Transformeer je eetruimte direct met dit <strong>stijlvolle en functionele tafelzeil</strong>. Het <strong>duurzame PVC-materiaal</strong> en de <strong>levendige hortensia-print in roze</strong> zorgen voor sfeer, terwijl het zeil moeiteloos jouw tafel beschermt en schoon te maken is dankzij de <strong>afwasbare afwerking</strong>.</p> <p>Breng een frisse, stijlvolle look naar je tafel met het <strong>primair zoekwoord: tafelzeil</strong>. Het <strong>Raved Tafelzeil Hortensia</strong> in <strong>materiaal PVC</strong>, uitgevoerd in <strong>kleur Roze</strong> met een levendig hortensia-dessin, combineert elegantie en praktisch gemak op uitstekende wijze.</p> <h3>Elegantie en bescherming</h3> <p>Je tafel is een plek waar geleefd, gelachen en gedeeld wordt. Met dit tafelzeil kies je niet alleen voor een decoratieve upgrade, maar ook voor bewuste bescherming. Het stevige hoogwaardig PVC-materiaal biedt een duurzame barrière tegen morsen, krassen en vlekken — ideaal voor gezinnen, diners met vrienden of een ontspannen moment op het terras. Bol+2meubelo.nl+2</p> <h3>Voor binnen én buiten</h3> <p>Dankzij de multifunctionele toepassing is dit tafelzeil geschikt voor zowel binnen- als buitengebruik. Zet het op de eettafel in de keuken, op de tuintafel tijdens warme dagen of op het balkon voor een gezellige sfeer. Voor het behoud van de levendige kleuren raden wij aan het zeil bij slecht weer of langdurige zonblootstelling naar binnen te halen. Bol</p> <h3>Gebruiksgemak & onderhoud</h3> <p>Het afwasbare oppervlak maakt schoonmaken een kwestie van seconden: een vochtige doek volstaat om vlekken te verwijderen. Geen worsteling meer met hardnekkige resten of ingewikkeld onderhoud, gewoon direct weer klaar voor de volgende maaltijd. meubelo.nl+1</p> <h3>Stijlvol dessin & sfeer</h3> <p>De print met hortensia’s in zachte roze/paars tinten brengt een subtiele bloemrijke sfeer in je woonruimte. Het perfecte middelpunt van jouw tafelsetting dat opvalt zonder te overheersen — en dat bij verschillende interieurstijlen past, van landelijk tot modern.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Materiaal: PVC</p> </li> <li> <p>Kleur: Roze (Hortensia-dessin)</p> </li> <li> <p>Maat: 140 cm x 240 cm</p> </li> <li> <p>Afwasbaar: Ja</p> </li> <li> <p>Geschikt voor binnen & buiten: Ja</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Omdat je tafel méér verdient dan alleen functioneel te zijn. Je wilt een plek creëren waar je echt ontspannen kunt zitten, waar je trots op bent en die klaar is voor het leven — zonder dat je je zorgen maakt over gemorste drankjes of krassen. Het is de slimme investering voor mensen die stijl én gemak waarderen.</p> <h3>Call-to-action</h3> <p>Wacht niet langer en geef je tafel de upgrade die hij verdient. Klik op “In winkelwagen” en ervaar direct het verschil — jouw nieuwe favoriete tafelsetting wacht op je!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3y8qXY2GxA/oYWKJJL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Roze",
+          "gtin13": "9503759796589",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000175622792",
+          "name": "Raved Tafelzeil 140 × 160 cm - Hortensia Roze - PVC - afwasbaar - binnen-buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-hortensia-140-cm-x-160-cm-roze-pvc-afwasbaar/9300000175622792/",
+          "productID": "9300000175622792",
+          "description": "<p>Geef je tafel <strong>stijlvolle bescherming</strong> met dit <strong>afwasbare PVC tafelzeil</strong> van Raved – in een fris <strong>hortensia-bloemenmotief</strong> en geschikt voor <strong>binnen én buitengebruik</strong>, zodat je in een handomdraai een gezellige én handige tafelsetting creëert.</p> <p>Breng elegantie en gemak samen op je eettafel met het <strong>Raved Tafelzeil Hortensia</strong> – het ideale mix van stijl en functionaliteit. Dit stijlvolle tafelzeil is ontworpen met het oog op mensen die genieten van gezellige diners zonder constant zorgen te maken over vlekken of beschadigingen. Het premium <strong>PVC-materiaal</strong> biedt een beschermlaag die moeiteloos vegen en morsen aankan, terwijl het prachtige <strong>hortensia-bloemenmotief</strong> in zachte roze-/paarstinten een frisse, natuurlijk sfeervolle uitstraling geeft.</p> <h3>Bescherming + stijl</h3> <p>Dankzij het robuuste afwasbare PVC is je tafel optimaal beschermd – tegen vocht, krassen en dagelijkse gebruikssporen. Daardoor hoef je je geen zorgen te maken over kwetsbare tafellak of fouten tijdens het eten met kinderen of vrienden. Tegelijkertijd voegt het bloemenpatroon een subtiel decoratief element toe: je tafel ziet er direct uitnodigend uit, of je nu binnen eet of buiten op het terras zit.</p> <h3>Voor binnen én buiten</h3> <p>Of je nu een gezellige familiedag organiseert of een zomerse barbecue op het terras hebt gepland: het tafelzeil is geschikt voor beide situaties. Het is eenvoudig af te nemen, snel weer klaar voor gebruik en draagt bij aan een ontspannen sfeer – zonder het gevoel van een “plastic” afdekking. De combinatie van bruikbaarheid en esthetiek maakt het ideaal voor de moderne huishouden.</p> <h3>Specificaties & gebruik</h3> <ul> <li> <p>Materiaal: hoogwaardig <strong>PVC</strong>, water- en vuilafstotend</p> </li> <li> <p>Design: <strong>hortensia-bloemenprint</strong> in roze/paars tinten</p> </li> <li> <p>Geschikt voor: binnen- en buitengebruik</p> </li> <li> <p>Onderhoud: eenvoudig afnemen met een vochtige doek, geen ingewikkeld wasprogramma</p> </li> <li> <p>Extra: beschermt tegen krassen & vlekken – dus minder stress bij gasten of kinderen</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel mensen onderschatten hoe vervelend het is als een mooie tafel beschadigd of vuil wordt. Door te kiezen voor dit tafelzeil voorkom je dat <strong>“straks mijn tafel er weer uitziet”</strong>-gevoel. Je investeert in gemoedsrust én stijl. Gebruik ‐ klanten geven aan dat hun tafel direct een upgrade krijgt, terwijl opruimen makkelijker wordt.</p> <h3>Call-to-action</h3> <p>Wacht niet tot je tafel weer beschadigd is of je weer staat te schrobben – bestel vandaag nog het <strong>Raved Tafelzeil Hortensia</strong>, en transformeer jouw eetruimte in één simpele stap: mooi, beschermd en klaar voor elk moment. Klik op ‘In winkelwagen’ en geniet binnenkort van een tafelsetting die zowel praktisch als prachtig is.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gEJ9rm3Yp7qr/QWnxgWM/1200x586.jpg",
+            "width": 1200,
+            "height": 586
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Paars",
+          "gtin13": "9508493245232",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/mjZ9Av4PN4YA/jRZw6RY/550x268.jpg",
+    "https://media.s-bol.com/G06XnNMBXABr/g5WKXXj/550x550.jpg",
+    "https://media.s-bol.com/jKR9xp4kvM4z/jRZw6RY/550x467.jpg",
+    "https://media.s-bol.com/NJkKDoYoxzw6/g5WKXXj/550x483.jpg",
+    "https://media.s-bol.com/RJ6VR3GBz0x0/jRZw6RY/550x500.jpg",
+    "https://media.s-bol.com/8N2DkQLxox4m/jRZw6RY/550x488.jpg",
+    "https://media.s-bol.com/703BjPK71AAG/jRZw6RY/550x550.jpg",
+    "https://media.s-bol.com/3N1rRmwO3P6Q/g5WKXXj/550x550.jpg",
+    "https://media.s-bol.com/BqBXoG6P3OqJ/g5WKXXj/550x550.jpg",
+    "https://media.s-bol.com/1Lwp1kGOEElR/g5WKXXj/550x178.jpg",
+    "https://media.s-bol.com/BqBXoG65JlNW/g5WKXXj/550x550.jpg"
+  ]
+}

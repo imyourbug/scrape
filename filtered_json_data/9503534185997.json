@@ -1,0 +1,51 @@
+{
+  "ean": "9503534185997",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000124782291",
+      "name": "Raved Tafelzeil 140×50 cm – Delfts Tegels – Beige/Blauw – PVC – Afwasbaar",
+      "productID": "9300000124782291",
+      "description": "<p>Breng direct sfeer aan tafel met dit <strong>stijlvolle en praktisch afneembare</strong> tafelzeil van met authentiek <strong>Delfts Tegels-motief</strong>. Dankzij het <strong>hoogwaardige PVC-materiaal</strong> en de <strong>afwasbare kwaliteit</strong> is jouw tafel beschermd én mooi, zowel binnen als buiten.</p> <p>Maak van iedere maaltijd of bijeenkomst een moment om naar uit te kijken met het <strong>premium tafelzeil</strong> van Raved met <strong>Delfts Tegels-design</strong>. Dit tafelzeil combineert <strong>stijlvol Hollands motief</strong>, functioneel materiaalgebruik en slimme onderhoudsvriendelijkheid – precies wat je zoekt wanneer je tafel er zowel mooi uit moet zien als praktisch in gebruik moet zijn.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Met het <strong>primair zoekwoord “tafelzeil”</strong> in gedachten: dit model is ideaal voor wie een tafel al voldoende aandacht geeft en zoekt naar een oplossing voor knoeien, hitteplekken of verkleuring. Het klassieke <strong>Delfts Tegels-patroon</strong> in beige/­blauw voegt direct landelijke charme toe aan je eetkamer, serre of buitenruimte. Omdat het van <strong>materiaal PVC</strong> is gemaakt, zit je nooit met stof of vervelende stof‐nesten: vlekken neem je eenvoudig af met een vochtige doek – geen gedoe meer met grote wasbeurten of vervangingen.</p> <h3>Specificaties & toepassingen</h3> <ul> <li> <p><strong>Materiaal</strong>: sterk PVC – waterafstotend en bestand tegen knoeien, kringen en algemene slijtage.</p> </li> <li> <p><strong>Kleur/Design</strong>: beige basis met blauw Delfts Tegels-motief – passend bij zowel een landelijk interieur als een frisse buitenlook.</p> </li> <li> <p><strong>Gebruik</strong>: voor binnen en buiten – let op: bij regen of langdurig buitengebruik liever binnen opbergen om verkleuring of slijtage te voorkomen. </p> </li> <li> <p><strong>Onderhoud</strong>: eenvoudig afnemen i.p.v. wassen – zo blijft je tafel altijd uitnodigend en netjes.</p> </li> </ul> <h3>Voordelen voor jou</h3> <ul> <li> <p>Beschermt je tafel tegen hitte, vocht en kringen – zodat je je tafel behoudt in nieuwstaat.</p> </li> <li> <p>Creëert direct een sfeervol tafelbeeld – je hoeft nauwelijks extra styling toe te voegen.</p> </li> <li> <p>Gemakkelijk in gebruik – ideaal voor gezinnen, buitengebruik of als je weinig tijd hebt voor onderhoud.</p> </li> <li> <p>Duurzaam en stijlvol – het ontwerp is tijdloos genoeg om seizoen na seizoen te blijven passen.</p> </li> </ul> <h3>Verlies-aversie & sociale bewijskracht</h3> <p>Stel je voor: je kinderen spelen aan tafel, gasten schuiven aan … en binnen een minuut is er geknoeid. Met dit tafelzeil hoef jij je geen zorgen te maken. Twee tevreden klanten geven een gemiddelde score van 5,0 sterren – “Mooi design, soepel materiaal” en “Heel mooi tafelkleed en een fantastische service”. <br />Waarom wachten tot je tafel beschadigd is?</p> <h3>Call-to-action</h3> <p>Maak indruk én werk efficiënt: kies voor dit <strong>Raved tafelzeil met Delfts Tegels-print</strong> en geef je tafel direct de bescherming én uitstraling die het verdient. Voeg ‘m vandaag nog toe aan je winkelwagen – jouw tafel zal je dankbaar zijn!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/o12JKkn075Z3/WnAvWox/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 50 cm",
+      "gtin13": "9503534185997",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "50",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "2",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/o12JKkn075Z3/WnAvWox/550x550.jpg"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ean": "9507244955659",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000176743566",
+      "name": "Raved - Rond Tafelzeil Ø 140 cm - Zonnebloem Geel - PVC - Afwasbaar",
+      "productID": "9300000176743566",
+      "description": "<p>Geef je tafel een <strong>vrolijke zomerse uitstraling</strong> met dit ronde tafelzeil van <strong>140 cm met zonnebloemprint</strong>. Gemaakt van stevig <strong>PVC</strong> en <strong>afwasbaar</strong>, zodat je tafel altijd beschermd én in een oogwenk schoon is.</p> <p>Breng direct een vleugje zon in huis of tuin met het <strong>Raved rond tafelzeil 140 cm zonnebloem geel</strong>. Dit vrolijke tafelzeil combineert een sfeervol design met praktisch gebruiksgemak. Dankzij de zonnige <strong>zonnebloemprint</strong> geniet je elke dag van een gezellige, warme uitstraling tijdens ontbijt, lunch of diner.</p> <h3>Altijd een schone en beschermde tafel</h3> <p>Dit <strong>rond tafelzeil van 140 cm</strong> is gemaakt van stevig <strong>PVC</strong>. Daardoor is het <strong>afwasbaar</strong> en eenvoudig schoon te maken met een vochtige doek. Geen zorgen meer over vlekken, kringen of gemorste drankjes – je tafel blijft altijd goed beschermd. Ook voor gezinnen met kinderen of huisdieren is dit ideaal: morsen is geen probleem.</p> <h3>Veelzijdig voor binnen én buiten</h3> <p>Gebruik het tafelzeil in de keuken, eetkamer of op het terras. Het materiaal is duurzaam en bestand tegen intensief gebruik, zodat je er lang plezier van hebt. Met een doorsnede van <strong>Ø140 cm</strong> past het perfect op ronde tafels, of het nu gaat om een kleine eettafel of een tuintafel tijdens zomerse barbecue-avonden.</p> <h3>Sfeervol én praktisch</h3> <p>Waar veel tafelzeilen saai of functioneel ogen, biedt dit <strong>geel zonnebloem tafelkleed</strong> juist sfeer. De print straalt positiviteit uit en maakt elke maaltijd een feestje. Combineer de gezellige uitstraling met het praktische voordeel van onderhoudsvriendelijkheid en je hebt een product dat zowel emotie als logica aanspreekt.</p> <h3>Belangrijkste voordelen:</h3> <ul> <li> <p><strong>Rond tafelzeil Ø140 cm</strong> – ideaal voor standaard ronde tafels</p> </li> <li> <p><strong>PVC materiaal</strong> – stevig, duurzaam en slijtvast</p> </li> <li> <p><strong>Afwasbaar</strong> – eenvoudig schoonmaken met een doek</p> </li> <li> <p><strong>Zonnebloemprint in geel</strong> – vrolijk en sfeervol design</p> </li> <li> <p>Geschikt voor <strong>binnen en buiten</strong> gebruik</p> </li> </ul> <p>Gun jezelf een zorgeloze en gezellige tafelervaring. Kies voor het <strong>Raved rond tafelzeil zonnebloem geel 140 cm</strong>, geniet van praktische bescherming en een zonnige uitstraling, en maak van elke maaltijd een sfeermoment.</p> <p><strong>Bestel vandaag nog en ervaar hoe eenvoudig stijl en gemak samen kunnen gaan!</strong></p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/o1YmqkYPqMNB/O7pvmEB/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Geel",
+      "gtin13": "9507244955659",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.00",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/o1YmqkYPqMNB/O7pvmEB/550x550.jpg",
+    "https://media.s-bol.com/m5wkogwPoKL9/O7pvmEB/550x495.jpg",
+    "https://media.s-bol.com/r10pwn06wLL6/O7pvmEB/550x550.jpg",
+    "https://media.s-bol.com/w1jxBvjlBQQw/O7pvmEB/550x550.jpg",
+    "https://media.s-bol.com/v1gwArgkAPPr/O7pvmEB/550x550.jpg",
+    "https://media.s-bol.com/q1jovmj9vKKr/O7pvmEB/550x550.jpg",
+    "https://media.s-bol.com/n1ZlpjZPpLMW/O7pvmEB/550x178.jpg"
+  ]
+}

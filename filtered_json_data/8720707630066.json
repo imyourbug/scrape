@@ -1,0 +1,93 @@
+{
+  "ean": "8720707630066",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000077021834",
+      "name": "Raved Transparant Tafelzeil 140x110 cm - PVC - Glashelder - Afwasbaar & Beschermend",
+      "productID": "9300000077021834",
+      "description": "<p>Bescherm je tafel tegen krassen en vlekken met dit <strong>transparant tafelzeil van Raved</strong>. Gemaakt van <strong>duurzaam PVC</strong>, eenvoudig <strong>afwasbaar</strong> en ideaal voor dagelijks gebruik. Zo blijft jouw tafel stijlvol zichtbaar én goed beschermd.</p> <p>Met het <strong>Raved transparant tafelzeil</strong> combineer je de praktische voordelen van bescherming met de elegante uitstraling van jouw eigen tafel. Dit <strong>PVC tafelzeil</strong> is speciaal ontworpen om krassen, vocht en vlekken tegen te gaan, zonder dat het tafelblad uit het zicht verdwijnt. Perfect voor wie zijn interieur mooi wil houden, maar toch zorgeloos wil genieten van dagelijks gebruik.</p> <h3>Voordelen van dit transparant tafelzeil</h3> <ul> <li> <p><strong>Transparant ontwerp</strong> – laat de natuurlijke look van jouw tafel zien</p> </li> <li> <p><strong>Afwasbaar PVC</strong> – vlekken verwijder je eenvoudig met een doek</p> </li> <li> <p><strong>Waterafstotend & krasbestendig</strong> – ideale bescherming bij intensief gebruik</p> </li> <li> <p><strong>Veelzijdig</strong> – bruikbaar als <strong>tafelkleed, tafelloper of bescherming</strong> bij knutsel- en eetmomenten</p> </li> </ul> <h3>Praktisch én stijlvol</h3> <p>Veel tafelkleden verbergen het design van je tafel. Met dit <strong>doorzichtig tafelzeil</strong> blijft het originele blad zichtbaar, terwijl je toch profiteert van optimale bescherming. Van houten tafels tot design tafels: het zeil past in elk interieur. Bovendien is het geschikt voor zowel binnen als buiten.</p> <h3>Onderhoudsgemak</h3> <p>Waar stoffen tafelkleden vaak vlekken vasthouden of in de was moeten, veeg je dit <strong>afwasbare PVC tafelzeil</strong> simpelweg schoon met een vochtige doek. Geen gedoe, geen zorgen.</p> <h3>Waarom kiezen voor Raved?</h3> <p>Raved staat bekend om zijn duurzame en gebruiksvriendelijke woonproducten. Dit tafelzeil combineert <strong>kwaliteit en functionaliteit</strong>, zodat je langer plezier hebt van jouw tafel. Met duizenden tevreden gebruikers is het een bewezen oplossing voor elk huishouden.</p> <p>Bescherm je tafel slim en stijlvol – bestel vandaag nog het <strong>Raved transparant tafelzeil</strong> en geniet morgen al van zorgeloos gebruik.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/7xYVjRywGYnQ/DkrKGqB/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 110 cm",
+      "color": "Transparant",
+      "gtin13": "8720707630066",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "110",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "23.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/7xYVjRywGYnQ/DkrKGqB/550x550.jpg"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "ean": "9508268835750",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000137459286",
+      "name": "Raved Tafelzeil 140 cm × 50 cm Patchwork – Bruin – PVC Afwasbaar",
+      "productID": "9300000137459286",
+      "description": "<p>Dit stijlvolle <strong>bruine patchwork-design tafelzeil</strong> van Raved biedt <strong>bescherming tegen knoeien en beschadiging</strong> dankzij de <strong>afwasbare PVC-laag</strong>, en brengt direct een warme sfeer aan je tafel.</p> <p>Je tafel verdient meer dan alleen een kleed: met het <strong>primair zoekwoord</strong> <strong>“tafelzeil”</strong> geef je je interieur stijl én functie. Het Raved Tafelzeil Patchwork in een prachtige <strong>bruine patchwork-print</strong> combineert een warme houtlook met robuuste kwaliteit. Dankzij de <strong>materiaal</strong>keuze — een stevige <strong>PVC</strong>-toplaag — is dit tafelzeil eenvoudig af te nemen met een vochtige doek. Perfect voor gezinnen met kinderen, knutselende kleintjes of tafelmomenten waarop vlekken snel op de loer liggen.</p> <h3>Warm design, slimme bescherming</h3> <p>Het unieke patchwork-design voegt direct karakter toe aan je eetkamer of buitenruimte. De warme bruine kleur zorgt voor een uitnodigende sfeer, terwijl het design geïnspireerd is door houtplanken in bruin/grijs-tinten. Deze combinatie past mooi bij landelijke, moderne of industriële interieurs. Bovendien biedt het zeil meer dan stijl: het beschermt jouw tafel – een investering die zich terugverdient.</p> <h3>Praktisch in gebruik</h3> <p>De PVC-laag zorgt voor een <strong>afwasbare</strong> en onderhoudsvriendelijke afwerking. Je hoeft niet direct het tafelkleed te verwijderen of te wassen; een natte doek is voldoende. Het voorkomt vlekken door etensresten of kunstgrepen – ideaal bij dagelijks gebruik of wanneer je gasten ontvangt. Tevens is het geschikt voor zowel binnen als buiten; haal het enkel bij regen weer binnen om verkleuring te voorkomen. </p> <h3>Specifieke details & maat</h3> <p>De maat van dit model is, ideaal voor veel standaard rechthoekige tafels (bijvoorbeeld 4–6 personen). Dankzij de non-woven vlies-polyester onderlaag blijft je tafel beschermd tegen krassen en drukplekken. Deze dubbele laag maakt het zeil stevig zonder stijf te zijn. </p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Bescherming tegen knoeien en slijtage</strong> — voorkom dure tafelreparaties of vervangingen.</p> </li> <li> <p><strong>Design dat zichtbaar is</strong> — geen standaard effen zeil, maar stijlvol patchwork dat direct opvalt.</p> </li> <li> <p><strong>Gebruiksgemak</strong> — afwisbaar, weinig onderhoud.</p> </li> <li> <p><strong>Veelzijdigheid</strong> — geschikt voor binnen én buitentafels (let op weersinvloed).</p> </li> </ul> <h3>Call-to-action</h3> <p>Wacht niet langer met het upgraden van je tafelbeleving: kies voor het Raved Tafelzeil Patchwork en combineer stijl met slimme bescherming. Klik op ‘In winkelwagen’ en geef jouw tafel de uitstraling en bescherming die hij verdient!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/RN6jKOQgrpgL/nZWlLLY/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 50 cm",
+      "color": "Bruin/Grijs",
+      "gtin13": "9508268835750",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "50",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "23.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/RN6jKOQgrpgL/nZWlLLY/550x550.jpg",
+    "https://media.s-bol.com/RN6jB2xvK62w/nZWlLLY/550x550.jpg",
+    "https://media.s-bol.com/K21vlDKyG8JR/qyk84r/550x467.jpg",
+    "https://media.s-bol.com/xgkLzVk8ZL33/nZWlLLY/550x470.jpg",
+    "https://media.s-bol.com/B2NjGqlmv6KY/qyk84r/550x550.jpg",
+    "https://media.s-bol.com/J2yrkBGx1802/qyk84r/550x500.jpg",
+    "https://media.s-bol.com/L27wmEMzGZKw/qyk84r/550x399.jpg",
+    "https://media.s-bol.com/D21lKvpox8MK/qyk84r/550x550.jpg",
+    "https://media.s-bol.com/BqB9EDpv2W4x/nZWlLLY/550x550.jpg",
+    "https://media.s-bol.com/7R3VJj02JrMw/nZWlLLY/550x178.jpg",
+    "https://media.s-bol.com/7R3VypNnX27r/nZWlLLY/550x550.jpg"
+  ]
+}

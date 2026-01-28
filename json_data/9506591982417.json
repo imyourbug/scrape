@@ -1,0 +1,835 @@
+{
+  "ean": "9506591982417",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000082015281",
+      "name": "Raved Tafelzeil Driehoek Design Wit 140 140 - PVC - Afwasbaar",
+      "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/R0ODm9AwxyBw/nv9XRY/1200x1019.jpg",
+        "width": 1200,
+        "height": 1019
+      },
+      "productGroupID": "9300000082015281",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015146",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-320-cm-wit-pvc-afwasbaar/9300000082015146/",
+          "productID": "9300000082015146",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n156NXrvRKDP/AnErR47/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Wit",
+          "gtin13": "9504251928379",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015151",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-300-cm-wit-pvc-afwasbaar/9300000082015151/",
+          "productID": "9300000082015151",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n156NXrkvO4P/0gjMwQV/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Wit",
+          "gtin13": "9507111755474",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015153",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-350-cm-wit-pvc-afwasbaar/9300000082015153/",
+          "productID": "9300000082015153",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xLM5YnyQkp/pgWn4MX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Wit",
+          "gtin13": "9504434743942",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015158",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-280-cm-wit-pvc-afwasbaar/9300000082015158/",
+          "productID": "9300000082015158",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JMQKLgAQRk/76qME48/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Wit",
+          "gtin13": "9504227821413",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015159",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-250-cm-wit-pvc-afwasbaar/9300000082015159/",
+          "productID": "9300000082015159",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNM6QvRgXG/qjWogND/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Wit",
+          "gtin13": "9509134497294",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015160",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-230-cm-wit-pvc-afwasbaar/9300000082015160/",
+          "productID": "9300000082015160",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/XWDpkwozqo0g/98vjJ48/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Wit",
+          "gtin13": "9506638939848",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015162",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-240-cm-wit-pvc-afwasbaar/9300000082015162/",
+          "productID": "9300000082015162",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Wit",
+          "gtin13": "9505631868520",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015166",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-270-cm-wit-pvc-afwasbaar/9300000082015166/",
+          "productID": "9300000082015166",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/QMWg5m0pj029/zmgArZ5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Wit",
+          "gtin13": "9507158858930",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015175",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-290-cm-wit-pvc-afwasbaar/9300000082015175/",
+          "productID": "9300000082015175",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6j5noqko0E/j2WBXDY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Wit",
+          "gtin13": "9504957933219",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015179",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-180-cm-wit-pvc-afwasbaar/9300000082015179/",
+          "productID": "9300000082015179",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o12X6KYBK8wY/mwWk1JE/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Wit",
+          "gtin13": "9502969335670",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015181",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-100-cm-wit-pvc-afwasbaar/9300000082015181/",
+          "productID": "9300000082015181",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0ODm9AwxyBw/nv9XRY/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Wit",
+          "gtin13": "9506591982417",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015333",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-310-cm-wit-pvc-afwasbaar/9300000082015333/",
+          "productID": "9300000082015333",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n156NXRVp507/y8WzqYz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Wit",
+          "gtin13": "9509486546978",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015335",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-220-cm-wit-pvc-afwasbaar/9300000082015335/",
+          "productID": "9300000082015335",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKY65kyBkX7Q/g5WyRzZ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Wit",
+          "gtin13": "9505998984765",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015337",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-160-cm-wit-pvc-afwasbaar/9300000082015337/",
+          "productID": "9300000082015337",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xLMlKmD3or/vg6wnVL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Wit",
+          "gtin13": "9509879694361",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015339",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-260-cm-wit-pvc-afwasbaar/9300000082015339/",
+          "productID": "9300000082015339",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1xLM5YzRm8p/lOW0ZG7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Wit",
+          "gtin13": "9501345418457",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015340",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-200-cm-wit-pvc-afwasbaar/9300000082015340/",
+          "productID": "9300000082015340",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DvkWJrRM9Lo6/oYWm3LA/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Wit",
+          "gtin13": "9509844334643",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000082015344",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-140-cm-wit-pvc-afwasbaar/9300000082015344/",
+          "productID": "9300000082015344",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgkL75GEEXXl/k5WgYEr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Wit",
+          "gtin13": "9508798943680",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124899997",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Driehoek Wit/Zwart – PVC – Afwasbaar – Binnen & buiten",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-driehoek-patroon-140-cm-x-50-cm-wit-pvc-afwasbaar/9300000124899997/",
+          "productID": "9300000124899997",
+          "description": "<p>Met dit <strong>afwasbare PVC tafelzeil</strong> geef je jouw tafel direct een stijlvolle upgrade én stevige bescherming. Het <strong>driehoek-patroon in wit met zwart</strong>, gecombineerd met eenvoudig onderhoud en <strong>gebruik binnen én buiten</strong>, maakt dit tafelzeil de slimme keuze voor gezinnen en tafels met een druk leven.</p> <p><strong>Maak kennis met het tafelzeil dat stijl en functie moeiteloos combineert.</strong> Het <strong>Raved tafelzeil met driehoek patroon</strong> biedt een frisse look met zijn <strong>wit/zwart geometrisch design</strong>, én staat voor <strong>praktisch gemak</strong> dankzij het hoogwaardige <strong>PVC-materiaal</strong>. Of je nu dagelijks dineert met het gezin, gasten ontvangt of op het terras geniet van een ochtendkoffie — dit tafelzeil is voorbereid op elk scenario.</p> <h3>Bescherming + stijl</h3> <p>Je tafelblad verdient de zorg die het verdient. Met dit tafelzeil voorkom je vlekken, kringen, knoeiwerk en zelfs lichte brandplekken door hete pannen: het is namelijk gemaakt voor intensief gebruik. Het <strong>afwasbare PVC-oppervlak</strong> zorgt dat je met een vochtige doek snel schoon bent — geen stress meer na het avondeten.</p> <h3>Geometrisch design dat opvalt</h3> <p>Het driehoek-motief in zwart op een witte ondergrond geeft jouw eetruimte een moderne uitstraling. Hierdoor past het zowel in een strak interieur als een gezellige, huiselijke setting. Het design is niet alleen mooi, maar ook functioneel: het patroon camoufleert lichte vlekken tot je tijd hebt om schoon te maken.</p> <h3>Binnen én buiten gebruik</h3> <p>Dit tafelzeil is geschikt voor gebruik in de eetkamer, keuken én op het terras. Dankzij PVC is het beter bestand tegen vocht en lichte weersinvloeden. Wel is het verstandig om het af te dekken of binnen te halen bij slecht weer om verkleuring of beschadiging te voorkomen — zo behoud je maximale levensduur.</p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Materiaal: <strong>PVC</strong> – stevig, afwasbaar, duurzaam</p> </li> <li> <p>Kleur: Wit met zwart driehoek-patroon</p> </li> <li> <p>Patroon: Geometrisch (driehoeken)</p> </li> <li> <p>Gebruik: Voor tafels binnen en buiten</p> </li> <li> <p>Onderhoud: Veeg schoon met vochtige doek — gebruik geen schuurmiddelen of bleekmiddel. </p> </li> <li> <p>Merk: Raved</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Veel tafelkleden zijn lastig schoon te maken, glijden weg of zijn alleen geschikt voor binnen. Dit model is <strong>speciaal ontworpen voor het drukke gezinsleven</strong>: gemak, bescherming en stijl in één. Het mooie design laat jouw interieur tot zijn recht komen, terwijl jij zorgeloos kunt tafelen.</p> <h3>Call-to-action</h3> <p>Gun jezelf een tafel die weer straalt — klik op ‘bestellen’ en voeg vandaag nog dit stijlvolle én praktische tafelzeil toe aan jouw woondecoratie. Bescherm, decoreer en ontspan met het Raved tafelzeil.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNM6wz6XBE/8qrgG42/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Wit",
+          "gtin13": "9502439136394",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/R0ODm9AwxyBw/nv9XRY/550x467.jpg"
+  ]
+}

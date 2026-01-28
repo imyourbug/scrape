@@ -1,0 +1,1823 @@
+{
+  "ean": "9501528837716",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000095865150",
+      "name": "Raved Tafelzeil Waterdicht/Gecoat 140 140 - Gecoat - Uitwasbaar",
+      "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/XWDq8oojOLkW/qjWo3N0/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000095865150",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "Katoen"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667367",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-300-cm-donkerbruin-waterafstotend/9300000043667367/",
+          "productID": "9300000043667367",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n157wrrKvmKD/oYWm5LB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Bruin",
+          "gtin13": "9505572734489",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "66.69",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667370",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  300 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-300-cm-bruin-waterdicht/9300000043667370/",
+          "productID": "9300000043667370",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qMjZ3Mm5oxv7/1r1Anym/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 300 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9507443185123",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667373",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-280-cm-donkerbruin-waterafstotend/9300000043667373/",
+          "productID": "9300000043667373",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8mLnB0klD/LgmGq4X/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Bruin",
+          "gtin13": "9508265614747",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "60.63",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667374",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-180-cm-donkerbruin-waterafstotend/9300000043667374/",
+          "productID": "9300000043667374",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n157wrRV9BZD/BgGvW4k/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Bruin",
+          "gtin13": "9504128848595",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "43.88",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667375",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-200-cm-donkerbruin-waterafstotend/9300000043667375/",
+          "productID": "9300000043667375",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2WQ63v054r/JZk1o5J/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Bruin",
+          "gtin13": "9502874347874",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "43.88",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667379",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  140 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-140-cm-bruin-waterdicht/9300000043667379/",
+          "productID": "9300000043667379",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/N5x0v52Wgynm/MQDz2rG/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9507976932942",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667382",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  180 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-180-cm-bruin-waterdicht/9300000043667382/",
+          "productID": "9300000043667382",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/rM093B50KqB2/868Lx53/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 180 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9504914876658",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667388",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-160-cm-donkerbruin-waterafstotend/9300000043667388/",
+          "productID": "9300000043667388",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0J8mLpKV4Wl/wj6x3W1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Bruin",
+          "gtin13": "9502587327910",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "42.43",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667389",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-240-cm-donkerbruin-waterafstotend/9300000043667389/",
+          "productID": "9300000043667389",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mXo6nzB9jgwE/jn05xR/1200x600.jpg",
+            "width": 1200,
+            "height": 600
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Bruin",
+          "gtin13": "9505611423626",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "48.50",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667393",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  280 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-280-cm-bruin-waterdicht/9300000043667393/",
+          "productID": "9300000043667393",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mMwy3MgxxzAO/PZmD9x4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 280 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9508592637556",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667400",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-140-cm-donkerbruin-waterafstotend/9300000043667400/",
+          "productID": "9300000043667400",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/k1RBqZZEpKy5/vg6w3V0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 140 cm",
+          "color": "Bruin",
+          "gtin13": "9503668757510",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "42.43",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667403",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  250 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-250-cm-bruin-waterdicht/9300000043667403/",
+          "productID": "9300000043667403",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/rM093Mn5pkw2/N9DA2vv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9502926497434",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667407",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-250-cm-donkerbruin-waterafstotend/9300000043667407/",
+          "productID": "9300000043667407",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1EL26g3XEp/GZNAl4L/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 250 cm",
+          "color": "Bruin",
+          "gtin13": "9506163972150",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "54.56",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667410",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-220-cm-donkerbruin-waterafstotend/9300000043667410/",
+          "productID": "9300000043667410",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x6zYYn0RRR/r0Wp3O4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Bruin",
+          "gtin13": "9502121433459",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "48.50",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667412",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  240 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-240-cm-bruin-waterdicht/9300000043667412/",
+          "productID": "9300000043667412",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xBnwAjpjo8QJ/A0YrjB/1200x1091.jpg",
+            "width": 1200,
+            "height": 1091
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 240 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9503647447739",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667415",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  160 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-160-cm-bruin-waterdicht/9300000043667415/",
+          "productID": "9300000043667415",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R5g1z5JDD88R/W7ONlGx/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 160 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9506874991525",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667419",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  220 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-220-cm-bruin-waterdicht/9300000043667419/",
+          "productID": "9300000043667419",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mMwy3MnyAZnR/32RDp5R/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 220 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9504315287381",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000043667427",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  200 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-200-cm-bruin-waterdicht/9300000043667427/",
+          "productID": "9300000043667427",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/wRjr3RArOpAr/59nGr58/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 200 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9501438115737",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870835",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-310-cm-donkerbruin-waterafstotend/9300000080870835/",
+          "productID": "9300000080870835",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/xgk8Kv6BMn5P/pgWn3Mp/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Bruin",
+          "gtin13": "9505257552469",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "66.69",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870838",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-350-cm-donkerbruin-waterafstotend/9300000080870838/",
+          "productID": "9300000080870838",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x6N3q1oynD/ElLyj4Y/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Bruin",
+          "gtin13": "9509235471582",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "75.06",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870858",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-100-cm-donkerbruin-waterafstotend/9300000080870858/",
+          "productID": "9300000080870858",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3pQPgwR6DwmQ/8RDg43/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Bruin",
+          "gtin13": "9505945142361",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.64",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870951",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-260-cm-donkerbruin-waterafstotend/9300000080870951/",
+          "productID": "9300000080870951",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1EL26nPLkn/AnErV43/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Bruin",
+          "gtin13": "9506591858163",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "54.56",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870961",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-290-cm-donkerbruin-waterafstotend/9300000080870961/",
+          "productID": "9300000080870961",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6k3oo4GO5q/nZWl3KW/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Bruin",
+          "gtin13": "9501281892359",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "60.63",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870963",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  100 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-100-cm-bruin-waterdicht/9300000080870963/",
+          "productID": "9300000080870963",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3Oogpl7wgyBR/6PAx9l/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 100 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9505879858659",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870972",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-230-cm-donkerbruin-waterafstotend/9300000080870972/",
+          "productID": "9300000080870972",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/8V2WQ665V9Am/MjnXr4O/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Bruin",
+          "gtin13": "9507866997495",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "48.50",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870973",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  260 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-260-cm-bruin-waterdicht/9300000080870973/",
+          "productID": "9300000080870973",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Rw4m0gEYrxV0/7QBM2G/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 260 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9501689723941",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870977",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-320-cm-donkerbruin-waterafstotend/9300000080870977/",
+          "productID": "9300000080870977",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/1LwEJr6OMkqo/zmgA3ZZ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Bruin",
+          "gtin13": "9507829157317",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "66.69",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870978",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  230 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-230-cm-bruin-waterdicht/9300000080870978/",
+          "productID": "9300000080870978",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KmWNkWqkVyxR/YO9Y5n/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 230 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9507481795193",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870985",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  320 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-320-cm-bruin-waterdicht/9300000080870985/",
+          "productID": "9300000080870985",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Qv3l21ZQ2DlM/OA0XJN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 320 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9504143312187",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870992",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  270 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-270-cm-bruin-waterdicht/9300000080870992/",
+          "productID": "9300000080870992",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NpZg2xzDnq6K/rzlpO4/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9501921399415",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870998",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-270-cm-donkerbruin-waterafstotend/9300000080870998/",
+          "productID": "9300000080870998",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/XWDq8oojOLkW/qjWo3N0/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 270 cm",
+          "color": "Bruin",
+          "gtin13": "9501528837716",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "60.63",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 4,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080871045",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  290 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-290-cm-bruin-waterdicht/9300000080871045/",
+          "productID": "9300000080871045",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BQKA2glDEJRJ/owgJkB/900x1200.jpg",
+            "width": 900,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 290 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9503681648369",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080871047",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  310 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-310-cm-bruin-waterdicht/9300000080871047/",
+          "productID": "9300000080871047",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7Ovm7vKlX4Lr/PBVJ26/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 310 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9509997474616",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080871048",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  350 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-350-cm-bruin-waterdicht/9300000080871048/",
+          "productID": "9300000080871048",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Qv3lq3z2E46l/qyko7y/900x1200.jpg",
+            "width": 900,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 350 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9508519975143",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124795491",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Vierkant Uitwasbaar – Donkerbruin – PVC – Waterafstotend – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-vierkant-uitwasbaar-140-cm-x-50-cm-donkerbruin-waterafstotend/9300000124795491/",
+          "productID": "9300000124795491",
+          "description": "<p>Geef uw eettafel direct een stijlvolle upgrade met dit <strong>uitwasbare en waterafstotende tafelzeil</strong> in elegant donkerbruin. Perfect voor een praktische én verzorgde uitstraling — geschikt voor <strong>binnen en buiten</strong> en eenvoudig schoon te maken.</p> <p>Breng stijl en gemak samen met het <strong>primair zoekwoord</strong> tafelzeil. Het hoogwaardige tafelzeil van het merk <strong>Raved</strong>, in een diepe <strong>donkerbruine</strong> kleur, is dé oplossing voor mensen die willen genieten aan tafel zonder zich zorgen te maken over knoeien, vlekken of weersinvloeden.</p> <h3>Bescherming én elegantie</h3> <p>Dankzij het <strong>materiaal</strong> dat speciaal is behandeld met een <strong>waterafstotende coating</strong>, neem je comfortabel plaats zonder direct aan tafelbescherming te hoeven denken. Met dit tafelzeil bedek je binnen- én buitentafels in een handomdraai — ideaal voor een zonnige tuinlunch of een gezellig diner in huis. Het effen donkerbruin geeft tevens een warme, tijdloze uitstraling die past bij verschillende interieurstijlen.</p> <h3>Praktisch in onderhoud</h3> <p>Het zeil is <strong>uitwasbaar</strong>, waardoor gemorste dranken of etensresten geen zorgen zijn. Je hoeft niet direct de tafel te ontkleden of een beschermfolie te gebruiken — gewoon afnemen of licht wassen en het resultaat blijft mooi. Dit maakt het tafelzeil perfect geschikt voor huishoudens met kinderen, sociale bijeenkomsten of regelmatig buitengebruik.</p> <h3>Veelzijdig inzetbaar</h3> <p>Het ontwerp is minimalistisch waardoor het gemakkelijk te combineren valt met uw bestaande servies, decoratie of buitenmeubelen. Dankzij de robuuste afwerking en waterafstotende laag is het tafelzeil ook bestand tegen lichte weersinvloeden, waardoor het zeker geschikt is voor overdekt buitengebruik.</p> <h3>Waarom kiezen voor dit product?</h3> <ul> <li> <p><strong>USP 1</strong>: waterafstotend — bescherming tegen vloeistoffen en knoeien.</p> </li> <li> <p><strong>USP 2</strong>: uitwasbaar en onderhoudsvriendelijk — bespaart tijd en moeite.</p> </li> <li> <p><strong>USP 3</strong> (argument): stijlvolle effen donkerbruine kleur die past bij diverse interieurs en seizoenen.</p> </li> </ul> <h3>Onderhoud & gebruik</h3> <p>Leg het zeil eenvoudig over uw tafel en laat de randen hangen zoals gewenst. Bij vuil direct afnemen met een vochtige doek of – indien nodig – uitwassen. Vermijd hoge hitte of open vuur direct op het oppervlak om de bescherming te behouden. Gebruik het zowel binnen als op een overdekt terras voor optimale functionaliteit.</p> <h3>Conclusie & call-to-action</h3> <p>Maak met dit tafelzeil een slimme keuze: een verzorgde uitstraling én het gemak van onderhoud in één. Ontdek vandaag nog hoe eenvoudig het is om uw tafel te beschermen én er stijlvol uit te laten zien. <strong>Bestel nu</strong> en geniet van momenten aan tafel zonder zorgen.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8Er3vvkPWlK/P1qGx31/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Bruin",
+          "gtin13": "9508787855536",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124899985",
+          "name": "Raved Uitwasbaar Tafelzeil  140 cm x  50 cm - Bruin - Waterdicht",
+          "url": "https://www.bol.com/nl/nl/p/raved-uitwasbaar-tafelzeil-140-cm-x-50-cm-bruin-waterdicht/9300000124899985/",
+          "productID": "9300000124899985",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Waterdichte coating</h3> <p>Met dit waterdichte tafelkleed/tafelzeil blijft uw tafel mooi en beschermd. Door de waterafstotende coating is het tafelkleed/tafelzeil eenvoudig schoon te maken en zeer gebruiksvriendelijk. </p> <p>Dit tafelkleed/tafelzeil, met een effen bruine print, past perfect bij ieder interieur. </p> <h3>Specificaties:</h3> <p> Materiaal: Katoen <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Effen bruin <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/gG6nwLJk198Z/nvv375/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "Katoen"
+          ],
+          "size": "140 cm x 50 cm",
+          "color": "Effen Bruin",
+          "gtin13": "9508147395665",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "75.06",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/XWDq8oojOLkW/qjWo3N0/550x550.jpg",
+    "https://media.s-bol.com/Y8Er3vvkP6y9/qjWo3N0/550x550.jpg",
+    "https://media.s-bol.com/OKYL3yyQDN4p/qjWo3N0/550x490.jpg",
+    "https://media.s-bol.com/7R3YPLLN4OmG/qjWo3N0/550x550.jpg",
+    "https://media.s-bol.com/VROo3PP8MA0M/qjWo3N0/550x178.jpg",
+    "https://media.s-bol.com/PLNg3ZZREO4w/qjWo3N0/550x550.jpg"
+  ]
+}

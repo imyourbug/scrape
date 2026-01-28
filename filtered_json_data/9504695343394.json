@@ -1,0 +1,1840 @@
+{
+  "ean": "9504695343394",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000072594743",
+      "name": "Raved Tafelzeil 140 140 - PVC - Afwasbaar",
+      "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Y8EXYJkkKOGn/ElLvZrN/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000072594743",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814239",
+          "name": "Raved Tafelzeil 140×300 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-300-cm-bruin-pvc-afwasbaar/9300000038814239/",
+          "productID": "9300000038814239",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXY2jz8YVM/X6Bw7jm/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9506614297146",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814269",
+          "name": "Raved Tafelzeil 140×140 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-140-cm-bruin-pvc-afwasbaar/9300000038814269/",
+          "productID": "9300000038814269",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/q1x8pGOpLE0p/KOlBAXr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9502381212429",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814290",
+          "name": "Raved Tafelzeil 140×180 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-180-cm-bruin-pvc-afwasbaar/9300000038814290/",
+          "productID": "9300000038814290",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEXxV8KDLQ/zmg5BVr/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9506325653484",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814334",
+          "name": "Raved Tafelzeil 140×240 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-240-cm-bruin-pvc-afwasbaar/9300000038814334/",
+          "productID": "9300000038814334",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JXDrAJzNKk/P1ql6mz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9506783566678",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814342",
+          "name": "Raved Tafelzeil 140×220 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-220-cm-bruin-pvc-afwasbaar/9300000038814342/",
+          "productID": "9300000038814342",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o12JnDMnXrqk/LgmDA6g/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9506888945262",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814346",
+          "name": "Raved Tafelzeil 140×160 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-160-cm-bruin-pvc-afwasbaar/9300000038814346/",
+          "productID": "9300000038814346",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DvkEZzmMNp15/Q1rmAJ7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9507273418286",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814348",
+          "name": "Raved Tafelzeil 140×250 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-250-cm-bruin-pvc-afwasbaar/9300000038814348/",
+          "productID": "9300000038814348",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEvggjYqWX/WnAvWOW/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9507366964416",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814353",
+          "name": "Raved Tafelzeil 140×200 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-200-cm-bruin-pvc-afwasbaar/9300000038814353/",
+          "productID": "9300000038814353",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEXxkKolNW/X6BwYxk/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9507548112215",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000038814373",
+          "name": "Raved Tafelzeil 140×280 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-280-cm-bruin-pvc-afwasbaar/9300000038814373/",
+          "productID": "9300000038814373",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/DvkEZzmpQJjB/Q1rmN3Y/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9506659134840",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594722",
+          "name": "Raved Tafelzeil 140×270 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-270-cm-bruin-pvc-afwasbaar/9300000072594722/",
+          "productID": "9300000072594722",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXYJkkKOGn/ElLvZrN/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9504695343394",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594723",
+          "name": "Raved Tafelzeil 140×320 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-320-cm-bruin-pvc-afwasbaar/9300000072594723/",
+          "productID": "9300000072594723",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJk1KNV8RPpv/Z4EyZOv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9507891126280",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594727",
+          "name": "Raved Tafelzeil 140×350 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-350-cm-bruin-pvc-afwasbaar/9300000072594727/",
+          "productID": "9300000072594727",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/Y8EXY2jjOAOY/58oxlJR/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9506791386329",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594730",
+          "name": "Raved Tafelzeil 140×100 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-100-cm-bruin-pvc-afwasbaar/9300000072594730/",
+          "productID": "9300000072594730",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBEXx3KXZpn/P1qlM2n/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9505337686862",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594731",
+          "name": "Raved Tafelzeil 140×310 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-310-cm-bruin-pvc-afwasbaar/9300000072594731/",
+          "productID": "9300000072594731",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n15JmBLm6qpP/48nwWm2/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9507622932197",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594732",
+          "name": "Raved Tafelzeil 140×260 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-260-cm-bruin-pvc-afwasbaar/9300000072594732/",
+          "productID": "9300000072594732",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JXDrAyVwpG/Rgvn8YL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9509743338995",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594736",
+          "name": "Raved Tafelkleed/Tafelzeil Steigerhout Design Bruin/Beige  140 cm x  210 cm - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-210-cm-bruin-pvc-afwasbaar/9300000072594736/",
+          "productID": "9300000072594736",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleed/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een kleed van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p><h3>Voor binnen & buiten</h3><p>Dit Tafelkleed/Tafelzeil is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt als het regent, dit voorkomt namelijk verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in, voor een volgend gebruik!</p><h3>Steigerhout design</h3><p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven. </p><h3>Specificaties:</h3><p> Materiaal: PVC <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Bruin & beige <br /> Inhoud: 1 stuk <br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p><p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/QKQL7MlnJ7XY/pnmLyr/1200x624.jpg",
+            "width": 1200,
+            "height": 624
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 210 cm",
+          "color": "Bruin;Beige",
+          "gtin13": "9504353445668",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "210",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.00",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594737",
+          "name": "Raved Tafelzeil 140×230 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-230-cm-bruin-pvc-afwasbaar/9300000072594737/",
+          "productID": "9300000072594737",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPkA0ZDLvvE/2RlrG4J/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9509947263345",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000072594738",
+          "name": "Raved Tafelzeil 140×290 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-290-cm-bruin-pvc-afwasbaar/9300000072594738/",
+          "productID": "9300000072594738",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1RJgxXMxzRY/Nxoj7DL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9506187154921",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870807",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  280 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-280-cm-blauw-pvc-afwasbaar/9300000080870807/",
+          "productID": "9300000080870807",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qrVl4yXwN97R/4NjzWx/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9506458739475",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870810",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  320 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-320-cm-blauw-pvc-afwasbaar/9300000080870810/",
+          "productID": "9300000080870810",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/zEB7jWXxvnnZ/qyqlAp/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9504768351271",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870813",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  140 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-140-cm-blauw-pvc-afwasbaar/9300000080870813/",
+          "productID": "9300000080870813",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/0m20zJVv5NmG/0JN02L/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9501236895619",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870817",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  160 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-160-cm-blauw-pvc-afwasbaar/9300000080870817/",
+          "productID": "9300000080870817",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/noYg4v5A18k7/OAjPEr/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9507819648337",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870819",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  230 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-230-cm-blauw-pvc-afwasbaar/9300000080870819/",
+          "productID": "9300000080870819",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0ODmzkzB79V/vEpx0X/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9507974577787",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870821",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  250 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-250-cm-blauw-pvc-afwasbaar/9300000080870821/",
+          "productID": "9300000080870821",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/noxj03959DBl/qykonR/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9509273955693",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870828",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  100 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-100-cm-blauw-pvc-afwasbaar/9300000080870828/",
+          "productID": "9300000080870828",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ZoYNxLXlPNVQ/ZP9gzQ/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9509129998447",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870830",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  240 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-240-cm-blauw-pvc-afwasbaar/9300000080870830/",
+          "productID": "9300000080870830",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/O2Mzjwk2RN7p/MyVXAP/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9508127228785",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870859",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  310 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-310-cm-blauw-pvc-afwasbaar/9300000080870859/",
+          "productID": "9300000080870859",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/jkZNjlAXGzJ4/DmVxWx/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9501221695514",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870894",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  260 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-260-cm-blauw-pvc-afwasbaar/9300000080870894/",
+          "productID": "9300000080870894",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/D21lDgpVpz86/Jv9Kxy/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9506855966160",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870902",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  180 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-180-cm-blauw-pvc-afwasbaar/9300000080870902/",
+          "productID": "9300000080870902",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yDoxB37M669R/nv9mZ7/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9506361341710",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870904",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  270 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-270-cm-blauw-pvc-afwasbaar/9300000080870904/",
+          "productID": "9300000080870904",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/N2LygqLQ1m5m/wGqyLM/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9502665881587",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870906",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  290 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-290-cm-blauw-pvc-afwasbaar/9300000080870906/",
+          "productID": "9300000080870906",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/B2NjA5n20RzN/MyVKA1/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9508722891230",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870911",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  350 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-350-cm-blauw-pvc-afwasbaar/9300000080870911/",
+          "productID": "9300000080870911",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VkAKqBWRg8r5/REVX70/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9503821859235",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870913",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  220 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-220-cm-blauw-pvc-afwasbaar/9300000080870913/",
+          "productID": "9300000080870913",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/mnOgm30qj1DO/lq90GM/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9501891585948",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870918",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  200 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-200-cm-blauw-pvc-afwasbaar/9300000080870918/",
+          "productID": "9300000080870918",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/9ypDMV27KGXZ/DmDQYK/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9501775533621",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000080870919",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  300 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-300-cm-blauw-pvc-afwasbaar/9300000080870919/",
+          "productID": "9300000080870919",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7wnpKgp9grNr/glOn7k/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9503455692352",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124775780",
+          "name": "Raved Tafelzeil 140×50 cm – Planken houtprint bruin – PVC – afwasbaar tafelkleed",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-planken-hout-140-cm-x-50-cm-bruin-pvc-afwasbaar/9300000124775780/",
+          "productID": "9300000124775780",
+          "description": "<p>Ontdek het <strong>praktische & stijlvolle</strong> tafelzeil dat uw tafel direct in een warme houtlook stijl giet. Deze <strong>afwasbare PVC-toplaag</strong> beschermt uw tafel tegen knoeien, vlekken en brandplekken — ideaal voor zowel binnen als buiten. Met de houtplanken-print in bruin creëert u moeiteloos een gezellige, sfeervolle tafelsetting.</p> <p>Geef uw tafel een stijlvolle upgrade met het <strong>primair zoekwoord “tafelzeil”</strong>: dit is het ontworpen voor wie gemak én uitstraling wil combineren.</p> <h3>Stilvolle houtlook & direct sfeer</h3> <p>Met de houtplanken-print in warme bruine tinten valt dit tafelzeil direct op — alsof u een tafelblad van echt hout hebt, zonder de nadelen ervan. Dankzij de print in planken-look geeft het tafeldesign een natuurlijke, rustieke ambiance die past in zowel woonkamer, keuken als op het terras.</p> <h3>Bescherming & onderhoudsgemak</h3> <p>Het tafelzeil is vervaardigd uit <strong>materiaal: hoogwaardig PVC</strong>, afwasbaar en vlekbestendig — een slimme keuze voor dagelijks gebruik. Hete pannen, gemorste koffie of buitendruppels? Geen stress: veeg het simpel schoon. Ook brandplekken of krassen behoren tot het verleden; het zeil beschermt uw tafelblad effectief.</p> <h3>Maat & toepassing</h3> <p>Met de afmeting past dit tafelzeil prima op standaard rechthoekige tafels; u creëert eenvoudig ruimte voor 4-6 personen. Omdat het ook voor buitengebruik geschikt is, brengt u de mogelijkheid tot buiten dineren of loungen met stijl én gemak binnen handbereik.</p> <h3>Veelzijdige inzet</h3> <p>Of u nu binnen eet of buiten op het balkon of terras, dit tafelzeil is geschikt voor beide. Het ontwerp is strak genoeg voor elke gelegenheid — van een ontspannen brunch tot een gezellige barbecueavond. Dankzij de bruine kleur combineert het goed met houten stoelen, rotan meubels of moderne buitenmeubelen.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Twee-prime USP’s:</strong> afwasbaar PVC en houtplanken-print zorgen voor stijl én comfort.</p> </li> <li> <p>U bespaart tijd én zorgen: geen natte doeken, geen nieuwe tafelkleden elk seizoen.</p> </li> <li> <p>U beschermt uw tafel tegen slijtage, vlekken en brandplekken.</p> </li> <li> <p>U verhoogt de sfeer in huis of buitenruimte, waardoor het dagelijkse maaltijden uitnodigender worden.</p> </li> </ul> <h3>Let op voordat u bestelt</h3> <p>Controleer de maat van uw tafel — voor dekking van is dit tafelzeil ideaal. Wil u een langere lengte, dan biedt het merk ook varianten aan. Zorg verder dat het zeil glad ligt en geen scherpe voorwerpen onder het oppervlak zitten voor de beste bescherming.</p> <p><strong>Klaar om uw tafel een upgrade te geven?</strong> Klik op “In winkelwagen” en ervaar direct het verschil dat dit tafelzeil maakt — uw tafel verdient het.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/n15JmBLJYmO7/Vmzr581/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9506263819942",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000124900002",
+          "name": "Raved Tafelzeil Steigerhout  140 cm x  50 cm - Blauw - PVC - Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-steigerhout-140-cm-x-50-cm-blauw-pvc-afwasbaar/9300000124900002/",
+          "productID": "9300000124900002",
+          "description": "<p><strong>De tafelkleden van Raved zijn veelzijdig en brengen sfeer in huis. Onze Tafelkleden/Tafelzeilen/Tafelzeilen zijn zowel verkrijgbaar in vrolijke motieven en prints, als in mooie effen kleuren. Een Toile cirée van Raved is ook nog eens erg praktisch en beschermt je tafel tegen geknoei of brandplekken door hete pannen. Zo schuift iedereen met een gerust hart aan!</strong></p> <h3>Voor binnen & buiten</h3> <p>Dit Tafelkleed/Tafelzeil/Tafelzijl is geschikt voor zowel binnen als buiten. Let er wel op dat je het kleed naar binnen haalt wanneer het regent, dit voorkomt verkleuring en verwering. Na gebruik is het kleed eenvoudig af te nemen met een vochtige doek en kan het weer de kast in voor een volgend gebruik!</p> <h3>Steigerhout design</h3> <p>Dit tafelkleed/tafelzeil, met een warme en natuurlijke look, past perfect binnen een landelijk interieur. Het ontwerp bestaat uit gedetailleerd steigerhout met zichtbare houtnerven.</p> <h3>Specificaties:</h3> <p> Materiaal: PVC / plastic <br /> Afmetingen: 140 x 140 cm <br /> Kleur: Blauw & beige <br /> Inhoud: 1 stuk<br /> Fabrikant: Wicotex / 2Lif<br /> Onze tafelzijlen zijn geschikt voor jong en oud. Of je nu gezellig een avondje met vrienden of familie aan tafel schuift of kinderen hebt die graag knutselen en knoeien, je tafel kan alles aan!</p> <p>Raved, ook wel bekend als Raved Fabrics, verkoopt zowel praktische als mooie items! Onze artikelen worden zorgvuldig geselecteerd voor de beste kwaliteit. Van prachtige tafelkleden en -zeilen tot de mooiste muurdecoratie: bij Raved kun je altijd terecht!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/pqRk5xk5npyV/QDl6N9/1200x595.jpg",
+            "width": 1200,
+            "height": 595
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9501336834259",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 3
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Y8EXYJkkKOGn/ElLvZrN/550x550.jpg",
+    "https://media.s-bol.com/3N1JrxALjPPx/ElLvZrN/550x550.jpg",
+    "https://media.s-bol.com/Y8EXYK9GVRWp/ElLvZrN/550x477.jpg",
+    "https://media.s-bol.com/BqBEXZvQ9vJW/ElLvZrN/550x550.jpg",
+    "https://media.s-bol.com/BQzAAR0kjZMx/WM91mv/550x550.jpg",
+    "https://media.s-bol.com/JB6XKjQ9Y4EJ/ElLvZrN/550x550.jpg",
+    "https://media.s-bol.com/JB6XK2AYZgEP/ElLvZrN/550x178.jpg"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "ean": "9506434735583",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000192851053",
+      "name": "Raved Tafelzeil - 140 cm Rond - Linnenlook Groen - PVC - Afwasbaar - Extra sterk",
+      "productID": "9300000192851053",
+      "description": "<p>Geef je eettafel direct een <strong>stijlvolle linnenlook én praktische bescherming</strong> met dit Raved Tafelzeil Linnenlook Groen. Dankzij het <strong>afwasbare PVC-oppervlak</strong> en de <strong>extra sterke beschermrand</strong> leg je ontspannen aan tafel — veilig voor vlekken en hitte-plekken.</p> <p>Breng sfeer en gemak samen in één oplossing met het <strong>primair zoekwoord “tafelzeil linnenlook groen”</strong>.</p> <h3>Stijlvol én slim</h3> <p>Zoek je een tafeloplossing die zowel mooi oogt als moeiteloos in het dagelijks gebruik past? Het tafelzeil linnenlook groen van Raved combineert de rust en elegantie van linnen met het gemak en de duurzaamheid van PVC. De diepe groentint voegt direct warmte en rust toe aan je interieur — perfect voor een gezellige eettafel of tuintafel.</p> <h3>Bescherm je tafel, eenvoudig</h3> <p>Met dit duurzame zeil leg je een barrière tegen morsen, vlekken en hitteplekken. Hoogwaardige <strong>PVC-laag</strong> zorgt dat vloeistoffen niet intrekken en vegen met een vochtige doek volstaat. Dankzij de <strong>beschermrand</strong> en de melding “extra sterk” kies je voor een tafeltextiel dat bestand is tegen dagelijkse slijtage. </p> <h3>Materiaal & onderhoud</h3> <p>Dit tafelzeil is vervaardigd uit stevig PVC met een “linnenlook” bovenlaag — de uitstraling van natuurlijk textiel, het onderhoudsgemak van kunststof. De onderlaag is voorzien van een non-woven vliesrug voor extra stabiliteit. Doordat het afwasbaar is, hoef je geen ingewikkeld onderhoud te plegen: gewoon afnemen met een vochtige doek, klaar.</p> <h3>Geschikt voor veel situaties</h3> <p>Of je nu dagelijks aan de keukentafel plaatsneemt of gezellig buiten dineert: dit tafelzeil past. De maat van 140 cm breed (of Ø 140 cm bij ronde versie) maakt het inzetbaar voor standaard tafels. Verschillende lengtematen zijn beschikbaar zodat je de juiste breedte-lengte combinatie kiest. </p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Veiligheid voor je tafel</strong>: beschermt tegen vlekken en hitte – geen zorgen meer.</p> </li> <li> <p><strong>Stijl zonder compromis</strong>: linnenlook in subtiel groen voor een rustige, moderne uitstraling.</p> </li> <li> <p><strong>Onderhoudsgemak</strong>: afwasbaar PVC-materiaal, geen strijken of ingewikkelde zorg.</p> </li> <li> <p><strong>Duurzame investering</strong>: extra sterke constructie en beschermrand helpen slijtage vertragen.</p> </li> </ul> <h3>Klaar voor gebruik</h3> <p>Leg het tafelzeil eenvoudig op je tafel en geniet direct van de nieuwe look én functionaliteit. Op zoek naar rust, stijl én eenvoud? Het tafelzeil linnenlook groen is de slimme keuze. <strong>Bestel vandaag nog</strong> en maak van elke maaltijd een stijlvol en zorgeloos moment.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/4O8DlMmAmoN2/VmzqvJX/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Linnenlook Groen",
+      "gtin13": "9506434735583",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.20",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1,
+        "reviewCount": 1
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/4O8DlMmAmoN2/VmzqvJX/550x550.jpg",
+    "https://media.s-bol.com/Y86Bj3pOjxX0/VmzqvJX/550x474.jpg",
+    "https://media.s-bol.com/4O8DlMmNlvWk/VmzqvJX/550x549.jpg",
+    "https://media.s-bol.com/5P8EmNnBnpOx/VmzqvJX/550x178.jpg",
+    "https://media.s-bol.com/3Nl0kLRzRnMr/VmzqvJX/550x550.jpg",
+    "https://media.s-bol.com/3Nl0kLRMkrY9/VmzqvJX/550x550.jpg"
+  ]
+}

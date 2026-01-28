@@ -1,0 +1,99 @@
+{
+  "ean": "9504799855977",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000176743559",
+      "name": "Raved Rond Tafelzeil - 140 cm ø - Bladeren Beige - PVC - Afwasbaar",
+      "productID": "9300000176743559",
+      "description": "<p>Geef je tafel moeiteloos een <strong>stijlvolle uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> van Raved in een elegant <strong>bladermotief beige</strong>: <strong>bescherming tegen vlekken en krassen</strong> én <strong>sfeervol design</strong>, geschikt voor zowel binnen als buiten.</p> <p>Breng direct rust en elegantie aan tafel met het <strong>ronde tafelzeil Ø 140 cm van Raved</strong> — uitgevoerd in zacht beige met een verfijnd bladerenpatroon, vervaardigd uit hoogwaardig <strong>PVC</strong> en volledig <strong>afwasbaar</strong>. Dit stijlvolle tafelzeil combineert bescherming, gemak en sfeer voor elke gelegenheid — of u nu dagelijks aan tafel schuift met het gezin of een rustige buitenlunch houdt op het terras.</p> <h3>Bescherming ontmoet stijl</h3> <p>Dankzij het duurzame <strong>PVC-materiaal</strong> is dit tafelzeil bestand tegen gemorst eten, kringen door glazen of hete pannen. Waar normaal wellicht een houten tafeloppervlak of glas snel tekenen van gebruik toont, biedt dit zeil een veilige, makkelijk schoon te maken barrière. Zo voorkomt u blekende vlekken of blijvende krassen — een directe oplossing voor uw zorgen over tafelonderhoud.</p> <h3>Elegant bladermotief voor binnen én buiten</h3> <p>Het subtiele <strong>bladermotief in beige</strong> geeft uw eetruimte of terras een natuurlijke, zogenaamde ‘outdoor-indoor’ sfeer. Of het nu gaat om een kleurrijk zomerse setting of een warm winters interieur, dit patroon past moeiteloos in verschillende stijlen — van landelijk tot modern. En omdat het tafelzeil ook geschikt is voor buitengebruik — haal het tijdens regenweer binnen voor optimale levensduur — bent u flexibel in toepassing. </p> <h3>Praktisch en onderhoudsvriendelijk</h3> <p>U hoeft niet meer uren te boenen of het tafelkleed meerdere keren per week te wisselen: met een vochtige doek veegt u gemorst vuil eenvoudig weg. Het materiaal is afwasbaar en de print blijft levendig — een combinatie die zelden zo goed samenkomt in tafeltextiel. </p> <h3>Specificaties in één oogopslag</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Vorm: rond</p> </li> <li> <p>Diameter: Ø 140 cm</p> </li> <li> <p>Kleur/Motief: beige met bladeren</p> </li> <li> <p>Materiaal: PVC (plastic)</p> </li> <li> <p>Toepassing: binnen & buiten</p> </li> <li> <p>Onderhoud: afneembaar met vochtige doek</p> </li> </ul> <h3>Waarom dit tafelzeil kiezen?</h3> <p>U wilt genieten van mooie momenten aan tafel zonder dat u zich zorgen maakt over achtergebleven vlekken of beschadigingen. Het is een investering in rust en stijlvolle eenvoud. En omdat u kiest voor het Raved tafelzeil bent u verzekerd van kwaliteit en designkracht. Klanten waarderen het gemak en de look van afwasbare PVC-zeilen — hun positieve ervaringen zijn een vorm van sociale bewijskracht.</p> <h3>Call to Action</h3> <p>Wacht niet langer met het upgraden van uw tafel — kies vandaag nog voor dit stijlvolle en praktische tafelzeil van Raved en maak van iedere maaltijd een sfeervol moment. Voeg toe aan winkelwagen en geniet direct van een verzorgd en beschermd tafeloppervlak!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Bqgp0NxxzrlQ/KOloK1Y/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "PVC"
+      ],
+      "size": "140 cm x 140 cm",
+      "color": "Beige;Bruin",
+      "gtin13": "9504799855977",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.00",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "27.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 2,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Bqgp0NxxzrlQ/KOloK1Y/550x550.jpg",
+    "https://media.s-bol.com/xgG54nPPQlnz/KOloK1Y/550x475.jpg",
+    "https://media.s-bol.com/LEgDy7LXg12D/KOloK1Y/550x550.jpg",
+    "https://media.s-bol.com/Bqgp0NxKgpG2/KOloK1Y/550x550.jpg",
+    "https://media.s-bol.com/KDOBx10WO72G/KOloK1Y/550x178.jpg",
+    "https://media.s-bol.com/JBZAwyJVZK2K/KOloK1Y/550x550.jpg",
+    "https://media.s-bol.com/DvRrn1zMRrKA/KOloK1Y/550x550.jpg"
+  ]
+}

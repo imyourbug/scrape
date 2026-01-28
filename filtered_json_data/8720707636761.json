@@ -1,0 +1,52 @@
+{
+  "ean": "8720707636761",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000182004566",
+      "name": "Raved Placemats Alma - Set van 4 Stuks - Antraciet - Leatherlook - Kunststof - Ovaal - Eettafel - Onderlegger - Waterafstotend",
+      "productID": "9300000182004566",
+      "description": "<p>De <strong>Raved</strong> Alma Placemats is dé set onderleggers die jouw eettafel een luxe en moderne uitstraling geeft. Gemaakt van kunstleer in antraciet, stijlvol én praktisch in dagelijks gebruik.</p> <p><strong>Luxe leatherlook uitstraling</strong><br />Deze placemats hebben een elegante leatherlook die direct sfeer brengt aan tafel. De antraciet kleur past perfect in zowel klassieke als moderne interieurs. Een subtiele eyecatcher bij elke maaltijd.</p> <p><strong>Ovale vorm voor een unieke tafelsetting</strong><br />De ovale vorm doorbreekt het standaard patroon en geeft je eettafel een verfijnde, eigentijdse uitstraling. Perfect voor wie nét even iets anders wil dan de traditionele rechthoek.</p> <p><strong>Waterafstotend en eenvoudig schoon te maken</strong><br />Gemorst? Geen probleem. Dankzij het waterafstotende oppervlak veeg je alles makkelijk weg met een vochtige doek. Dat bespaart tijd en zorgt voor een altijd nette tafel.</p> <p><strong>Antislip en stevig materiaal</strong><br />Deze placemats blijven goed liggen tijdens het eten, zelfs bij kinderen of drukke tafels. Het kunstleer is slijtvast en bestand tegen dagelijks gebruik, zonder snel te beschadigen.</p> <p><strong>Set van 4 – perfect voor dagelijks gebruik</strong><br />Met vier stuks heb je een complete basisset voor ontbijt, lunch of diner. Ideaal voor kleinere huishoudens of als stijlvolle aanvulling bij een grotere set.</p> <p><strong>Wat zit er in de doos?</strong><br />• 4 ovale placemats<br />• Afmetingen per stuk: 45 x 30 cm<br />• Kleur: antraciet<br />• Materiaal: kunstleer</p> <p><strong>Productspecificaties:</strong><br />• Merk: Raved<br />• Materiaal: Kunstleer<br />• Vorm: Ovaal<br />• Kleur: Antraciet<br />• Afmetingen: 45 x 30 cm<br />• Gewicht: 0.5 kg<br />• Aantal stuks: 4<br />• Waterafstotend: Ja<br />• Anti-slip: Ja<br />• Wasbaar: Nee (afnemen met vochtige doek)<br />• Patroon: Effen<br />• Ingeweven motief: Nee</p> <p><strong>Producttips:</strong><br />• Bewaar plat om vouwen te voorkomen<br />• Ideaal voor houten tafels ter bescherming tegen hitte<br />• Combineer met stoffen servetten voor extra luxe<br />• Reinig direct na gebruik voor langere levensduur</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/3xEBJ6N48B1M/v2jN01L/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Kunstleer"
+      ],
+      "size": "30 cm x 40 cm",
+      "color": "Antraciet 4",
+      "gtin13": "8720707636761",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "40",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "30",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "OutOfStock"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/3xEBJ6N48B1M/v2jN01L/550x550.jpg"
+  ]
+}

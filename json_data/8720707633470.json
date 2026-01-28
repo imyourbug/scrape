@@ -1,0 +1,98 @@
+{
+  "ean": "8720707633470",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000130596410",
+      "name": "Raved Tafelkleed – 140 cm x 200 cm – Roest Bruin Polyester – Kreukvrij",
+      "productID": "9300000130596410",
+      "description": "<p>Breng direct <strong>stijl en gemak</strong> op je tafel met dit <strong>roestbruine tafelkleed</strong> van <strong>100% polyester</strong>, dat dankzij de <strong>kreukvrije finish</strong> moeiteloos binnen én buiten gebruikt kan worden – <strong>bescherm je tafel</strong> én creëer een gezellige sfeer in één stap.</p> <p>Maak van elke maaltijd een moment om van te genieten met het <strong>primair zoekwoord</strong> <strong>tafelkleed</strong> – dit stijlvolle model van het merk Raved in <strong>kleur roest bruin</strong>, gemaakt van <strong>100% polyester</strong>. Het combineert in één keer <strong>stijl, gemak en bescherming</strong> voor jouw tafel.</p> <h3>Sfeervolle sfeer – eenvoudig gerealiseerd</h3> <p>Met de warme roestbruine tint geef je je eetkamer, keuken of terras direct een uitnodigende uitstraling. Het effen design maakt het ideaal te combineren met jouw interieurstijl – of je nu kiest voor modern, industrieel of landelijk. Dankzij de ruime maat valt het kleed mooi over je tafel en oogt de setting direct verzorgd.</p> <h3>Materiaal & gebruiksgemak</h3> <p>Het materiaal – 100 % polyester – is bewust gekozen voor zijn sterke eigenschappen: het voelt zacht aan, is duurzaam en eenvoudig in onderhoud. Het kleed is <strong>kreukvrij</strong>, wat betekent dat je geen tijd hoeft te spenderen aan strijken: het blijft netjes liggen, zelfs na gebruik of opslag. Het is geschikt voor zowel binnen als buiten – perfect dus voor je eettafel binnen of je tuintafel op zonnige dagen. Let er wel op dat je het kleed bij regen invoert om verkleuring of verwering te voorkomen.</p> <h3>Bescherming & praktische voordelen</h3> <p>Dit tafelkleed biedt meer dan alleen een mooie look: het beschermt je tafel tegen knoeien, vlekken of zelfs lichte hitte van schotels en pannen. Daarmee haal je direct stress weg: je tafel is al gedekt en klaar voor gebruik. Na afloop neem je het eenvoudige af met een vochtige doek – ideaal voor gezinnen of als je regelmatig gasten hebt. </p> <h3>Voor wie?</h3> <p>Perfect voor: gezinnen met jonge kinderen die makkelijk willen kunnen schoonmaken; mensen die graag binnen én buiten eten; wie een stijlvolle tafelsetting wil zonder grote onderhoud. Stel je voor: een zonnige middag buiten met vrienden, zonder zorgen over vlekken of verschuivend kleed.</p> <h3>Waarom kiezen voor dit kleed?</h3> <ul> <li> <p><strong>Kleur & sfeer</strong>: roestbruin geeft warmte en is trendy.</p> </li> <li> <p><strong>Materiaal</strong>: 100% polyester – stijlvol én praktisch.</p> </li> <li> <p><strong>USP’s</strong>: kreukvrij – dus direct netjes, geschikt voor binnen en buiten – dus veelzijdig.</p> </li> <li> <p><strong>Merk</strong>: Raved staat voor kwaliteit, zoals in andere producten terugkomt.</p> </li> </ul> <h3>Call-to-action</h3> <p>Wacht niet met het in huis halen van dit veelzijdige tafelkleed. Kies voor gemak, stijl én bescherming – voeg vandaag nog het Raved roestbruine polyester tafelkleed toe aan je winkelwagen en transformeer jouw tafel in een stijlvolle en relaxte plek!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/Y8E0NjnGQ71n/pgWnnW6/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Polyester"
+      ],
+      "size": "140 cm x 200 cm",
+      "color": "roest bruin",
+      "gtin13": "8720707633470",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "200",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "140",
+        "unitText": "CMT"
+      },
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "0.50",
+        "unitText": "KGM"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "28.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/Y8E0NjnGQ71n/pgWnnW6/550x550.jpg",
+    "https://media.s-bol.com/g0J6Nl1Gj3pl/pgWnnW6/550x550.jpg",
+    "https://media.s-bol.com/JB6lxDWz4D0v/pgWnnW6/550x495.jpg",
+    "https://media.s-bol.com/m5ZGgLNy7PXp/pgWnnW6/550x550.jpg",
+    "https://media.s-bol.com/g0J6N3DYQyK9/pgWnnW6/550x550.jpg",
+    "https://media.s-bol.com/q1xDmvGzD0xr/pgWnnW6/550x178.jpg"
+  ]
+}

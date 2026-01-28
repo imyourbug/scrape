@@ -1,0 +1,90 @@
+{
+  "ean": "9508763899578",
+  "ld_json": [
+    {
+      "@type": "Product",
+      "@id": "https://www.bol.com/#9300000245925815",
+      "name": "Raved Badkamermat Set – 75×45 cm + 50×40 cm – Golven – Zwart – Antislip – Uitwasbaar – Waterabsorberend – 2-delig",
+      "productID": "9300000245925815",
+      "description": "<p>Geef je badkamer een veilige én stijlvolle upgrade met deze <strong>slim ontworpen badkamermat</strong>: <strong>antislip</strong> voor maximale grip, <strong>uitwasbaar</strong> voor eenvoudig onderhoud en <strong>waterabsorberend</strong> – zodat je vloer droog blijft en je met gerust hart op blote voeten stapt.</p> <p><strong>Badkamermat</strong> is een essentieel onderdeel van jouw badkamerervaring. Met de **Raved Badkamermat Golven – Donker Grijs – 75 x 45 cm – Antislip – Uitwasbaar – Waterabsorberend kies je voor comfort, veiligheid én stijl in één.</p> <h3>Veiligheid en comfort</h3> <p>Na een warme douche stap je op de mat – met natte voeten op glanzende tegels ligt uitglijden op de loer. Dankzij de <strong>antislip-onderkant</strong> blijft deze mat stevig op zijn plaats, voor een gerust gevoel bij gebruik door jezelf, je partner of kinderen. Geen angst meer voor onveilige start van de dag.</p> <h3>Stijlvol design in donker grijs</h3> <p>Donker grijs is neutraal, chic én tijdloos. Het golvende patroon geeft subtiele textuur en zorgt ervoor dat de mat perfect past bij een moderne badkamerinrichting – van strak wit tot industriële tegelvloer. Zo geef je je badkamer een verzorgde uitstraling zonder teveel op te vallen.</p> <h3>Praktisch & onderhoudsvriendelijk</h3> <p>De maat 75 x 45 cm is optimaal voor langs het bad of onder de douche – ruim genoeg om comfortabel op te stappen, zonder te veel ruimte in te nemen. De mat is <strong>uitwasbaar</strong>, wat betekent dat je hem eenvoudig in de wasmachine kunt reinigen. Zodoende blijft hij fris, hygiënisch en klaar voor dagelijks gebruik.</p> <h3>Vochtcontrole en hygiëne</h3> <p>De toplaag is ontworpen om snel vocht op te nemen – dat betekent minder plasvorming op de vloer, minder kalkplekken, en een drogere omgeving die minder uitnodigt tot schimmelvorming. Dankzij deze <strong>waterabsorberende</strong> eigenschap behoudt je omgeving zijn hygiëne en frisheid.</p> <h3>Ideaal voor elk huishouden</h3> <p>Of je nu een druk gezin hebt, vaak gasten ontvangt of gewoon waarde hecht aan een nette en veilige badkamer: deze badkamermat is een slimme keuze. Geen compromis tussen stijl en functie: je krijgt beide. Wanneer je direct upgrade, ervaar je het verschil meteen – en voorkom je ongemak later.</p> <h3>Technische kenmerken in vogelvlucht</h3> <ul> <li> <p>Merk: Raved</p> </li> <li> <p>Maat: 75 x 45 cm</p> </li> <li> <p>Kleur: Zwart</p> </li> <li> <p>Patroon: Golven</p> </li> <li> <p>Eigenschappen: Antislip, Uitwasbaar, Waterabsorberend</p> </li> </ul> <p>Maak jouw badkamer vandaag weer van jou. Voeg deze Raved badkamermat toe aan je winkelwagen en stap morgen op een droge, veilige en stijlvolle manier uit de douche.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/q1jmj69KzqEk/Rgvm0mO/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "material": [
+        "Polyurethaan"
+      ],
+      "size": "40 cm x 75 cm",
+      "color": "Zwart",
+      "gtin13": "9508763899578",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": "75",
+        "unitText": "CMT"
+      },
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": "40",
+        "unitText": "CMT"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Raved",
+        "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "28.95",
+        "priceCurrency": "EUR",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Raved Fabrics"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": [
+              "NL"
+            ]
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0.0,
+            "currency": "EUR"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 4,
+              "maxValue": 5,
+              "unitCode": "DAY"
+            }
+          },
+          "@id": "#shipping_policy"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "applicableCountry": [
+            "NL"
+          ],
+          "merchantReturnDays": 30,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@id": "#return_policy"
+        }
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/q1jmj69KzqEk/Rgvm0mO/550x550.jpg",
+    "https://media.s-bol.com/r10n0B6zD7Zp/Rgvm0mO/550x396.jpg",
+    "https://media.s-bol.com/q1jmj69yB8Rp/Rgvm0mO/550x550.jpg"
+  ]
+}

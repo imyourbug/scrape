@@ -1,0 +1,990 @@
+{
+  "ean": "9501435821761",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000175765180",
+      "name": "Raved Tafelzeil Lente Bloemen 140 140 - Grijs - PVC - Afwasbaar",
+      "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/m5ZNNMD5vl2O/Q1rXYjq/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000175765180",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236857",
+          "name": "Raved Tafelzeil - 140 cm x 100 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-100-cm-grijs-pvc-afwasbaar/9300000126236857/",
+          "productID": "9300000126236857",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/R0ODG02NGMWE/QD8XkG/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9504297346113",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "25.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236863",
+          "name": "Raved Tafelzeil - 140 cm x 50 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-50-cm-grijs-pvc-afwasbaar/9300000126236863/",
+          "productID": "9300000126236863",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/NJkWXZXzR4j8/k5WgGBY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9509548943950",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "23.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236866",
+          "name": "Raved Tafelzeil - 140 cm x 180 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-180-cm-grijs-pvc-afwasbaar/9300000126236866/",
+          "productID": "9300000126236866",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YnWNPRyvx8Pn/nv9l8E/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9505964144636",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236867",
+          "name": "Raved Tafelzeil - 140 cm x 140 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-140-cm-grijs-pvc-afwasbaar/9300000126236867/",
+          "productID": "9300000126236867",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/J2yrwRNDqDEP/lq9kL7/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9507795712923",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "26.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236872",
+          "name": "Raved Tafelzeil - 140 cm x 160 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-160-cm-grijs-pvc-afwasbaar/9300000126236872/",
+          "productID": "9300000126236872",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/D21lnARoXnQB/pxjVVy/1200x1019.jpg",
+            "width": 1200,
+            "height": 1019
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9509189424245",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "27.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236874",
+          "name": "Raved Tafelzeil - 140 cm x 200 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-200-cm-grijs-pvc-afwasbaar/9300000126236874/",
+          "productID": "9300000126236874",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/v12LL9nA0VXX/lOW0JMl/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9505989834437",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "28.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236877",
+          "name": "Raved Tafelzeil - 140 cm x 220 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-220-cm-grijs-pvc-afwasbaar/9300000126236877/",
+          "productID": "9300000126236877",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/o12XX63zJ2Kz/j2WBEOz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9504825688937",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "29.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236878",
+          "name": "Raved Tafelzeil - 140 cm x 230 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-230-cm-grijs-pvc-afwasbaar/9300000126236878/",
+          "productID": "9300000126236878",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/3N1VVKMrPJLO/k5WgGDY/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9501429191412",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236879",
+          "name": "Raved Tafelzeil - 140 cm x 300 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-300-cm-grijs-pvc-afwasbaar/9300000126236879/",
+          "productID": "9300000126236879",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JMMQRoXJK9/MjnXRQ5/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9506417368692",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "34.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236881",
+          "name": "Raved Tafelzeil - 140 cm x 280 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-280-cm-grijs-pvc-afwasbaar/9300000126236881/",
+          "productID": "9300000126236881",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNNM142Dw9/j2WBE5z/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9505745544686",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "32.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236882",
+          "name": "Raved Tafelzeil - 140 cm x 290 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-290-cm-grijs-pvc-afwasbaar/9300000126236882/",
+          "productID": "9300000126236882",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNNMD5vl2O/Q1rXYjq/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9501435821761",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "33.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": [
+                  "NL"
+                ]
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.0,
+                "currency": "EUR"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              },
+              "@id": "#shipping_policy"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "applicableCountry": [
+                "NL"
+              ],
+              "merchantReturnDays": 30,
+              "returnFees": "https://schema.org/FreeReturn",
+              "@id": "#return_policy"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236883",
+          "name": "Raved Tafelzeil - 140 cm x 240 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-240-cm-grijs-pvc-afwasbaar/9300000126236883/",
+          "productID": "9300000126236883",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9508625189540",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236884",
+          "name": "Raved Tafelzeil - 140 cm x 260 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-260-cm-grijs-pvc-afwasbaar/9300000126236884/",
+          "productID": "9300000126236884",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/j1R66OXGmmrW/GZNALzQ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9504399496822",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236886",
+          "name": "Raved Tafelzeil - 140 cm x 270 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-270-cm-grijs-pvc-afwasbaar/9300000126236886/",
+          "productID": "9300000126236886",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqB99RwjVLXX/1jkMgV3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9501662467466",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "31.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236887",
+          "name": "Raved Tafelzeil - 140 cm x 250 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-250-cm-grijs-pvc-afwasbaar/9300000126236887/",
+          "productID": "9300000126236887",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjP22JVLX3En/vg6wWLL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9502945487522",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "30.95",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236894",
+          "name": "Raved Tafelzeil - 140 cm x 320 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-320-cm-grijs-pvc-afwasbaar/9300000126236894/",
+          "productID": "9300000126236894",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/g0JMMQR4xzv9/qjWoOA3/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9502658935990",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "36.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236896",
+          "name": "Raved Tafelzeil - 140 cm x 350 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-350-cm-grijs-pvc-afwasbaar/9300000126236896/",
+          "productID": "9300000126236896",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/VROnn0wKK2m1/r0WpPMw/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9503467861227",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "37.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000126236900",
+          "name": "Raved Tafelzeil - 140 cm x 310 cm Lente Bloemen Grijs - PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-lente-bloemen-140-cm-x-310-cm-grijs-pvc-afwasbaar/9300000126236900/",
+          "productID": "9300000126236900",
+          "description": "<p>Maak je eettafel direct sfeervol én praktisch met dit <strong>afwasbare PVC-­tafelzeil</strong> van Raved met een stijlvol <strong>bloemenmotief op grijze ondergrond</strong>, dat je tafel beschermt tegen vlekken, knoeien en slijtage. Perfect voor zowel <strong>binnen als buiten</strong>.</p> <p>Breng een frisse lentevibe naar je tafel met dit <strong>T</strong><strong>afelzeil “Lente Bloemen” van Raved</strong> — ideaal voor wie stijl én gemak wil combineren. Het <strong>primair zoekwoord tafelzeil”</strong> wordt direct zichtbaar in de eerste alinea, samen met de belangrijkste eigenschappen.<br />Dit tafelzeil is vervaardigd uit <strong>duurzaam PVC-materiaal</strong>, waardoor het eenvoudig te reinigen is en bestand tegen knutselende kinderen, spontane buitenmaaltijden of gezellige diners met vrienden. De <strong>kleur grijs met wit bloemenpatroon</strong> geeft een moderne en frisse uitstraling die moeiteloos past bij allerlei interieur- of tuinstijlen.</p> <h3>Voordelen in één oogopslag</h3> <ul> <li> <p><strong>Bescherming & gemak</strong>: door het gladde PVC kun je direct eten of drinken serveren zonder bang te zijn voor vlekken of beschadigingen.</p> </li> <li> <p><strong>Flexibel gebruik</strong>: geschikt voor gebruik <strong>binnen én buiten</strong>, waardoor je tafel het hele jaar door verzorgd oogt. </p> </li> <li> <p><strong>Stijlvol design</strong>: het bloemenmotief op de grijze ondergrond zorgt voor een frisse, natuurlijke sfeer die zowel in de keuken als op het terras werkt.</p> </li> </ul> <h3>Specificaties & kwaliteit</h3> <ul> <li> <p>Materiaal: <strong>PVC / plastic</strong> – stevig, praktisch én afwasbaar. Kleur: grijze ondergrond met een wit bloemenpatroon – subtiel en elegant. </p> </li> <li> <p>Merk: Raved – specialist in tafelkleden/tafelzeilen met oog voor design en gebruiksgemak. </p> </li> <li> <p>Geschikt voor: dagelijks gebruik, gezinsmaaltijden, buitenmaaltijden, knutselmomenten, feestmomenten – kortom: jouw tafel kan alles aan.</p> </li> </ul> <h3>Waarom kiezen voor dit tafelzeil?</h3> <p>Stel je voor: je hebt net een prachtig gedekte tafel, de kinderen eten buiten, vrienden schuiven aan voor een borrel – en jij hoeft je geen zorgen te maken over vlekken of krassen. Dit tafelzeil geeft je die rust én stijl. Veel tafelkleden zien er mooi uit, maar dit exemplaar maakt het écht makkelijk – schoonmaken is zo gedaan.<br /><strong>Sociale bewijskracht</strong>: veel gebruikers waarderen hoe moeiteloos het onderhoud is en hoe het design direct de sfeer verhoogt.<br /><strong>Verliesaversie-trigger</strong>: Een tafel zonder goede bescherming loopt risico op blijvende vlekken of beschadiging – kies nu voor zekerheid.<br /><strong>Urgentie</strong>: Met het juiste zeil zorg je dat het nieuwe seizoen vliegend van start gaat en de tafel meteen uitnodigend is.</p> <h3>Onderhoud & gebruikstips</h3> <ul> <li> <p>Veeg het tafelzeil af met een vochtige doek – geen gedoe met speciale schoonmaakmiddelen.</p> </li> <li> <p>Gebruik het buiten? Haal het bij aanhoudende regen naar binnen om verkleuring of verwering te voorkomen. </p> </li> <li> <p>Combineer met placemats of dienbladen voor extra bescherming én stijl.</p> </li> </ul> <p><strong>Conclusie:</strong> Kies dit tafelzeil van Raved voor een combinatie van stijl, gemak en duurzaamheid. Breng frisheid in huis of tuin met het bloemenmotief, en ervaar hoe eenvoudig het wordt om je tafel er verzorgd uit te laten zien.<br /><strong>Bestel vandaag nog</strong> en geef je tafel de bescherming én uitstraling die het verdient.</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZNNM1xXQjr/AnErBW1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9504378853769",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "2",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "35.99",
+            "priceCurrency": "EUR",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Raved Fabrics"
+            }
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "23.95",
+        "highPrice": "37.99",
+        "offerCount": "18"
+      },
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/m5ZNNMD5vl2O/Q1rXYjq/550x550.jpg",
+    "https://media.s-bol.com/q1xLLMK3JVB2/Q1rXYjq/550x550.jpg",
+    "https://media.s-bol.com/p1YLLXJ1yrR2/Q1rXYjq/550x448.jpg",
+    "https://media.s-bol.com/n1566NE1wnYR/Q1rXYjq/550x550.jpg",
+    "https://media.s-bol.com/yArQ4j10GMPn/nYnoP4/550x550.jpg",
+    "https://media.s-bol.com/xgkLL7RK13DB/Q1rXYjq/550x550.jpg",
+    "https://media.s-bol.com/g0JMMQw0lJMk/Q1rXYjq/550x178.jpg"
+  ]
+}

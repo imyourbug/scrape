@@ -1,0 +1,817 @@
+{
+  "ean": "9506794732741",
+  "ld_json": [
+    {
+      "@type": "ProductGroup",
+      "@id": "https://www.bol.com/#9300000154384489",
+      "name": "Raved Tafelzeil Barok 140 140 - Goud - PVC - Afwasbaar",
+      "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://media.s-bol.com/1LwQvQq1m0Go/wj6xxoX/1200x1200.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "productGroupID": "9300000154384489",
+      "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+      ],
+      "material": [
+        "PVC"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029288",
+          "name": "Raved Tafelzeil – 140 cm x 240 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-240-cm-goud-pvc-afwasbaar/9300000179029288/",
+          "productID": "9300000179029288",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 240 cm",
+          "gtin13": "9501937115849",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "240",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029289",
+          "name": "Raved Tafelzeil – 140 cm x 230 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-230-cm-goud-pvc-afwasbaar/9300000179029289/",
+          "productID": "9300000179029289",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/EwRGVGQj67Ov/76qMMEB/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 230 cm",
+          "gtin13": "9501157253956",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "230",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029290",
+          "name": "Raved Tafelzeil – 140 cm x 280 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-280-cm-goud-pvc-afwasbaar/9300000179029290/",
+          "productID": "9300000179029290",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6wVwnjXG9V/48n22AJ/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 280 cm",
+          "gtin13": "9501583982413",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "280",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029291",
+          "name": "Raved Tafelzeil – 140 cm x 100 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-100-cm-goud-pvc-afwasbaar/9300000179029291/",
+          "productID": "9300000179029291",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/MG8oVoBpKz6A/k5WggYv/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 100 cm",
+          "gtin13": "9503447584221",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "100",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029292",
+          "name": "Raved Tafelzeil – 140 cm x 320 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-320-cm-goud-pvc-afwasbaar/9300000179029292/",
+          "productID": "9300000179029292",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/OKYq0q94RW1p/r0WppjL/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 320 cm",
+          "gtin13": "9501941522138",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "320",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029293",
+          "name": "Raved Tafelzeil – 140 cm x 160 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-160-cm-goud-pvc-afwasbaar/9300000179029293/",
+          "productID": "9300000179029293",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/m5ZG9G07pYPE/lOW00Z1/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 160 cm",
+          "gtin13": "9505159541172",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "160",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029294",
+          "name": "Raved Tafelzeil – 140 cm x 310 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-310-cm-goud-pvc-afwasbaar/9300000179029294/",
+          "productID": "9300000179029294",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yjPMvM560jq6/98vjjJz/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 310 cm",
+          "gtin13": "9505432648659",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "310",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029295",
+          "name": "Raved Tafelzeil – 140 cm x 50 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-50-cm-goud-pvc-afwasbaar/9300000179029295/",
+          "productID": "9300000179029295",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/7R3OBOykQ0O8/g5WyyRj/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 50 cm",
+          "gtin13": "9504511514526",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "50",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029296",
+          "name": "Raved Tafelzeil – 140 cm x 200 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-200-cm-goud-pvc-afwasbaar/9300000179029296/",
+          "productID": "9300000179029296",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/KDrmVmBzmRBl/mwWkk13/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 200 cm",
+          "gtin13": "9503889763581",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "200",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029297",
+          "name": "Raved Tafelzeil – 140 cm x 220 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-220-cm-goud-pvc-afwasbaar/9300000179029297/",
+          "productID": "9300000179029297",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/yy3GGrEnrk1W/BBPZyzk/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 220 cm",
+          "gtin13": "9503749574340",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "220",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029298",
+          "name": "Raved Tafelzeil – 140 cm x 260 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-260-cm-goud-pvc-afwasbaar/9300000179029298/",
+          "productID": "9300000179029298",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/qn30qKKJ8zoy/M8Jv60O/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 260 cm",
+          "gtin13": "9506169492829",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "260",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029299",
+          "name": "Raved Tafelzeil – 140 cm x 270 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-270-cm-goud-pvc-afwasbaar/9300000179029299/",
+          "productID": "9300000179029299",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/1LwQvQq1m0Go/wj6xxoX/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 270 cm",
+          "gtin13": "9506794732741",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "270",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029300",
+          "name": "Raved Tafelzeil – 140 cm x 180 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-180-cm-goud-pvc-afwasbaar/9300000179029300/",
+          "productID": "9300000179029300",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/JB6l9lAlQPvK/vg6wwnn/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 180 cm",
+          "gtin13": "9506553452767",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "180",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029301",
+          "name": "Raved Tafelzeil – 140 cm x 250 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-250-cm-goud-pvc-afwasbaar/9300000179029301/",
+          "productID": "9300000179029301",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/BqBQYQpRgo22/vg6wwW8/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 250 cm",
+          "gtin13": "9505866496789",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "250",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029302",
+          "name": "Raved Tafelzeil – 140 cm x 350 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-350-cm-goud-pvc-afwasbaar/9300000179029302/",
+          "productID": "9300000179029302",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/ODwnnyKGLm4E/ADMZxy3/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 350 cm",
+          "gtin13": "9508337942174",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "350",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029303",
+          "name": "Raved Tafelzeil – 140 cm x 300 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-300-cm-goud-pvc-afwasbaar/9300000179029303/",
+          "productID": "9300000179029303",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YmKAA6O2MRx9/v280kO0/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 300 cm",
+          "gtin13": "9509569922651",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "300",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029304",
+          "name": "Raved Tafelzeil – 140 cm x 290 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-290-cm-goud-pvc-afwasbaar/9300000179029304/",
+          "productID": "9300000179029304",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/YmKAAvGwgOkM/L9vrRNX/1200x590.jpg",
+            "width": 1200,
+            "height": 590
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 290 cm",
+          "gtin13": "9509212297945",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "290",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        },
+        {
+          "@type": "Product",
+          "@id": "https://www.bol.com/#9300000179029305",
+          "name": "Raved Tafelzeil – 140 cm x 140 cm – Barok Goud – PVC – Afwasbaar",
+          "url": "https://www.bol.com/nl/nl/p/raved-tafelzeil-barok-140-cm-x-140-cm-goud-pvc-afwasbaar/9300000179029305/",
+          "productID": "9300000179029305",
+          "description": "<p>Geef je interieur direct een <strong>luxe uitstraling</strong> met dit <strong>afwasbare PVC tafelzeil</strong> in stijlvolle barok print gold-kleur. Ideaal voor dagelijks gebruik én bijzondere momenten – <strong>duurzaam, stijlvol en eenvoudig schoon te maken</strong>.</p> <p>Breng elegantie en gemak samen op jouw tafel met dit <strong>tafelzeil Barok Goud</strong> van het merk <strong>Raved</strong>. Of je nu een gezellige familiebijeenkomst hebt, een ontspannen diner op het balkon of gewoon je eethoek wil opfrissen: met dit prachtige tafelzeil kies je voor <strong>stijl én functionaliteit</strong>.</p> <h3>Tijdloze uitstraling & hoogwaardige kwaliteit</h3> <p>Het design is geïnspireerd op klassieke barok-ornamenten en straalt luxueuze flair uit dankzij de goudkleurige achtergrond. Hierdoor transformeert je tafel direct in het hart van je interieur. Het materiaal van het tafelzeil is <strong>PVC</strong>, wat zorgt voor duurzame bescherming tegen dagelijkse slijtage, gemorste dranken of buitengebruik. Dankzij de afwasbare afwerking houd je alles eenvoudig schoon — een praktisch voordeel dat je continu terugziet.</p> <h3>Veelzijdig in gebruik</h3> <p>Of je nu binnen dineert of buiten op je terras zit: dit tafelzeil is geschikt voor beide. Dankzij de waterafstotende en afneembare eigenschappen is het ideaal voor gezinnen, vrienden of gezellige avonden. De breedte van 140 cm (maat invulbaar) maakt het geschikt voor de meeste standaardtafels.<br /><strong>Materiaal:</strong> PVC<br /><strong>Kleur/design:</strong> goud barok print<br /><strong>Merk:</strong> Raved<br /><strong>Belangrijkste USP’s:</strong> luxe uitstraling, afwasbaar, barok print.</p> <h3>Zorgeloos onderhoud & lange levensduur</h3> <p>Vergeet tafelkleed-stress: geniet van je moment, en veeg daarna moeiteloos de vlekken weg. Dankzij het PVC-oppervlak is schoonmaken eenvoudig — een vochtige doek is vaak al voldoende. Daardoor bespaar je tijd én blijft je tafel langdurig mooi. Dankzij het robuuste karakter van het materiaal kun je langer genieten van een frisse, stijlvolle tafelopstelling.</p> <h3>Waarom kiezen voor dit tafelzeil?</h3> <ul> <li> <p><strong>Verliesaversie:</strong> Voorkom dat vlekken of slijtage je tafelbeeld ruïneren – kies nu voor bescherming én stijl.</p> </li> <li> <p><strong>Sociale bewijskracht:</strong> Veel huishoudens kiezen voor luxe afwasbaar tafelzeil om dagelijks comfort met esthetiek te combineren.</p> </li> <li> <p><strong>Urgentie:</strong> Maak van je tafel direct een verhoging van sfeer — wacht niet tot je oude kleed doorgezakt of versleten is.</p> </li> </ul> <h3>Samenvatting en call-to-action</h3> <p>Met dit <strong>afwasbare PVC tafelzeil in goud barok stijl</strong> haal je direct een sfeerverbetering in huis, zonder in te leveren op onderhoudsgemak. Het combineert luxe, duurzaamheid en praktische inzet — perfect voor gezinnen, gasten of gewoon jezelf. Wacht niet langer en creëer vandaag nog die stijlvolle tafel waar je trots op kunt zijn. <strong>Bestel nu</strong> en geef je tafel die elegante upgrade!</p>",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.s-bol.com/RN6wJWlYA7pR/qjWooO7/1200x1200.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "material": [
+            "PVC"
+          ],
+          "size": "140 cm x 140 cm",
+          "gtin13": "9509783758654",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": "140",
+            "unitText": "CMT"
+          },
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "0.20",
+            "unitText": "KGM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Raved",
+            "url": "https://www.bol.com/nl/nl/pb/raved/604144108/"
+          },
+          "offers": {
+            "@type": "Offer",
+            "availability": "OutOfStock"
+          },
+          "@context": "https://schema.org/"
+        }
+      ],
+      "@context": "https://schema.org/"
+    }
+  ],
+  "subImages": [
+    "https://media.s-bol.com/1LwQvQq1m0Go/wj6xxoX/550x550.jpg"
+  ]
+}
